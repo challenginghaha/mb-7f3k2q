@@ -1,0 +1,342 @@
+{
+ "date": "2026-10-13",
+ "generated": "2026-10-13T07:44+09:00",
+ "boxes": [
+  {
+   "id": "realestate",
+   "title": "부동산",
+   "items": [
+    {
+     "id": "0afad2f9850a",
+     "title": "권오중 ‘전세계 15명 희귀병’ 아들, 놀라운 그림실력…아빠 에세이책 표지 그렸다[Oh!쎈 이슈]",
+     "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/13/GU3TAMDGGZRDONTCME2TSYJUGE/",
+     "source": "조선비즈",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-13T07:16+09:00",
+     "preview": "배우 권오중이 에세이책 출간 소식을 전하며 아들의 그림실력을 공개했다. 권오중은 지난 12일 자신의 SNS에 “‘나의 가장 깊은 어둠 속에서, 끝내 내 손을 놓지 않고 빛으로 이끌어 준 아내의 생일날. 부끄러운 나의 삶과 우리 가족의 기적을 담은 책이 세상에 나왔습니다”라며 “내가 삶의…",
+     "also": []
+    },
+    {
+     "id": "c1cffcfabe7c",
+     "title": "\"현금 20억 없어도 서울 아파트 주인 된다\"…30년 베테랑의 해법",
+     "link": "https://www.hankyung.com/article/2026101268501",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-13T07:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "897b4f49438f",
+     "title": "LH 매입임대, 10채 중 4채는 방 한 칸…55%가 50㎡ 이하",
+     "link": "https://www.yna.co.kr/view/AKR20261012161200003",
+     "source": "연합뉴스",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-13T06:31+09:00",
+     "preview": "(서울=연합뉴스) 오예진 기자 = 올해 한국토지주택공사(LH)가 매입해 임대한 주택 10채 중 약 4채는 방이 1개인 소형 주택으로 나타났다.",
+     "also": []
+    },
+    {
+     "id": "ffa1d3c46bc2",
+     "title": "'여보, 이 돈이면 강남 가겠네'…마포 새 아파트 가격에 '깜짝' [시장톡]",
+     "link": "https://www.hankyung.com/article/2026101251336",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-13T06:30+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "1bf0edd47b04",
+     "title": "[단독] 부동산 중개사고, 보상까지 600일… 받아도 신청액의 44.5%뿐",
+     "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/13/MFAF2CJ4TRDQDAVVNZIYNDGLBY/",
+     "source": "조선비즈",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-13T06:00+09:00",
+     "preview": "부동산 중개사고로 한국공인중개사협회에서 공제금을 받은 사건의 실제 지급액이 신청액의 44.5%에 그친 것으로 나타났다. 공제금을 받기까지는 소송 제기 등 청구 시점부터 평균 약 600일이 걸렸다. 공제한도를 넘는 손해에 대해 중개사가 실제 배상했는지도 협회는 파악하지 못하고 있어, 피해…",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "stocks",
+   "title": "주식",
+   "items": [
+    {
+     "id": "6b310e344d49",
+     "title": "Investors worry the bull market is getting old. But history shows it can continue to age gracefully.",
+     "link": "https://www.marketwatch.com/story/investors-worry-the-bull-market-is-getting-old-but-history-shows-it-can-continue-to-age-gracefully-0402e69c?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-13T07:27+09:00",
+     "preview": "Contrary to a widespread current worry among some on Wall Street, bull markets do not die of old age,",
+     "also": []
+    },
+    {
+     "id": "3ffd90362007",
+     "title": "中 \"D램 기술 진전\" 주장에 반도체주 약세…국제유가도 급등 [뉴욕증시 브리핑]",
+     "link": "https://www.hankyung.com/article/2026101375226",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-13T07:17+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "edd04db073d7",
+     "title": "BlackRock turns bullish on short-term bonds, closes US stock overweight",
+     "link": "https://www.investing.com/news/stock-market-news/blackrock-turns-bullish-on-shortterm-bonds-closes-us-stock-overweight-4945249",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-13T07:01+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "30beab6ecfbf",
+     "title": "삼성 믿고 샀더니 대박 났다…바닥 찍고 77% 급등한 주식",
+     "link": "https://www.hankyung.com/article/202610126833i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-13T07:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "6902e4535e34",
+     "title": "Brazilian stocks are breaking out as investors look for opportunities beyond tech",
+     "link": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-13T07:00+09:00",
+     "preview": "Brazil’s presidential election is powering optimism in the country’s stock market — and capturing the attention of investors wary of having too much exposure to…",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI 툴",
+   "items": [
+    {
+     "id": "c41789c5590e",
+     "title": "AI Is a Tool. Using It Well Takes Skill.",
+     "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+     "source": "Hacker News",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-13T06:40+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "80d24e118917",
+     "title": "Meta releases its first frontier model, Muse Wonder",
+     "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+     "source": "TechCrunch AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-13T02:56+09:00",
+     "preview": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchm…",
+     "also": []
+    },
+    {
+     "id": "f35a07389044",
+     "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+     "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+     "source": "The Verge AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-12T22:33+09:00",
+     "preview": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services…",
+     "also": []
+    },
+    {
+     "id": "376c32d19ba3",
+     "title": "Kudos 3.0",
+     "link": "https://www.producthunt.com/products/kudos-smart-wallet",
+     "source": "Product Hunt",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-12T10:58+09:00",
+     "preview": "The AI that finds money you're missing and gets it back Discussion | Link",
+     "also": []
+    },
+    {
+     "id": "5528ba1d9cba",
+     "title": "Quoting The New York Times",
+     "link": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+     "source": "Simon Willison",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-10T11:04+09:00",
+     "preview": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the inciden…",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "trend",
+   "title": "트렌드",
+   "items": [
+    {
+     "id": "1ffb55940faf",
+     "title": "OpenFatigue™ - 오픈은 새로운 폐쇄다",
+     "link": "https://news.hada.io/topic?id=35262",
+     "source": "GeekNews",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-13T07:32+09:00",
+     "preview": "OpenFatigue™ 는 ‘Open’을 내세우지만 실제 이용 권한은 제한하는 브랜드와 플랫폼에 대한 피로를 풍자하는 사이트임 라이선스 열람과 사용 권한 , 소스 공개와 스크린샷 공개를 대비하며 이름에 담긴 개방성과 실제 권리의 차이를 드러냄 모델...",
+     "also": []
+    },
+    {
+     "id": "d0b9f41e996d",
+     "title": "Google에서 9만 달러 포상금을 받은 원격 코드 실행 취약점을 발견한 과정",
+     "link": "https://news.hada.io/topic?id=35260",
+     "source": "GeekNews",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-13T06:38+09:00",
+     "preview": "Google의 공용 문서 플랫폼 DevSite 에서 Flask 세션 쿠키 안에 그 쿠키의 서명 키가 들어 있어, 로그인 없이 세션을 위조할 수 있는 취약점이 발견됨 쿠키에 담긴 OAuth client_secret 이 Flask SECRET_KEY 로도 사용됐...",
+     "also": []
+    },
+    {
+     "id": "6001ee7ed96b",
+     "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+     "link": "https://github.com/openai/codex/issues/48195",
+     "source": "Hacker News 인기글",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-13T03:29+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "8e8b602fc5f5",
+     "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+     "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+     "source": "TechCrunch",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-13T02:19+09:00",
+     "preview": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+     "also": []
+    },
+    {
+     "id": "9f4f46039e3d",
+     "title": "AI coding agents generate more code, but not more software",
+     "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+     "source": "Hacker News 인기글",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-13T02:14+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "fa08cc00ea9a",
+     "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+     "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+     "source": "TechCrunch",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-13T00:45+09:00",
+     "preview": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+     "also": []
+    },
+    {
+     "id": "2d01a1ff8eaf",
+     "title": "How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)",
+     "link": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
+     "source": "Lenny's Newsletter",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-12T21:03+09:00",
+     "preview": "Listen now | 🎙️Alex Cornell explains how Muse serves your mom and an engineer with the same interface, and demos a SkyMall-style catalog, golf recaps, and a blo…",
+     "also": [
+      {
+       "source": "Lenny's Newsletter",
+       "title": "🎙️ How I AI: How Meta designed Muse with Alex Cornell",
+       "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with"
+      }
+     ]
+    },
+    {
+     "id": "26595a023095",
+     "title": "Personal Day",
+     "link": "https://stratechery.com/2026/personal-day-4/",
+     "source": "Stratechery",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-12T19:00+09:00",
+     "preview": "Personal Day — No Update",
+     "also": []
+    },
+    {
+     "id": "0a454c0230c2",
+     "title": "The 4-Step Agentic Engineering Workflow I Use to Ship Real Apps | Micky Shimeles",
+     "link": "https://creatoreconomy.so/p/agentic-engineering-workflow-ras-mic",
+     "source": "Creator Economy",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-11T23:29+09:00",
+     "preview": "Watch now (47 mins) | Micky's 4-step agentic engineering workflow and the open-source skills that make AI agents prove their work",
+     "also": []
+    },
+    {
+     "id": "5eb3e1566997",
+     "title": "AI is solving math problems faster than humans can understand the solutions",
+     "link": "https://www.platformer.news/openai-math-breakthroughs-tao-reaction/",
+     "source": "Platformer",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-09T09:28+09:00",
+     "preview": "OpenAI’s math breakthroughs may trigger an identity crisis for mathematicians. Who’s next?",
+     "also": []
+    },
+    {
+     "id": "ccf355d6de5c",
+     "title": "The Pulse: Firebase’s global outage & poor response",
+     "link": "https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/",
+     "source": "Pragmatic Engineer",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-09T01:56+09:00",
+     "preview": "The Firebase iOS SDK crashed after a backend change, crashing all apps which used Firebase analytics for 2-6 hours. Google didn’t update the status page, but di…",
+     "also": []
+    },
+    {
+     "id": "82b7e8319051",
+     "title": "Weekly Dose of Optimism #213",
+     "link": "https://www.notboring.co/p/weekly-dose-of-optimism-213",
+     "source": "Not Boring",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-02T21:44+09:00",
+     "preview": "Starship Orbital, America.gov, Matic Master Plan, Freckle, Heart Age + Extra Doses",
+     "also": [
+      {
+       "source": "Not Boring",
+       "title": "Weekly Dose of Optimism #214",
+       "link": "https://www.notboring.co/p/weekly-dose-of-optimism-214"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "problems": [
+  "트렌드 / 요즘IT: HTTPError HTTP Error 405: Not Allowed"
+ ]
+}
