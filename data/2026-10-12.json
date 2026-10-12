@@ -1,0 +1,334 @@
+{
+ "date": "2026-10-12",
+ "generated": "2026-10-12T13:36+09:00",
+ "boxes": [
+  {
+   "id": "realestate",
+   "title": "부동산",
+   "items": [
+    {
+     "id": "1693a91d0488",
+     "title": "주택담보대출 더 조이자는 LH 사장에 여야 의원 질타… 여당 의원도 “할 말 아냐”",
+     "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/12/URGSWJ44DFHQDIABOJ67HHQH3Q/",
+     "source": "조선비즈",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-12T13:20+09:00",
+     "preview": "국회 국토교통위원회 국정감사에서 이성훈 한국토지주택공사(LH) 사장의 주택담보대출 강화 발언에 대한 질타가 나왔다. 이 사장은 지난 9월 30일 출입기자단과의 간담회에서 “주택 공급에는 시차가 생길 수밖에 없어서 지금은 대출 규제가 필요하지 않은가 생각한다”며 “과거와 비교해서도 규제가…",
+     "also": []
+    },
+    {
+     "id": "847d70f32130",
+     "title": "서울시, 소규모 재개발 속도 높인다…모아통합기획 도입",
+     "link": "https://www.hankyung.com/article/202610125896i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-12T12:27+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "2b536810ed6b",
+     "title": "이성훈 LH 사장 “임대주택 확대로 손실?… 대부분 보편형 임대, 영향 없어”",
+     "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/12/3LDAY3J5WBGFNECBHGTDABIRWY/",
+     "source": "조선비즈",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-12T12:01+09:00",
+     "preview": "이성훈 한국토지주택공사(LH) 사장이 12일 임대주택을 확대하는 정책으로 인해 LH의 손실이 가중될 것이라는 지적에 대해 “임대주택 물량이 늘어나지만 상당 부분은 보편형 임대”라며 “보편형 임대라서 재무 구조 개선에 도움이 되고 큰 영향이 없다”고 밝혔다. 이 사장은 이날 열린 국회 국…",
+     "also": []
+    },
+    {
+     "id": "d88264ad5820",
+     "title": "국세청 \"부동산 탈세 등 국감 2회 이상 지적사항 개선 조치\"",
+     "link": "https://www.yna.co.kr/view/AKR20261012056700002",
+     "source": "연합뉴스",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-12T12:00+09:00",
+     "preview": "(세종=연합뉴스) 이대희 기자 = 국세청은 불법 탈세 행위 엄단 요구 등 최근 5년간 국회 국정감사에서 반복 지적된 사항에 관해 실효적인 조치를...",
+     "also": []
+    },
+    {
+     "id": "3f616d158cfe",
+     "title": "한은 총재 \"선제 금리 인상으로 시간 벌어…궁극적 비용 축소\"",
+     "link": "https://www.yna.co.kr/view/AKR20261012082700002",
+     "source": "연합뉴스",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-12T11:35+09:00",
+     "preview": "(서울=연합뉴스) 한지훈 채새롬 기자 = 신현송 한국은행 총재는 12일 지난 7·8월 연속 기준금리 인상 효과와 관련, \"시간을 벌었다고 생각한...",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "stocks",
+   "title": "주식",
+   "items": [
+    {
+     "id": "96235c542222",
+     "title": "Why is Samsung Electronics stock sliding today?",
+     "link": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-sliding-today-93CH-4943063",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-12T13:18+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "4635a7e18ae4",
+     "title": "Why is SK Hynix stock sliding today?",
+     "link": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-4943062",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-12T13:18+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "60c7953e3dff",
+     "title": "한 달새 60% 오른 반도체 소부장 익절...1% 초고수가 '줍줍'한 종목은",
+     "link": "https://www.hankyung.com/article/202610124991i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-12T10:14+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "e46ca96af33a",
+     "title": "효성중공업, 3분기 실적 눈높이 하향에 6%대 약세",
+     "link": "https://www.hankyung.com/article/2026101255626",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-12T10:08+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "a9a5b96cb105",
+     "title": "Plenty is working against this market. Here's why I'm staying invested anyway",
+     "link": "https://www.cnbc.com/investingclub/2026/10/11/plenty-is-working-against-this-market-why-im-staying-invested-anyway.html",
+     "source": "CNBC",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-12T09:23+09:00",
+     "preview": "The fact is, I don't have a strong case for owning stocks at the moment.",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI 툴",
+   "items": [
+    {
+     "id": "2a599db62b35",
+     "title": "Will the HomeView be Apple’s first smart home success?",
+     "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+     "source": "TechCrunch AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-12T06:14+09:00",
+     "preview": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a lau…",
+     "also": []
+    },
+    {
+     "id": "44c65736f8dd",
+     "title": "The gap in shared understanding of LLM capability is widening",
+     "link": "https://twitter.com/karpathy/status/2109361546505966046",
+     "source": "Hacker News",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-12T05:20+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "7ec8afeed353",
+     "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+     "source": "The Verge AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-12T03:33+09:00",
+     "preview": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would…",
+     "also": []
+    },
+    {
+     "id": "f6161c15dfce",
+     "title": "Agibot",
+     "link": "https://www.producthunt.com/products/agibot",
+     "source": "Product Hunt",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-10T22:04+09:00",
+     "preview": "The always-on personal AI agent for your Mac. $0 forever Discussion | Link",
+     "also": []
+    },
+    {
+     "id": "5528ba1d9cba",
+     "title": "Quoting The New York Times",
+     "link": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+     "source": "Simon Willison",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-10T11:04+09:00",
+     "preview": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the inciden…",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "trend",
+   "title": "트렌드",
+   "items": [
+    {
+     "id": "7d06c0066f35",
+     "title": "AI 앱 Top 100, 사람들은 어떤 AI에 돈을 내고 있을까",
+     "link": "https://yozm.wishket.com/magazine/detail/3982",
+     "source": "요즘IT",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-12T13:36+09:00",
+     "preview": "AI를 쓰는 미국인은 절반에 가깝지만, ChatGPT·Gemini·클로드에 돈을 내는 사람은 4.5%뿐입니다. 미국 투자사 a16z가 처음 공개한 AI 앱 매출 순위로, 사람들이 실제로 어떤 AI에 돈을 내는지 짚었어요. 여기에 입력 가격이 소넷 5.5의 20분의 1인 작은 모델 Cla…",
+     "also": []
+    },
+    {
+     "id": "6da683ca09bb",
+     "title": "[FECONF 2026 미리보기] 10주년을 맞은 FECONF, 어떤 모습일까?",
+     "link": "https://yozm.wishket.com/magazine/detail/3981",
+     "source": "요즘IT",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-12T13:36+09:00",
+     "preview": "프론트엔드 개발자만을 위한 행사, FECONF가 오는 10월 24일 10주년을 맞습니다. \"느리지만 멈추지 않았던 10년\"이라는 소개처럼 한 우물을 파 온 컨퍼런스인데요. 요즘IT가 메인 세션과 라이트닝 토크를 합쳐 여섯 분의 발표자를 먼저 만나, 발표 주제는 물론 \"AI 시대에 개발자…",
+     "also": []
+    },
+    {
+     "id": "678cab7f3cb9",
+     "title": "홀로그래피는 그 후 어떻게 되었나? (2011)",
+     "link": "https://news.hada.io/topic?id=35222",
+     "source": "GeekNews",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-12T13:31+09:00",
+     "preview": "홀로그래피는 그 후 어떻게 되었나? (2011)",
+     "also": []
+    },
+    {
+     "id": "1a24ba621aea",
+     "title": "Google is illegaly cutting forest to build data centers",
+     "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+     "source": "Hacker News 인기글",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-12T07:33+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "5947d794c16d",
+     "title": "Passkeys are a trap",
+     "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+     "source": "Hacker News 인기글",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-12T06:59+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "46e54f4e03d8",
+     "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+     "link": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+     "source": "TechCrunch",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-12T05:51+09:00",
+     "preview": "What does this mean for a fall full of movies starring villainous tech CEOs?",
+     "also": []
+    },
+    {
+     "id": "0a454c0230c2",
+     "title": "The 4-Step Agentic Engineering Workflow I Use to Ship Real Apps | Micky Shimeles",
+     "link": "https://creatoreconomy.so/p/agentic-engineering-workflow-ras-mic",
+     "source": "Creator Economy",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-11T23:29+09:00",
+     "preview": "Watch now (47 mins) | Micky's 4-step agentic engineering workflow and the open-source skills that make AI agents prove their work",
+     "also": []
+    },
+    {
+     "id": "490ac16a59aa",
+     "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
+     "link": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
+     "source": "Lenny's Newsletter",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-11T21:31+09:00",
+     "preview": "Listen now (62 mins) | Josh Woodward of Google Labs on where great ideas come from, knowing when to kill them, and building for a world where what’s possible ch…",
+     "also": []
+    },
+    {
+     "id": "cc6ee2a19992",
+     "title": "2026.41: It’s Not You, It’s Me",
+     "link": "https://stratechery.com/2026/its-not-you-its-me/",
+     "source": "Stratechery",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-10T02:00+09:00",
+     "preview": "The best Stratechery content from the week of October 5, 2026, including drifting apart from Apple, Facebook complications, and the delightful absurdity of U.S.…",
+     "also": []
+    },
+    {
+     "id": "5eb3e1566997",
+     "title": "AI is solving math problems faster than humans can understand the solutions",
+     "link": "https://www.platformer.news/openai-math-breakthroughs-tao-reaction/",
+     "source": "Platformer",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-09T09:28+09:00",
+     "preview": "OpenAI’s math breakthroughs may trigger an identity crisis for mathematicians. Who’s next?",
+     "also": []
+    },
+    {
+     "id": "ccf355d6de5c",
+     "title": "The Pulse: Firebase’s global outage & poor response",
+     "link": "https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/",
+     "source": "Pragmatic Engineer",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-09T01:56+09:00",
+     "preview": "The Firebase iOS SDK crashed after a backend change, crashing all apps which used Firebase analytics for 2-6 hours. Google didn’t update the status page, but di…",
+     "also": []
+    },
+    {
+     "id": "82b7e8319051",
+     "title": "Weekly Dose of Optimism #213",
+     "link": "https://www.notboring.co/p/weekly-dose-of-optimism-213",
+     "source": "Not Boring",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-02T21:44+09:00",
+     "preview": "Starship Orbital, America.gov, Matic Master Plan, Freckle, Heart Age + Extra Doses",
+     "also": [
+      {
+       "source": "Not Boring",
+       "title": "Weekly Dose of Optimism #214",
+       "link": "https://www.notboring.co/p/weekly-dose-of-optimism-214"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "problems": []
+}

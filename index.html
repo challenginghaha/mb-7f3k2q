@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>아침 브리핑</title>
+<style>
+:root{--bg:#f6f4ef;--card:#fff;--ink:#26292e;--sub:#6b707a;--line:#e6e2d9;--accent:#3d6b5e;--accent-bg:#e8f0ec;--warn:#b5651d}
+@media (prefers-color-scheme:dark){:root{--bg:#1c1e21;--card:#26292d;--ink:#e8e8e6;--sub:#9aa0a8;--line:#363a40;--accent:#8fc5b3;--accent-bg:#2b3a35;--warn:#e0a060}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 "Pretendard","Noto Sans KR","Malgun Gothic",system-ui,sans-serif}
+header{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;padding:16px 20px 6px;max-width:1500px;margin:0 auto}
+h1{font-size:20px;margin:0}
+.bar{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+button,select{font:inherit;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:8px;padding:5px 10px;cursor:pointer}
+button:hover{border-color:var(--accent)}
+label{color:var(--sub);font-size:13px;cursor:pointer}
+main{display:grid;grid-template-columns:repeat(12,1fr);gap:14px;padding:10px 20px 20px;max-width:1500px;margin:0 auto}
+.box{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;min-width:0}
+.span4{grid-column:span 4}.span6{grid-column:span 6}.span3{grid-column:span 3}
+.box>h2{margin:0;padding:12px 16px;font-size:16px;display:flex;justify-content:space-between;cursor:pointer;user-select:none;border-bottom:1px solid var(--line)}
+.box>h2 small{color:var(--sub);font-weight:400}
+.box.collapsed>.body{display:none}
+.box.collapsed>h2{border-bottom:0}
+.body{padding:4px 16px 12px}
+.item{padding:11px 0;border-bottom:1px solid var(--line)}
+.item:last-child{border-bottom:0}
+.item.read .t{color:var(--sub)}
+.t{font-weight:600;color:var(--ink);text-decoration:none;display:block}
+.t:hover{color:var(--accent);text-decoration:underline}
+.meta{color:var(--sub);font-size:12.5px;margin:2px 0}
+.pv{color:var(--sub);font-size:13.5px;margin:3px 0 6px}
+.acts{display:flex;gap:6px;flex-wrap:wrap}
+.acts button,.acts a{font-size:12px;padding:2px 8px;border-radius:6px;border:1px solid var(--line);background:transparent;color:var(--sub);text-decoration:none}
+.acts .on{background:var(--accent-bg);color:var(--accent);border-color:var(--accent)}
+.also{margin:6px 0 0;padding:6px 10px;background:var(--bg);border-radius:8px;font-size:13px}
+.also a{color:var(--ink);display:block;padding:2px 0}
+.vid{color:var(--warn);font-size:12px;font-weight:600}
+.empty,.todo{color:var(--sub);padding:18px 0;text-align:center}
+#later{display:none;max-width:1500px;margin:0 auto;padding:0 20px}
+#later .in{background:var(--card);border:1px solid var(--accent);border-radius:14px;padding:4px 16px 12px}
+footer{max-width:1500px;margin:0 auto;padding:6px 20px 30px;color:var(--sub);font-size:13px;text-align:center}
+.problems{font-size:12px;margin-top:6px}
+/* 영어·일본어 학습 칸 */
+.studybox>.body{max-height:82vh;overflow:auto;padding:8px 12px 12px}
+.st-head{margin:2px 0 6px}
+.st-ctl{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:center;margin-bottom:8px}
+.st-ctl label{font-size:12.5px}
+.mini{font-size:12px;padding:2px 8px;border-radius:6px}
+.tipbox{flex-basis:100%;background:var(--accent-bg);border-radius:8px;padding:8px 10px;font-size:13px;color:var(--ink)}
+.st-tabs{display:flex;gap:4px;margin-bottom:6px;position:sticky;top:0;background:var(--card);padding:4px 0;z-index:1}
+.st-tabs button{flex:1;padding:5px 2px;font-size:13px}
+.st-tabs .on,.opt.right{background:var(--accent-bg);border-color:var(--accent);color:var(--accent)}
+.prog,.from{color:var(--sub);font-size:12.5px;margin:2px 0 4px}
+.si{padding:10px 0;border-bottom:1px solid var(--line)}
+.si:last-child{border-bottom:0}
+.si.known{opacity:.55}
+.si.unk{border-left:3px solid var(--warn);padding-left:8px}
+.si-top{display:flex;justify-content:space-between;gap:8px;align-items:flex-start}
+.si-t{font-size:17px;font-weight:600;line-height:2}
+.si-k{color:var(--ink);font-size:14px}
+.si-u,.si-r{color:var(--sub);font-size:13px;margin-top:2px}
+.tag{font-size:11px;border:1px solid var(--line);border-radius:5px;padding:0 5px;color:var(--sub)}
+.tag.warn{color:var(--warn);border-color:var(--warn)}
+.play{padding:1px 7px}
+.fm{margin-top:6px}
+.fb{background:var(--bg);border-radius:8px;padding:6px 10px;font-size:13px}
+.fb b{color:var(--accent);margin-right:4px}
+.fb .ok{color:var(--accent)}.fb .ng{color:var(--warn)}
+.rv{display:none;font-size:12px;padding:2px 8px}
+.mask .fm:not(.open) .fb{display:none}
+.mask .fm:not(.open) .rv{display:inline-block}
+.si-acts{display:flex;gap:6px;align-items:center;margin-top:6px;flex-wrap:wrap}
+.si-acts button{font-size:12px;padding:2px 8px}
+.si-acts .on{background:var(--accent-bg);border-color:var(--accent);color:var(--accent)}
+.nofuri rt{display:none}
+.big{margin-top:10px;padding:8px 16px;background:var(--accent);color:#fff;border-color:var(--accent)}
+.q-n{color:var(--sub);font-size:12.5px}
+.q-p{font-size:17px;font-weight:600;margin:6px 0;line-height:2}
+.opt{display:block;width:100%;text-align:left;margin:6px 0;padding:8px 10px;line-height:1.9}
+.opt.bad{border-color:var(--warn);color:var(--warn)}
+@media (max-width:900px){
+  .studybox>.body{max-height:none}
+  main{grid-template-columns:1fr;gap:10px;padding:8px 12px 16px}
+  .span4,.span6,.span3{grid-column:auto}
+  header{padding:12px}
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>☀️ 아침 브리핑 <small id="gen" style="font-weight:400;color:var(--sub);font-size:13px"></small></h1>
+  <div class="bar">
+    <button id="prev" title="이전 날짜">◀</button>
+    <select id="date"></select>
+    <button id="next" title="다음 날짜">▶</button>
+    <label><input type="checkbox" id="hideRead"> 읽은 글 숨기기</label>
+    <button id="laterBtn">★ 나중에 볼 글 <span id="laterCount">0</span></button>
+  </div>
+</header>
+<section id="later"><div class="in"><div id="laterList"></div></div></section>
+<main id="main"></main>
+<footer>
+  참고용 정보이며 투자 조언이 아닙니다.
+  <div class="problems" id="problems"></div>
+</footer>
+
+<script src="data/data.js" onerror="void 0"></script>
+<script src="study/english.js"></script>
+<script src="study/japanese.js"></script>
+<script src="study.js"></script>
+<script>
+const LAYOUT = [
+  {id:"realestate", cls:"span4"}, {id:"stocks", cls:"span4"}, {id:"ai", cls:"span4"},
+  {id:"trend", cls:"span6"}, {id:"english", cls:"span3"}, {id:"japanese", cls:"span3"}
+];
+const NAMES = {english:"영어", japanese:"일본어"};
+const B = window.BRIEFING || {dates:[], days:{}};
+
+function load(k, d){ try { const v = JSON.parse(localStorage.getItem(k)); return v == null ? d : v; } catch(e){ return d; } }
+function save(k, v){ try { localStorage.setItem(k, JSON.stringify(v)); } catch(e){} }
+let read = load("read", {}), later = load("later", {}), collapsed = load("collapsed", {});
+let hideRead = load("hideRead", false);
+function kstToday(){ return new Date(Date.now() + 9*3600*1000).toISOString().slice(0,10); }
+let current = B.dates[0];
+
+const esc = s => String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+function ago(iso){
+  const m = (Date.now() - new Date(iso).getTime()) / 60000;
+  if (m < 60) return Math.max(1, Math.round(m)) + "분 전";
+  if (m < 1440) return Math.round(m/60) + "시간 전";
+  return Math.round(m/1440) + "일 전";
+}
+const tr = u => "https://translate.google.com/translate?sl=auto&tl=ko&u=" + encodeURIComponent(u);
+
+function itemHtml(it){
+  const isRead = read[it.id], isLater = later[it.id];
+  const also = it.also && it.also.length;
+  return `<div class="item ${isRead ? "read" : ""}" data-id="${it.id}">
+    <a class="t" href="${esc(it.link)}" target="_blank" rel="noopener">${it.kind === "video" ? '<span class="vid">▶ 영상</span> ' : ""}${esc(it.title)}</a>
+    <div class="meta">${esc(it.source)} · ${ago(it.published)}</div>
+    ${it.preview ? `<div class="pv">${esc(it.preview)}</div>` : ""}
+    <div class="acts">
+      ${it.lang !== "ko" ? `<a href="${esc(tr(it.link))}" target="_blank" rel="noopener">한국어로 번역</a>` : ""}
+      <button data-act="later" class="${isLater ? "on" : ""}">${isLater ? "★ 저장됨" : "☆ 나중에"}</button>
+      <button data-act="read" class="${isRead ? "on" : ""}">${isRead ? "✓ 읽음" : "읽음 표시"}</button>
+      ${also ? `<button data-act="also">외 ${it.also.length}건</button>` : ""}
+    </div>
+    ${also ? `<div class="also" hidden>${it.also.map(a => `<a href="${esc(a.link)}" target="_blank" rel="noopener"><b>${esc(a.source)}</b> · ${esc(a.title)}</a>`).join("")}</div>` : ""}
+  </div>`;
+}
+
+function render(){
+  const day = B.days[current];
+  const main = document.getElementById("main");
+  main.innerHTML = "";
+  LAYOUT.forEach(l => {
+    if (l.id === "english" || l.id === "japanese") {
+      const lang = l.id === "english" ? "en" : "ja";
+      const sb = document.createElement("section");
+      sb.className = `box studybox ${l.cls}` + (collapsed[l.id] ? " collapsed" : "");
+      sb.dataset.box = l.id;
+      sb.innerHTML = `<h2><span>${NAMES[l.id]}</span><small>▾</small></h2><div class="body"><div class="st"></div></div>`;
+      main.appendChild(sb);
+      Study.mount(sb.querySelector(".st"), lang, current || kstToday());
+      return;
+    }
+    const data = day && day.boxes.find(b => b.id === l.id);
+    const title = data ? data.title : NAMES[l.id] || l.id;
+    let items = data ? data.items : null;
+    let shown = items ? items.filter(i => !(hideRead && read[i.id])) : null;
+    let bodyHtml;
+    if (!items) bodyHtml = `<div class="todo">아직 수집된 자료가 없어요.<br>run.bat 을 실행해 주세요.</div>`;
+    else if (!shown.length) bodyHtml = `<div class="empty">${items.length ? "모두 읽었어요 👏" : "오늘 새 글이 없어요"}</div>`;
+    else bodyHtml = shown.map(itemHtml).join("");
+    const box = document.createElement("section");
+    box.className = `box ${l.cls}` + (collapsed[l.id] ? " collapsed" : "");
+    box.dataset.box = l.id;
+    box.innerHTML = `<h2><span>${esc(title)}</span><small>${items ? items.length + "개 ▾" : "▾"}</small></h2><div class="body">${bodyHtml}</div>`;
+    main.appendChild(box);
+  });
+  document.getElementById("gen").textContent = day ? "· " + current + " 수집" : "";
+  document.getElementById("problems").textContent =
+    day && day.problems && day.problems.length ? "가져오지 못한 곳: " + day.problems.map(p => p.split(":")[0]).join(", ") : "";
+  renderLater();
+}
+
+function renderLater(){
+  const list = Object.values(later);
+  document.getElementById("laterCount").textContent = list.length;
+  document.getElementById("laterList").innerHTML = list.length
+    ? list.map(itemHtml).join("") : `<div class="empty">저장한 글이 없어요.</div>`;
+}
+
+function onAction(e){
+  const btn = e.target.closest("button[data-act]");
+  const link = e.target.closest("a.t");
+  const itemEl = e.target.closest(".item");
+  if (!itemEl) return;
+  const id = itemEl.dataset.id;
+  const all = Object.values(B.days).flatMap(d => d.boxes.flatMap(b => b.items));
+  const it = all.find(i => i.id === id) || later[id];
+  if (link){ read[id] = 1; save("read", read); itemEl.classList.add("read"); return; }
+  if (!btn || !it) return;
+  const act = btn.dataset.act;
+  if (act === "also"){ const a = itemEl.querySelector(".also"); a.hidden = !a.hidden; return; }
+  if (act === "read"){ if (read[id]) delete read[id]; else read[id] = 1; save("read", read); }
+  if (act === "later"){ if (later[id]) delete later[id]; else later[id] = it; save("later", later); }
+  const y = window.scrollY; render(); window.scrollTo(0, y);
+}
+document.addEventListener("click", e => {
+  const h = e.target.closest(".box > h2");
+  if (h){ const b = h.parentElement; b.classList.toggle("collapsed"); collapsed[b.dataset.box] = b.classList.contains("collapsed"); save("collapsed", collapsed); return; }
+  onAction(e);
+});
+
+const sel = document.getElementById("date");
+sel.innerHTML = B.dates.map(d => `<option>${d}</option>`).join("");
+sel.onchange = () => { current = sel.value; render(); };
+function step(n){ const i = B.dates.indexOf(current) + n; if (B.dates[i]){ current = B.dates[i]; sel.value = current; render(); } }
+document.getElementById("prev").onclick = () => step(1);   // 날짜 목록은 최신순이라 +1 이 과거
+document.getElementById("next").onclick = () => step(-1);
+const hr = document.getElementById("hideRead"); hr.checked = hideRead;
+hr.onchange = () => { hideRead = hr.checked; save("hideRead", hideRead); render(); };
+document.getElementById("laterBtn").onclick = () => {
+  const s = document.getElementById("later"); s.style.display = s.style.display === "block" ? "none" : "block";
+};
+render();
+</script>
+</body>
+</html>

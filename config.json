@@ -1,0 +1,88 @@
+﻿{
+  "_설명": "이 파일 하나로 소스·키워드·개수를 바꿉니다. 소스를 지우려면 해당 { } 한 덩어리를 통째로 지우세요. 잠시 끄려면 \"enabled\": false 로 바꾸세요.",
+  "settings": {
+    "dedup_threshold": 0.7,
+    "_dedup_설명": "두 기사 제목의 핵심 단어가 이 비율(0.7=70%) 이상 겹치면 같은 사건으로 묶습니다.",
+    "preview_chars": 160,
+    "keep_days": 60
+  },
+  "boxes": [
+    {
+      "id": "realestate",
+      "title": "부동산",
+      "limit": 5,
+      "max_age_days": 3,
+      "per_source_max": 3,
+      "quotas": { "kr": 5 },
+      "keywords": ["부동산", "청약", "분양", "아파트", "전세", "월세", "주택", "집값", "재건축", "재개발", "주담대", "주택담보대출", "기준금리", "공시가", "임대", "DSR", "LTV"],
+      "sources": [
+        { "name": "한국경제", "url": "https://www.hankyung.com/feed/realestate", "group": "kr", "lang": "ko" },
+        { "name": "연합뉴스", "url": "https://www.yna.co.kr/rss/economy.xml", "group": "kr", "lang": "ko", "filter": true },
+        { "name": "조선비즈", "url": "https://biz.chosun.com/arc/outboundfeeds/rss/?outputType=xml", "group": "kr", "lang": "ko", "filter": true }
+      ]
+    },
+    {
+      "id": "stocks",
+      "title": "주식",
+      "limit": 5,
+      "max_age_days": 3,
+      "per_source_max": 2,
+      "quotas": { "kr": 3, "global": 2 },
+      "keywords": ["증시", "코스피", "코스닥", "주가", "주식", "실적", "나스닥", "S&P", "다우", "환율", "공매도", "배당", "상장", "IPO", "반도체", "연준", "금리 인하", "stock", "stocks", "shares", "earnings", "Nasdaq", "Dow", "S&P 500", "Wall Street", "Fed", "rate cut", "market", "markets", "investors", "IPO", "dividend", "revenue"],
+      "sources": [
+        { "name": "한국경제", "url": "https://www.hankyung.com/feed/finance", "group": "kr", "lang": "ko", "filter": true },
+        { "name": "CNBC", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html", "group": "global", "lang": "en", "filter": true },
+        { "name": "MarketWatch", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories", "group": "global", "lang": "en", "filter": true },
+        { "name": "Investing.com", "url": "https://www.investing.com/rss/news.rss", "group": "global", "lang": "en", "filter": true }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI 툴",
+      "limit": 5,
+      "max_age_days": 7,
+      "per_source_max": 1,
+      "quotas": { "global": 5 },
+      "keywords": ["AI", "GPT", "LLM", "OpenAI", "Anthropic", "Claude", "Gemini", "agent", "agents", "copilot", "chatbot", "machine learning", "diffusion", "Cursor", "prompt", "MCP", "model"],
+      "sources": [
+        { "name": "OpenAI", "url": "https://openai.com/news/rss.xml", "group": "global", "lang": "en" },
+        { "name": "Google AI", "url": "https://blog.google/technology/ai/rss/", "group": "global", "lang": "en" },
+        { "name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml", "group": "global", "lang": "en" },
+        { "name": "Hacker News", "url": "https://hnrss.org/frontpage", "group": "global", "lang": "en", "filter": true },
+        { "name": "Product Hunt", "url": "https://www.producthunt.com/feed", "group": "global", "lang": "en", "filter": true },
+        { "name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "group": "global", "lang": "en" },
+        { "name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "group": "global", "lang": "en" },
+        { "name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/", "group": "global", "lang": "en", "filter": true }
+      ]
+    },
+    {
+      "id": "trend",
+      "title": "트렌드",
+      "limit": 12,
+      "max_age_days": 14,
+      "per_source_max": 2,
+      "quotas": { "global": 9, "kr": 3 },
+      "keywords": [],
+      "sources": [
+        { "name": "Lenny's Newsletter", "url": "https://www.lennysnewsletter.com/feed", "group": "global", "lang": "en" },
+        { "name": "Pragmatic Engineer", "url": "https://blog.pragmaticengineer.com/rss/", "group": "global", "lang": "en" },
+        { "name": "Stratechery", "url": "https://stratechery.com/feed/", "group": "global", "lang": "en" },
+        { "name": "Hacker News 인기글", "url": "https://hnrss.org/best", "group": "global", "lang": "en" },
+        { "name": "TechCrunch", "url": "https://techcrunch.com/feed/", "group": "global", "lang": "en" },
+        { "name": "Not Boring", "url": "https://www.notboring.co/feed", "group": "global", "lang": "en" },
+        { "name": "Platformer", "url": "https://www.platformer.news/rss/", "group": "global", "lang": "en" },
+        { "name": "Creator Economy", "url": "https://creatoreconomy.so/feed", "group": "global", "lang": "en" },
+        { "name": "YouTube · Y Combinator", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg", "group": "global", "lang": "en", "kind": "video", "enabled": false },
+        { "name": "YouTube · Lenny's Podcast", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6t1O76G0jYXOAoYCm153dA", "group": "global", "lang": "en", "kind": "video", "enabled": false },
+        { "name": "YouTube · Ali Abdaal", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoOae5nYA7VqaXzerajD0lg", "group": "global", "lang": "en", "kind": "video", "enabled": false },
+        { "name": "YouTube · Greg Isenberg", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw", "group": "global", "lang": "en", "kind": "video", "enabled": false },
+        { "name": "YouTube · Fireship", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA", "group": "global", "lang": "en", "kind": "video", "enabled": false },
+        { "name": "YouTube · Matt D'Avella", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ24N4O0bP7LGLBDvye7oCA", "group": "global", "lang": "en", "kind": "video", "enabled": false },
+        { "name": "YouTube · 슈카월드", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsJ6RuBiTVWRX156FVbeaGg", "group": "kr", "lang": "ko", "kind": "video", "enabled": false },
+        { "name": "요즘IT", "url": "https://yozm.wishket.com/magazine/feed/", "group": "kr", "lang": "ko" },
+        { "name": "GeekNews", "url": "https://news.hada.io/rss/news", "group": "kr", "lang": "ko" }
+      ]
+    }
+  ]
+}
+
