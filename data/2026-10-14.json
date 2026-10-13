@@ -1,0 +1,336 @@
+{
+ "date": "2026-10-14",
+ "generated": "2026-10-14T07:55+09:00",
+ "boxes": [
+  {
+   "id": "realestate",
+   "title": "부동산",
+   "items": [
+    {
+     "id": "bd4adde8187c",
+     "title": "\"7억대였는데 벌써 10억\"…수원 집값 뛰자 난리 난 동네 [주간이집]",
+     "link": "https://www.hankyung.com/article/2026101380846",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-14T06:30+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "93ae13bd4d0a",
+     "title": "LH 전세임대 소년소녀 가구 46% 장기 체납…독촉 내몰려",
+     "link": "https://www.yna.co.kr/view/AKR20261013173800003",
+     "source": "연합뉴스",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-14T06:01+09:00",
+     "preview": "(서울=연합뉴스) 오예진 기자 = 한국토지주택공사(LH) 전세임대에 사는 소년소녀 가장 절반 가까이가 월 임대료를 장기간 내지 못해 독촉장을 받...",
+     "also": []
+    },
+    {
+     "id": "ed593bffaf9b",
+     "title": "집값에 막힌 30대, 경매로 눈 돌렸다… 서울선 40·50대보다 많이 샀다",
+     "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/14/MHHILZHTLRDRXI4OMMC7RPL5OY/",
+     "source": "조선비즈",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-14T06:00+09:00",
+     "preview": "결혼을 앞둔 직장인 이모(39)씨는 최근 경매 공부를 시작했다. 이씨는 “지금 가진 돈으로 마음에 드는 아파트를 사기는 어려울 것 같아 경매를 공부하고 있다”며 “상대적으로 저렴한 가격에 내 집을 마련할 수 있다고 해 관심을 갖게 됐다”고 말했다. 서울 집합건물 임의경매 시장에서 30대…",
+     "also": []
+    },
+    {
+     "id": "9c78ef6b020c",
+     "title": "“미래를 도둑맞았다”…유럽 청년들 거리로 내몬 학교·집값·고물가",
+     "link": "https://biz.chosun.com/international/international_general/2026/10/14/VTABC7L45NHUJFJ377T4Z46TQE/",
+     "source": "조선비즈",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-14T02:07+09:00",
+     "preview": "학교 등 열악한 공공 서비스와 주택난, 고물가에 항의하는 청년층의 시위가 유럽 전역으로 번지고 있다. 교육과 주거 투자를 요구하는 목소리에서 출발했지만, 고령화와 재정 악화로 기존 복지 시스템을 유지하기 어려워진 유럽의 구조적 문제가 배경에 있다는 분석이 나온다. 프랑스에서는 지난달 한…",
+     "also": []
+    },
+    {
+     "id": "ebc196475278",
+     "title": "\"5억대에 새 집 줍줍할 기회\"…'애물단지' 아파트의 반전",
+     "link": "https://www.hankyung.com/article/2026101394771",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-13T18:09+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "stocks",
+   "title": "주식",
+   "items": [
+    {
+     "id": "01925118f1a0",
+     "title": "AJB Investment Fund II buys $35,619 in Jewett Cameron Trading Co shares",
+     "link": "https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-buys-35619-in-jewett-cameron-trading-co-shares-93CH-4947679",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-14T07:46+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "0df8f68f3b54",
+     "title": "Citi Trends VP of HR Katrina George sells $25,285 in stock",
+     "link": "https://www.investing.com/news/insider-trading-news/citi-trends-vp-of-hr-katrina-george-sells-25285-in-stock-93CH-4947678",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-14T07:45+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "08d3918f8bd3",
+     "title": "반도체 약세·은행 실적 혼조에 3대 지수 일제 하락 [뉴욕증시 브리핑]",
+     "link": "https://www.hankyung.com/article/2026101400786",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-14T07:16+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "7869e375f3f6",
+     "title": "\"고배당만 철썩 믿다간 낭패\"…전문가들 꼽은 알짜주",
+     "link": "https://www.hankyung.com/article/202610138999i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-14T07:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "58f8a36dfd3e",
+     "title": "Six Flags shares decline following deadly roller coaster incident",
+     "link": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
+     "source": "CNBC",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-14T06:18+09:00",
+     "preview": "One person died and several others were injured in an incident involving the Goliath roller coaster at Six Flags Over Georgia, according to reports.",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI 툴",
+   "items": [
+    {
+     "id": "8ffa5222f5cf",
+     "title": "Cerebras CEO pushes back on AI doomsday warnings",
+     "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+     "source": "TechCrunch AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-14T07:36+09:00",
+     "preview": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's f…",
+     "also": []
+    },
+    {
+     "id": "e8881f4e9b5e",
+     "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+     "source": "The Verge AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-14T06:48+09:00",
+     "preview": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ -…",
+     "also": []
+    },
+    {
+     "id": "e726edab0f92",
+     "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+     "link": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+     "source": "Hacker News",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-14T06:01+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "550c4c02e9ff",
+     "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+     "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+     "source": "Hugging Face",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-14T02:05+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "c1e94fc83136",
+     "title": "Gemini 4 Argon: Built to solve your hardest problems",
+     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+     "source": "Google AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-14T01:00+09:00",
+     "preview": "TBD",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "trend",
+   "title": "트렌드",
+   "items": [
+    {
+     "id": "3996143720cc",
+     "title": "Hacker News에 서비스를 소개했더니 AI 봇 트래픽이 밀려들었다",
+     "link": "https://news.hada.io/topic?id=35313",
+     "source": "GeekNews",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-14T06:41+09:00",
+     "preview": "맞춤형 피드 리더 sprinklz.io 를 Hacker News에 소개한 뒤 사이트가 심하게 느려졌으며, 실제 로그인 사용자는 소수인데도 높은 서버 부하가 며칠 동안 지속 엔드포인트별 요청 로그를 확인하자 대부분의 요청이 뉴스 조회 API를 호출하지 않았고 , 화면을 렌더링하...",
+     "also": []
+    },
+    {
+     "id": "5ecf9e199228",
+     "title": "Minions - 유휴 Mac의 GPU를 모아 머신러닝 추론 작업을 분산하는 Apple의 시스템",
+     "link": "https://news.hada.io/topic?id=35312",
+     "source": "GeekNews",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-14T06:38+09:00",
+     "preview": "여러 Mac의 유휴 Apple Silicon GPU로 대규모 머신러닝 추론 작업을 나눠 처리 하는 Apple 연구진의 분산 시스템 기존 하드웨어를 활용해 GPU 추가 구매 부담을 줄이고, 자원이 부족한 중앙 GPU 인프라를 보완 Hugging Face 모델의 임베딩 생성과 Ollama…",
+     "also": []
+    },
+    {
+     "id": "6bdbe72aeb92",
+     "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
+     "link": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
+     "source": "TechCrunch",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-14T06:15+09:00",
+     "preview": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
+     "also": []
+    },
+    {
+     "id": "ef2fc60aa90b",
+     "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+     "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+     "source": "TechCrunch",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-14T05:59+09:00",
+     "preview": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications abou…",
+     "also": []
+    },
+    {
+     "id": "11ff46a9a047",
+     "title": "Gemini 4 Argon",
+     "link": "https://deepmind.google/models/gemini/",
+     "source": "Hacker News 인기글",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-14T01:03+09:00",
+     "preview": "",
+     "also": [
+      {
+       "source": "GeekNews",
+       "title": "Google, Gemini 4 Argon 정식 출시 - 긴 추론과 대규모 코드 작업 지원",
+       "link": "https://news.hada.io/topic?id=35306"
+      }
+     ]
+    },
+    {
+     "id": "8c17f1f1ac30",
+     "title": "Redesigning source control at Anthropic",
+     "link": "https://www.anthropic.com/engineering/redesigning-source-control",
+     "source": "Hacker News 인기글",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-14T00:49+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "ee47aa481905",
+     "title": "How to tell if a startup has a moat",
+     "link": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
+     "source": "Lenny's Newsletter",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-13T21:45+09:00",
+     "preview": "A framework for assessing whether the company you’re considering joining is built to last",
+     "also": []
+    },
+    {
+     "id": "a797d88f7cdd",
+     "title": "Runway: Learning From Watching the World",
+     "link": "https://www.notboring.co/p/runway-learning-from-watching-the",
+     "source": "Not Boring",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-13T21:45+09:00",
+     "preview": "A Co-Written Essay with Runway Co-CEO Anastasis Germanidis",
+     "also": []
+    },
+    {
+     "id": "d4b3639bdc65",
+     "title": "SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular",
+     "link": "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/",
+     "source": "Stratechery",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-13T19:00+09:00",
+     "preview": "SpaceX's mobile strategy is becoming clearly with its latest spectrum purchase, and it might work.",
+     "also": []
+    },
+    {
+     "id": "0a454c0230c2",
+     "title": "The 4-Step Agentic Engineering Workflow I Use to Ship Real Apps | Micky Shimeles",
+     "link": "https://creatoreconomy.so/p/agentic-engineering-workflow-ras-mic",
+     "source": "Creator Economy",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-11T23:29+09:00",
+     "preview": "Watch now (47 mins) | Micky's 4-step agentic engineering workflow and the open-source skills that make AI agents prove their work",
+     "also": []
+    },
+    {
+     "id": "5eb3e1566997",
+     "title": "AI is solving math problems faster than humans can understand the solutions",
+     "link": "https://www.platformer.news/openai-math-breakthroughs-tao-reaction/",
+     "source": "Platformer",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-09T09:28+09:00",
+     "preview": "OpenAI’s math breakthroughs may trigger an identity crisis for mathematicians. Who’s next?",
+     "also": []
+    },
+    {
+     "id": "ccf355d6de5c",
+     "title": "The Pulse: Firebase’s global outage & poor response",
+     "link": "https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/",
+     "source": "Pragmatic Engineer",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-09T01:56+09:00",
+     "preview": "The Firebase iOS SDK crashed after a backend change, crashing all apps which used Firebase analytics for 2-6 hours. Google didn’t update the status page, but di…",
+     "also": []
+    }
+   ]
+  }
+ ],
+ "problems": [
+  "트렌드 / 요즘IT: HTTPError HTTP Error 405: Not Allowed"
+ ]
+}
