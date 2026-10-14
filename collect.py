@@ -240,6 +240,16 @@ def translate_items(boxes):
     print(f"번역: 제목 {sum('title_ko' in i for i in items)}/{len(items)}, 미리보기 {sum('preview_ko' in i for i in items)}")
 
 
+def strip_outlet(title):
+    """구글 뉴스 제목 끝의 ' - 언론사' 를 떼어 낸다."""
+    for _ in range(3):
+        n = re.sub(r"\s+-\s+[^-]{1,20}$", "", title)
+        if n == title:
+            break
+        title = n
+    return title
+
+
 def summarize(item):
     """나중에 AI 요약을 붙일 자리. 지금은 아무것도 하지 않습니다."""
     return item
@@ -265,6 +275,10 @@ def main():
                 problems.append(f'{box["title"]} / {src["name"]}: {type(e).__name__} {str(e)[:60]}')
                 print("  [실패]", box["title"], src["name"], type(e).__name__)
                 continue
+            if src.get("google_news"):
+                for it in feed:
+                    it["title"] = strip_outlet(it["title"])
+                    it["preview"] = ""  # 구글 뉴스 설명은 제목 반복이라 비움
             n = 0
             for it in feed:
                 pub = it["published"] or now

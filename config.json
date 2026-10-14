@@ -10,16 +10,99 @@
     {
       "id": "realestate",
       "title": "부동산",
-      "limit": 5,
+      "limit": 8,
       "max_age_days": 3,
-      "per_source_max": 3,
-      "quotas": { "kr": 5 },
-      "keywords": ["부동산", "청약", "분양", "아파트", "전세", "월세", "주택", "집값", "재건축", "재개발", "주담대", "주택담보대출", "기준금리", "공시가", "임대", "DSR", "LTV"],
+      "per_source_max": 1,
+      "quotas": {
+        "kr": 8
+      },
+      "keywords": [
+        "부동산",
+        "청약",
+        "분양",
+        "아파트",
+        "전세",
+        "월세",
+        "주택",
+        "집값",
+        "재건축",
+        "재개발",
+        "주담대",
+        "주택담보대출",
+        "기준금리",
+        "공시가",
+        "임대",
+        "DSR",
+        "LTV"
+      ],
       "sources": [
-        { "name": "한국경제", "url": "https://www.hankyung.com/feed/realestate", "group": "kr", "lang": "ko" },
-        { "name": "연합뉴스", "url": "https://www.yna.co.kr/rss/economy.xml", "group": "kr", "lang": "ko", "filter": true },
-        { "name": "조선비즈", "url": "https://biz.chosun.com/arc/outboundfeeds/rss/?outputType=xml", "group": "kr", "lang": "ko", "filter": true }
-      ]
+        {
+          "name": "한국경제",
+          "url": "https://www.hankyung.com/feed/realestate",
+          "group": "kr",
+          "lang": "ko"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://www.yna.co.kr/rss/economy.xml",
+          "group": "kr",
+          "lang": "ko",
+          "filter": true
+        },
+        {
+          "name": "조선비즈",
+          "url": "https://biz.chosun.com/arc/outboundfeeds/rss/?outputType=xml",
+          "group": "kr",
+          "lang": "ko",
+          "filter": true
+        },
+        {
+          "name": "매일경제",
+          "url": "https://www.mk.co.kr/rss/50300009/",
+          "group": "kr",
+          "lang": "ko"
+        },
+        {
+          "name": "이데일리",
+          "url": "http://rss.edaily.co.kr/economy_news.xml",
+          "group": "kr",
+          "lang": "ko",
+          "filter": true
+        },
+        {
+          "name": "머니투데이",
+          "url": "https://news.google.com/rss/search?q=%EB%B6%80%EB%8F%99%EC%82%B0+site%3Amt.co.kr+when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "group": "kr",
+          "lang": "ko",
+          "filter": true,
+          "google_news": true
+        },
+        {
+          "name": "중앙일보",
+          "url": "https://news.google.com/rss/search?q=%EB%B6%80%EB%8F%99%EC%82%B0+site%3Ajoongang.co.kr+when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "group": "kr",
+          "lang": "ko",
+          "filter": true,
+          "google_news": true
+        },
+        {
+          "name": "한국일보",
+          "url": "https://news.google.com/rss/search?q=%EB%B6%80%EB%8F%99%EC%82%B0+site%3Ahankookilbo.com+when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "group": "kr",
+          "lang": "ko",
+          "filter": true,
+          "google_news": true
+        },
+        {
+          "name": "YTN",
+          "url": "https://news.google.com/rss/search?q=%EB%B6%80%EB%8F%99%EC%82%B0+site%3Aytn.co.kr+when%3A3d&hl=ko&gl=KR&ceid=KR:ko",
+          "group": "kr",
+          "lang": "ko",
+          "filter": true,
+          "google_news": true
+        }
+      ],
+      "_설명": "여러 언론사를 골고루 보도록 언론사당 1개씩, 최대 8개를 보여줍니다. 개수는 limit 을 바꾸세요."
     },
     {
       "id": "stocks",
@@ -27,13 +110,74 @@
       "limit": 5,
       "max_age_days": 3,
       "per_source_max": 2,
-      "quotas": { "kr": 3, "global": 2 },
-      "keywords": ["증시", "코스피", "코스닥", "주가", "주식", "실적", "나스닥", "S&P", "다우", "환율", "공매도", "배당", "상장", "IPO", "반도체", "연준", "금리 인하", "stock", "stocks", "shares", "earnings", "Nasdaq", "Dow", "S&P 500", "Wall Street", "Fed", "rate cut", "market", "markets", "investors", "IPO", "dividend", "revenue"],
+      "quotas": {
+        "kr": 3,
+        "global": 2
+      },
+      "keywords": [
+        "증시",
+        "코스피",
+        "코스닥",
+        "주가",
+        "주식",
+        "실적",
+        "나스닥",
+        "S&P",
+        "다우",
+        "환율",
+        "공매도",
+        "배당",
+        "상장",
+        "IPO",
+        "반도체",
+        "연준",
+        "금리 인하",
+        "stock",
+        "stocks",
+        "shares",
+        "earnings",
+        "Nasdaq",
+        "Dow",
+        "S&P 500",
+        "Wall Street",
+        "Fed",
+        "rate cut",
+        "market",
+        "markets",
+        "investors",
+        "IPO",
+        "dividend",
+        "revenue"
+      ],
       "sources": [
-        { "name": "한국경제", "url": "https://www.hankyung.com/feed/finance", "group": "kr", "lang": "ko", "filter": true },
-        { "name": "CNBC", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html", "group": "global", "lang": "en", "filter": true },
-        { "name": "MarketWatch", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories", "group": "global", "lang": "en", "filter": true },
-        { "name": "Investing.com", "url": "https://www.investing.com/rss/news.rss", "group": "global", "lang": "en", "filter": true }
+        {
+          "name": "한국경제",
+          "url": "https://www.hankyung.com/feed/finance",
+          "group": "kr",
+          "lang": "ko",
+          "filter": true
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+          "group": "global",
+          "lang": "en",
+          "filter": true
+        },
+        {
+          "name": "MarketWatch",
+          "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+          "group": "global",
+          "lang": "en",
+          "filter": true
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com/rss/news.rss",
+          "group": "global",
+          "lang": "en",
+          "filter": true
+        }
       ]
     },
     {
@@ -42,17 +186,80 @@
       "limit": 5,
       "max_age_days": 7,
       "per_source_max": 1,
-      "quotas": { "global": 5 },
-      "keywords": ["AI", "GPT", "LLM", "OpenAI", "Anthropic", "Claude", "Gemini", "agent", "agents", "copilot", "chatbot", "machine learning", "diffusion", "Cursor", "prompt", "MCP", "model"],
+      "quotas": {
+        "global": 5
+      },
+      "keywords": [
+        "AI",
+        "GPT",
+        "LLM",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Gemini",
+        "agent",
+        "agents",
+        "copilot",
+        "chatbot",
+        "machine learning",
+        "diffusion",
+        "Cursor",
+        "prompt",
+        "MCP",
+        "model"
+      ],
       "sources": [
-        { "name": "OpenAI", "url": "https://openai.com/news/rss.xml", "group": "global", "lang": "en" },
-        { "name": "Google AI", "url": "https://blog.google/technology/ai/rss/", "group": "global", "lang": "en" },
-        { "name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml", "group": "global", "lang": "en" },
-        { "name": "Hacker News", "url": "https://hnrss.org/frontpage", "group": "global", "lang": "en", "filter": true },
-        { "name": "Product Hunt", "url": "https://www.producthunt.com/feed", "group": "global", "lang": "en", "filter": true },
-        { "name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "group": "global", "lang": "en" },
-        { "name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "group": "global", "lang": "en" },
-        { "name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/", "group": "global", "lang": "en", "filter": true }
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/news/rss.xml",
+          "group": "global",
+          "lang": "en"
+        },
+        {
+          "name": "Google AI",
+          "url": "https://blog.google/technology/ai/rss/",
+          "group": "global",
+          "lang": "en"
+        },
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/blog/feed.xml",
+          "group": "global",
+          "lang": "en"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://hnrss.org/frontpage",
+          "group": "global",
+          "lang": "en",
+          "filter": true
+        },
+        {
+          "name": "Product Hunt",
+          "url": "https://www.producthunt.com/feed",
+          "group": "global",
+          "lang": "en",
+          "filter": true
+        },
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+          "group": "global",
+          "lang": "en"
+        },
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+          "group": "global",
+          "lang": "en"
+        },
+        {
+          "name": "Simon Willison",
+          "url": "https://simonwillison.net/atom/everything/",
+          "group": "global",
+          "lang": "en",
+          "filter": true
+        }
       ]
     },
     {
@@ -62,19 +269,81 @@
       "limit": 10,
       "max_age_days": 14,
       "per_source_max": 2,
-      "quotas": { "kr": 10 },
+      "quotas": {
+        "kr": 10
+      },
       "keywords": [],
       "sources": [
-        { "name": "YouTube · 희렌최널 Hirenze (말 잘하는 법)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChG02-tr10ehrBUZbjepthg", "group": "kr", "lang": "ko", "kind": "video" },
-        { "name": "YouTube · 폴인 fol:in (전문가 인터뷰)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOaooYdrBuum5L5Dh2qCv2A", "group": "kr", "lang": "ko", "kind": "video" },
-        { "name": "YouTube · 주언규 (재테크)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo3Qy41yS1ATrHm_-iIe3Mw", "group": "kr", "lang": "ko", "kind": "video" },
-        { "name": "YouTube · 책과삶 (지식)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgUaqrLRGLL-dHislR1e2TA", "group": "kr", "lang": "ko", "kind": "video" },
-        { "name": "YouTube · 티타임즈TV (회사 트렌드)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCelFN6fJ6OY6v8pbc_SLiXA", "group": "kr", "lang": "ko", "kind": "video" },
-        { "name": "YouTube · 지식인사이드 (지식)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA_hgsFzmynpv1zkvA5A7jA", "group": "kr", "lang": "ko", "kind": "video" },
-        { "name": "YouTube · 큰손 노희영 (트렌드)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqnYeCdELqXQulBZuK2y7sA", "group": "kr", "lang": "ko", "kind": "video" },
-        { "name": "YouTube · 조승연의 탐구생활 (인문학)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvW8norVMTLt7QN-s2pS4Bw", "group": "kr", "lang": "ko", "kind": "video" },
-        { "name": "YouTube · 세바시 강연 (지식)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgheNMc3gGHLsT-RISdCzDQ", "group": "kr", "lang": "ko", "kind": "video" },
-        { "name": "YouTube · 미키피디아", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCt9m3iBPn0e0z0B_t-Va7sw", "group": "kr", "lang": "ko", "kind": "video" }
+        {
+          "name": "YouTube · 희렌최널 Hirenze (말 잘하는 법)",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChG02-tr10ehrBUZbjepthg",
+          "group": "kr",
+          "lang": "ko",
+          "kind": "video"
+        },
+        {
+          "name": "YouTube · 폴인 fol:in (전문가 인터뷰)",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOaooYdrBuum5L5Dh2qCv2A",
+          "group": "kr",
+          "lang": "ko",
+          "kind": "video"
+        },
+        {
+          "name": "YouTube · 주언규 (재테크)",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo3Qy41yS1ATrHm_-iIe3Mw",
+          "group": "kr",
+          "lang": "ko",
+          "kind": "video"
+        },
+        {
+          "name": "YouTube · 책과삶 (지식)",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgUaqrLRGLL-dHislR1e2TA",
+          "group": "kr",
+          "lang": "ko",
+          "kind": "video"
+        },
+        {
+          "name": "YouTube · 티타임즈TV (회사 트렌드)",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCelFN6fJ6OY6v8pbc_SLiXA",
+          "group": "kr",
+          "lang": "ko",
+          "kind": "video"
+        },
+        {
+          "name": "YouTube · 지식인사이드 (지식)",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA_hgsFzmynpv1zkvA5A7jA",
+          "group": "kr",
+          "lang": "ko",
+          "kind": "video"
+        },
+        {
+          "name": "YouTube · 큰손 노희영 (트렌드)",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqnYeCdELqXQulBZuK2y7sA",
+          "group": "kr",
+          "lang": "ko",
+          "kind": "video"
+        },
+        {
+          "name": "YouTube · 조승연의 탐구생활 (인문학)",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvW8norVMTLt7QN-s2pS4Bw",
+          "group": "kr",
+          "lang": "ko",
+          "kind": "video"
+        },
+        {
+          "name": "YouTube · 세바시 강연 (지식)",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgheNMc3gGHLsT-RISdCzDQ",
+          "group": "kr",
+          "lang": "ko",
+          "kind": "video"
+        },
+        {
+          "name": "YouTube · 미키피디아",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCt9m3iBPn0e0z0B_t-Va7sw",
+          "group": "kr",
+          "lang": "ko",
+          "kind": "video"
+        }
       ]
     }
   ]
