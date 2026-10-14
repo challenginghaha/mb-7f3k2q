@@ -1,31 +1,53 @@
 {
  "date": "2026-10-14",
- "generated": "2026-10-14T16:28+09:00",
+ "generated": "2026-10-14T18:56+09:00",
  "boxes": [
   {
    "id": "realestate",
    "title": "부동산",
    "items": [
     {
-     "id": "18ce8f65493b",
-     "title": "공무원 1만명 가는데 씨 마른 전월세… 2년간 세종시 입주 물량은 1122가구 뿐",
-     "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/14/NJ7YTHUZBVDH7DTD3XXK7WKYCM/",
-     "source": "조선비즈",
+     "id": "aacd95b7bfde",
+     "title": "\"갭투자 잡으려다 시장 왜곡\"…토허제 1년, 전세난·외곽 집값 급등",
+     "link": "https://www.hankyung.com/article/2026101422151",
+     "source": "한국경제",
      "lang": "ko",
      "kind": "article",
-     "published": "2026-10-14T15:56+09:00",
-     "preview": "2차 중앙행정기관 세종시 이전 계획 발표 후 세종 부동산 시장 전월세난 우려가 불거지고 있다. 전월세 매물이 연초 대비 30% 이상 줄어든 상황에서 향후 2년간 신규 입주 물량은 1000여 가구에 불과해, 이주 공무원 1만명의 수요를 감당하기에는 공급이 턱없이 부족하다는 지적이 나온다.…",
+     "published": "2026-10-14T18:18+09:00",
+     "preview": "",
      "also": []
     },
     {
-     "id": "6a06b710b714",
-     "title": "기후부, 삼성전자·LG전자 모듈러 주택과 K-GX 연계 모색(종합)",
-     "link": "https://www.yna.co.kr/view/AKR20261014085151003",
+     "id": "e53f9b96721e",
+     "title": "토허제 내년까지 연장될 가능성 커",
+     "link": "https://www.hankyung.com/article/2026101422121",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-14T18:17+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "52b92e3c8efa",
+     "title": "청주 '신분평 에피트 더웨이시티' 3.3㎡당 1천489만원",
+     "link": "https://www.yna.co.kr/view/AKR20261014165300064",
      "source": "연합뉴스",
      "lang": "ko",
      "kind": "article",
-     "published": "2026-10-14T15:40+09:00",
-     "preview": "(서울=연합뉴스) 조성흠 기자 = 김성환 기후에너지환경부 장관이 삼성전자와 LG전자의 모듈려 주택 현장을 연이어 방문하며 한국형 녹색전환(K-G...",
+     "published": "2026-10-14T17:38+09:00",
+     "preview": "(청주=연합뉴스) 전창해 기자 = 청주시는 서원구 장성동 일원에 들어설 공동주택 '신분평 에피트 더웨이시티'의 입주자 모집공고를 승인했다고 14...",
+     "also": []
+    },
+    {
+     "id": "6357bdbf4993",
+     "title": "서울 투기과열지구 청약통장 불법 거래 '떴다방' 조직 39명 검거",
+     "link": "https://www.yna.co.kr/view/AKR20261014150100051",
+     "source": "연합뉴스",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-14T16:49+09:00",
+     "preview": "(부산=연합뉴스) 손형주 기자 = 서울지역 특별공급 청약에 당첨 확률이 높은 고점의 청약통장을 불법으로 사고판 일당이 경찰에 적발됐다.",
      "also": []
     },
     {
@@ -36,29 +58,7 @@
      "lang": "ko",
      "kind": "article",
      "published": "2026-10-14T15:36+09:00",
-     "preview": "최근 재개발·재건축 사업의 공사비 인상을 둘러싼 분쟁이 확산하고 있는 가운데 서울 정비사업장에서는 검증기관에 따라 인정 공사비 인상률이 2배 가까이 차이가 난 것으로 나타났다. 서울주택도시개발공사(SH)의 최초 게약 대비 인정 공사비 인상률은 평균 40%대였으나, 한국부동산원의 경우 인…",
-     "also": []
-    },
-    {
-     "id": "9e4111165785",
-     "title": "AI 서버를 냉각유에 '풍덩'…GS건설, 데이터센터 열 잡는다",
-     "link": "https://www.hankyung.com/article/2026101416586",
-     "source": "한국경제",
-     "lang": "ko",
-     "kind": "article",
-     "published": "2026-10-14T15:07+09:00",
-     "preview": "",
-     "also": []
-    },
-    {
-     "id": "24c6dd390159",
-     "title": "경찰, 부동산 브로커 일당 검거…\"당첨확률 큰 청약통장 불법거래\"",
-     "link": "https://www.yna.co.kr/view/AKR20261014051900001",
-     "source": "연합뉴스",
-     "lang": "ko",
-     "kind": "article",
-     "published": "2026-10-14T15:00+09:00",
-     "preview": "(서울=연합뉴스) 이상현 기자 = 국무조정실 부동산감독추진단은 14일 정부서울청사에서 제21차 부동산 불법행위 대응 협의회를 열었다.",
+     "preview": "최근 재개발·재건축 사업의 공사비 인상을 둘러싼 분쟁이 확산하고 있는 가운데 서울 정비사업장에서는 검증기관에 따라 인정 공사비 인상률이 2배 가까이 차이가 난 것으로 나타났다. 서울주택도시개발공사(SH)의 최초 계약 대비 인정 공사비 인상률은 평균 40%대였으나, 한국부동산원의 경우 인…",
      "also": []
     }
    ]
@@ -68,60 +68,60 @@
    "title": "주식",
    "items": [
     {
-     "id": "7ab30605b5f5",
-     "title": "U.S. Treasury yields inch lower as investors await key inflation report",
-     "link": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
-     "source": "CNBC",
-     "lang": "en",
-     "kind": "article",
-     "published": "2026-10-14T16:21+09:00",
-     "preview": "U.S. Treasury yields inched lower on Wednesday as investors awaited the latest CPI inflation reading ahead of a flurry of economic data this week.",
-     "also": [],
-     "title_ko": "투자자들이 주요 인플레이션 보고서를 기다리는 동안 미국 국채 수익률은 1인치 낮아집니다."
-    },
-    {
-     "id": "c76148c3b401",
-     "title": "LSEG taps Nvidia for faster historical market data processing",
-     "link": "https://www.investing.com/news/stock-market-news/lseg-teams-up-with-nvidia-for-faster-market-data-processing-4948123",
+     "id": "edb275bf1219",
+     "title": "Huatai Securities announces interim dividend of RMB0.18 per share",
+     "link": "https://www.investing.com/news/company-news/huatai-securities-announces-interim-dividend-of-rmb018-per-share-93CH-4948497",
      "source": "Investing.com",
      "lang": "en",
      "kind": "article",
-     "published": "2026-10-14T16:12+09:00",
+     "published": "2026-10-14T18:38+09:00",
      "preview": "",
      "also": [],
-     "title_ko": "LSEG는 더 빠른 시장 데이터 처리를 위해 엔비디아를 활용합니다"
+     "title_ko": "화타이증권, 주당 0.18 위안 중간배당 발표"
     },
     {
-     "id": "27fe2c26894d",
-     "title": "ASML says it's getting order interest through 2030 as profit smashes expectations",
-     "link": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
+     "id": "1074d4fa2ea5",
+     "title": "Asian stocks slip as China shares fall, oil risks and U.S. CPI weigh",
+     "link": "https://www.investing.com/news/stock-market-news/asia-stocks-edge-higher-as-chipmakers-rebound-china-trade-beats-forecasts-4947949",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-14T18:35+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "아시아 증시는 중국 증시 하락, 석유 리스크, 미국 CPI 가중치에 따라 하락"
+    },
+    {
+     "id": "6fd86b9c72fb",
+     "title": "Oil prices choppy after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
+     "link": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
      "source": "CNBC",
      "lang": "en",
      "kind": "article",
-     "published": "2026-10-14T16:10+09:00",
-     "preview": "ASML said some customers are \"expressing an interest\" in placing orders with the company in 2029 and 2030, giving investors a view into longer-term demand.",
+     "published": "2026-10-14T17:53+09:00",
+     "preview": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
      "also": [],
-     "title_ko": "ASML은 이익이 기대치를 무너뜨리면서 2030년까지 주문 이자를 받고 있다고 말합니다."
+     "title_ko": "IEA가 시장 제약을 경고한 후 유가는 삭막했다. 사우디 관리들은 아람코 시설이 공격을 받았다고 말한다."
     },
     {
-     "id": "0182b0e597c4",
-     "title": "[속보] 코스피, 하락 전환해 장중 6000선 밑으로",
-     "link": "https://www.hankyung.com/article/2026101416386",
+     "id": "6916854fd094",
+     "title": "끝없는 코스피 탈출 행렬…200조원 팔아치운 외국인 어디로",
+     "link": "https://www.hankyung.com/article/202610141350i",
      "source": "한국경제",
      "lang": "ko",
      "kind": "article",
-     "published": "2026-10-14T15:02+09:00",
+     "published": "2026-10-14T16:36+09:00",
      "preview": "",
      "also": []
     },
     {
-     "id": "5875f9891957",
-     "title": "월가 기술주 달인 \"외국인 투매 끝 보여…코스피 전고점 넘길 것\"",
-     "link": "https://www.hankyung.com/article/202610141391i",
+     "id": "6251d4d8449e",
+     "title": "반도체 소부장·전력 인프라·로봇株…'천스닥' 기대 이어간다",
+     "link": "https://www.hankyung.com/article/2026101405581",
      "source": "한국경제",
      "lang": "ko",
      "kind": "article",
-     "published": "2026-10-14T14:48+09:00",
+     "published": "2026-10-14T16:15+09:00",
      "preview": "",
      "also": []
     }
@@ -131,6 +131,18 @@
    "id": "ai",
    "title": "AI 툴",
    "items": [
+    {
+     "id": "c2de06a2d0b0",
+     "title": "What agents mean for Rust (and vice versa)",
+     "link": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+     "source": "Hacker News",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-14T17:49+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "상담원이 Rust에 의미하는 바 (또는 그 반대)"
+    },
     {
      "id": "f54150d5f8c0",
      "title": "WriterzRoom",
@@ -143,14 +155,14 @@
      "also": []
     },
     {
-     "id": "8499e5245393",
-     "title": "I built a tool to track what AI leaders say and how their views change on video",
-     "link": "https://blumify.io/people",
-     "source": "Hacker News",
+     "id": "2f3282e48314",
+     "title": "The EU’s next chapter in AI is agentic",
+     "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+     "source": "OpenAI",
      "lang": "en",
      "kind": "article",
-     "published": "2026-10-14T10:09+09:00",
-     "preview": "",
+     "published": "2026-10-14T09:00+09:00",
+     "preview": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
      "also": []
     },
     {
@@ -174,17 +186,6 @@
      "published": "2026-10-14T07:28+09:00",
      "preview": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100…",
      "also": []
-    },
-    {
-     "id": "e8881f4e9b5e",
-     "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
-     "source": "The Verge AI",
-     "lang": "en",
-     "kind": "article",
-     "published": "2026-10-14T06:48+09:00",
-     "preview": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ -…",
-     "also": []
     }
    ]
   },
@@ -193,141 +194,117 @@
    "title": "트렌드",
    "items": [
     {
-     "id": "052d2c28047d",
-     "title": "MIT 수업 프로젝트, FDA 허가를 받은 떨림 치료 기기로 발전",
-     "link": "https://news.hada.io/topic?id=35333",
-     "source": "GeekNews",
+     "id": "df9bae7efcd1",
+     "title": "원하는 것을 갖는 것과 가진 것을 원하는 것은 다르대요",
+     "link": "https://www.youtube.com/shorts/Rd4WJOa7UHg",
+     "source": "YouTube · 주언규 (재테크)",
      "lang": "ko",
-     "kind": "article",
-     "published": "2026-10-14T15:32+09:00",
-     "preview": "Encora Therapeutics 의 손목 착용형 기기가 2026년 2월 성인 본태성 떨림 치료용으로 FDA 510(k) 허가 를 받음. 2017년 MIT 제품 설계 수업에서 시작해 약 9년 만에 이룬 성과임 손목에 가하는 기계적 진동 으로 감각 수용체를 자극하고 신경계를 통...",
+     "kind": "video",
+     "published": "2026-10-14T18:08+09:00",
+     "preview": "원하는 것을 갖는 것과 가진 것을 원하는 것은 다르대요 주언규님이 삶에서 바로 실천할 방법을 묻자 이하영님은 자신이 좋아하는 단어로 만족을 꼽으셨어요 이미 충분하고 여러 가지를 가지고 있다는 사실을 돌아보면 과거에 없던 것을 지금 누리고 있다는 감사함이 생긴다는 이야기입니다 그 안에서…",
      "also": []
     },
     {
-     "id": "19fdac019a4c",
-     "title": "Show GN: 싱글 겟앰프드 웹버전",
-     "link": "https://news.hada.io/topic?id=35331",
-     "source": "GeekNews",
+     "id": "e26699974cfd",
+     "title": "“우리나라 보안 프로그램, 엄청난 보안 구멍 될 수 있다” (유호현 토블AI 대표)",
+     "link": "https://www.youtube.com/watch?v=W7wmnIIN8I4",
+     "source": "YouTube · 티타임즈TV (회사 트렌드)",
      "lang": "ko",
-     "kind": "article",
-     "published": "2026-10-14T14:12+09:00",
-     "preview": "안녕하세요. 요즘 고전게임을 wasm으로 웹에 올리는 게 유행이던데, 저도 어릴 때 하던 싱글 겟앰프드를 웹에서 돌아가게 만들어 봤습니다. CheerpJ로 java를 브라우저에서 구동할 수 있더라구요 설치 없이 웹에서 바로 플레이됩니다. P.S 어릴 때 악세 살 돈은 없고 쓰고는 싶어서",
+     "kind": "video",
+     "published": "2026-10-14T18:00+09:00",
+     "preview": "유호현 토블AI 대표에게 AI 에이전트 시대를 우리는 어떻게 준비해야 할지 들어봅니다. “에이전트한테 짜장면 시켜줘라고 하면 알아서 짜장면 집 에이전트한테 가서 주문할텐데 만일 에이전트가 없는 짜장면 집이라면 세상에 존재하지 않는 집이 돼 버리는 거예요.” “AI 시대는 유튜브 경제가…",
      "also": []
     },
     {
-     "id": "018d1b6a7724",
-     "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
-     "link": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-     "source": "TechCrunch",
-     "lang": "en",
-     "kind": "article",
-     "published": "2026-10-14T10:30+09:00",
-     "preview": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
-     "also": []
-    },
-    {
-     "id": "b89ba81c1484",
-     "title": "X’s reverse eternal September",
-     "link": "https://www.platformer.news/x-reverse-eternal-september/",
-     "source": "Platformer",
-     "lang": "en",
-     "kind": "article",
-     "published": "2026-10-14T09:30+09:00",
-     "preview": "Why the onetime global town square now feels more like a clubhouse",
-     "also": []
-    },
-    {
-     "id": "314375845b17",
-     "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-     "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-     "source": "TechCrunch",
-     "lang": "en",
-     "kind": "article",
-     "published": "2026-10-14T08:05+09:00",
-     "preview": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and pa…",
-     "also": []
-    },
-    {
-     "id": "28063ae763fa",
-     "title": "OpenAI engineer arrested in bugging of executive conference room",
-     "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-     "source": "Hacker News 인기글",
-     "lang": "en",
-     "kind": "article",
-     "published": "2026-10-14T05:23+09:00",
+     "id": "b78716f577f2",
+     "title": "\"5억 → 40억까지\" 이명신의 승부의 감각",
+     "link": "https://www.youtube.com/shorts/hyR8j1BlS8E",
+     "source": "YouTube · 폴인 fol:in (전문가 인터뷰)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-14T18:00+09:00",
      "preview": "",
      "also": []
     },
     {
-     "id": "01b0fbae59fa",
-     "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-     "link": "https://guitoro.com/",
-     "source": "Hacker News 인기글",
-     "lang": "en",
-     "kind": "article",
-     "published": "2026-10-14T04:11+09:00",
+     "id": "7fef9cb64099",
+     "title": "\"10년 뒤 몸값 폭등한다\" AI 시대 희귀해질 사람 특징ㅣ Ep. 책과사람 177 (정재민 교수)",
+     "link": "https://www.youtube.com/watch?v=6J26J1-fVrQ",
+     "source": "YouTube · 책과삶 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-14T18:00+09:00",
+     "preview": "안녕하세요.\"책과삶\" 입니다. 오늘은 카이스트 정재민 부총장님과 ai 시대의 부작용에 대해 알아봤습니다. 세상의 모든 감동과 지식을 전합니다. 구독과 좋아요 꾸욱 눌러주시면 더욱 열심히 좋은 영상으로 보답하겠습니다. 📖 정재민 부총장님의 ‘생각을 외주화한 사람들’ - 교보문고: - 예스…",
+     "also": []
+    },
+    {
+     "id": "27cc7faa9d28",
+     "title": "인생에는 정해진 때가 없습니다",
+     "link": "https://www.youtube.com/shorts/LY-eAJ93QE4",
+     "source": "YouTube · 세바시 강연 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-14T12:18+09:00",
+     "preview": "취업할 나이, 결혼할 나이, 성공해야 할 나이. 우리는 자신도 모르게 남들이 정한 시간표에 맞춰 살아갑니다. 하지만 누가 정한 기준일까요? 남들의 속도에 맞추느라 조급해하기보다 내가 원하는 때에, 나만의 속도로 살아가도 괜찮습니다. 김미경 강연자가 전하는 '사회적 알람'에서 벗어나는 방…",
+     "also": []
+    },
+    {
+     "id": "2c32057a6215",
+     "title": "주변 강대국들이 눈치챈 한국 군사력의 진짜 체급ㅣ지식인초대석: 합석 EP.19 (최준영 X 채승병)",
+     "link": "https://www.youtube.com/watch?v=OyCyr_oJQqw",
+     "source": "YouTube · 지식인사이드 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-12T19:00+09:00",
+     "preview": "오늘은 최준영 박사님, 채승병 박사님을 모시고 전 세계 군사력 서열과 현대전의 양상에 대해 알아봤습니다. 영상이 유익 했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요! #최준영 #채승병 #지식인사이드 #전쟁 #군사 #무기 #AI #정보보안 #중국 ㅡ 00:00 인트로 00:…",
+     "also": []
+    },
+    {
+     "id": "cac9f3dfa409",
+     "title": "저녁에 먹어도 부담 없는 두부면 파스타 레시피",
+     "link": "https://www.youtube.com/shorts/EJk5uRUeEC4",
+     "source": "YouTube · 큰손 노희영 (트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-12T18:00+09:00",
      "preview": "",
      "also": []
     },
     {
-     "id": "ee47aa481905",
-     "title": "How to tell if a startup has a moat",
-     "link": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
-     "source": "Lenny's Newsletter",
-     "lang": "en",
-     "kind": "article",
-     "published": "2026-10-13T21:45+09:00",
-     "preview": "A framework for assessing whether the company you’re considering joining is built to last",
+     "id": "452519528612",
+     "title": "남 눈치 안 보는데, 인기 많은 사람 특징 3가지",
+     "link": "https://www.youtube.com/watch?v=3hGsmV-_fEI",
+     "source": "YouTube · 희렌최널 Hirenze (말 잘하는 법)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-09T22:00+09:00",
+     "preview": "남의 눈치를 보지 않고 할 말도 다하는데 사람들이 좋아하는 사람 VS 아닌 사람의 차이는 무엇일까요? 오늘은 전설의 미드 '프렌즈'의 주인공 피비의 매력 분석을 통해 남 눈치 보지 않는데 인기 많은 사람의 특징을 알아봅니다. 오늘도 최널고정해주신 희릿 내일도 최고길만 걸으세요!",
      "also": []
     },
     {
-     "id": "a797d88f7cdd",
-     "title": "Runway: Learning From Watching the World",
-     "link": "https://www.notboring.co/p/runway-learning-from-watching-the",
-     "source": "Not Boring",
-     "lang": "en",
-     "kind": "article",
-     "published": "2026-10-13T21:45+09:00",
-     "preview": "A Co-Written Essay with Runway Co-CEO Anastasis Germanidis",
+     "id": "0c0e5b3dda15",
+     "title": "좌식에서 식탁으로? 가족 간의 대화가 중요해진 이유",
+     "link": "https://www.youtube.com/watch?v=dFSJxnwbxFQ",
+     "source": "YouTube · 조승연의 탐구생활 (인문학)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-07T19:00+09:00",
+     "preview": "육아를 하다보면 '국민육아템'이라는 것들이 있더라고요! 스토케의 트립트랩도 그중의 하나인데요 국민육아템은 왜 국민육아템일까요? 오늘은 트립트랩 의자에 관하여 얘기를 해봤습니다! *이 영상에는 스토케의 유료광고가 포함되어 있습니다 조승연의 탐구생활 구독자를 위한 특별 이벤트 영상에 나온…",
      "also": []
     },
     {
-     "id": "d4b3639bdc65",
-     "title": "SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular",
-     "link": "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/",
-     "source": "Stratechery",
-     "lang": "en",
-     "kind": "article",
-     "published": "2026-10-13T19:00+09:00",
-     "preview": "SpaceX's mobile strategy is becoming clearly with its latest spectrum purchase, and it might work.",
-     "also": []
-    },
-    {
-     "id": "0a454c0230c2",
-     "title": "The 4-Step Agentic Engineering Workflow I Use to Ship Real Apps | Micky Shimeles",
-     "link": "https://creatoreconomy.so/p/agentic-engineering-workflow-ras-mic",
-     "source": "Creator Economy",
-     "lang": "en",
-     "kind": "article",
-     "published": "2026-10-11T23:29+09:00",
-     "preview": "Watch now (47 mins) | Micky's 4-step agentic engineering workflow and the open-source skills that make AI agents prove their work",
-     "also": []
-    },
-    {
-     "id": "ccf355d6de5c",
-     "title": "The Pulse: Firebase’s global outage & poor response",
-     "link": "https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/",
-     "source": "Pragmatic Engineer",
-     "lang": "en",
-     "kind": "article",
-     "published": "2026-10-09T01:56+09:00",
-     "preview": "The Firebase iOS SDK crashed after a backend change, crashing all apps which used Firebase analytics for 2-6 hours. Google didn’t update the status page, but di…",
+     "id": "01c07084823a",
+     "title": "💰나의 순자산, 미래가치, 노후를 계산해보자! (feat. 경제적 자유 계산기 버전 3 대공개)",
+     "link": "https://www.youtube.com/watch?v=4uwYUJUpkQc",
+     "source": "YouTube · 미키피디아",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-04T12:00+09:00",
+     "preview": "경제적 자유를 이루려면, 나에게는 얼마가 필요할까요? 이번 영상에서는 ChatGPT Work와 함께 만든 순자산 관리 스프레드시트, 미래 소득의 현재 가치 계산기, 그리고 여러분의 의견을 반영해서 업그레이드한 ‘경제적 자유 시뮬레이터' 3번째 버전까지 소개합니다. ⚠️이 영상에는 [Ch…",
      "also": []
     }
    ]
   }
  ],
- "problems": [
-  "트렌드 / 요즘IT: HTTPError HTTP Error 405: Not Allowed"
- ]
+ "problems": []
 }
