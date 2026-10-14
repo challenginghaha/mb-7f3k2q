@@ -122,6 +122,11 @@ const B = window.BRIEFING || {dates:[], days:{}};
 function load(k, d){ try { const v = JSON.parse(localStorage.getItem(k)); return v == null ? d : v; } catch(e){ return d; } }
 function save(k, v){ try { localStorage.setItem(k, JSON.stringify(v)); } catch(e){} }
 let read = load("read", {}), later = load("later", {}), collapsed = load("collapsed", {});
+// 영문 기사 한국어 번역: 내 브라우저에서 무료 번역(MyMemory)을 호출하고, 한 번 번역한 건 저장해 재사용
+let trCache = load("tr_cache", {});
+let trBudget = load("tr_budget", {date: "", used: 0});
+const TR_LIMIT = 4000;   // 하루 글자 수 상한(무료 한도 약 5,000자)
+let translating = false;
 let hideRead = load("hideRead", false);
 function kstToday(){ return new Date(Date.now() + 9*3600*1000).toISOString().slice(0,10); }
 let current = B.dates[0];
@@ -136,6 +141,12 @@ function ago(iso){
 const tr = u => "https://translate.google.com/translate?sl=auto&tl=ko&u=" + encodeURIComponent(u);
 
 function itemHtml(it){
+  if (it.lang !== "ko") {
+    it = Object.assign({}, it, {
+      title_ko: it.title_ko || trCache[it.title],
+      preview_ko: it.preview_ko || (it.preview && trCache[it.preview])
+    });
+  }
   const isRead = read[it.id], isLater = later[it.id];
   const also = it.also && it.also.length;
   return `<div class="item ${isRead ? "read" : ""}" data-id="${it.id}">
@@ -187,6 +198,47 @@ function render(){
   document.getElementById("problems").textContent =
     day && day.problems && day.problems.length ? "가져오지 못한 곳: " + day.problems.map(p => p.split(":")[0]).join(", ") : "";
   renderLater();
+  translateMissing();
+}
+
+async function mymemory(text){
+  try {
+    const r = await fetch("https://api.mymemory.translated.net/get?langpair=en|ko&q=" + encodeURIComponent(text));
+    const d = await r.json();
+    const out = d.responseData && d.responseData.translatedText;
+    if (d.responseStatus != 200 || !out || /MYMEMORY WARNING/i.test(out) || out.trim() === text.trim()) return null;
+    return out;
+  } catch (e) { return null; }
+}
+function findItem(id){
+  for (const d of Object.values(B.days)) for (const b of d.boxes) for (const i of b.items) if (i.id === id) return i;
+  return later[id];
+}
+async function translateMissing(){
+  if (translating) return;
+  const day = B.days[current]; if (!day) return;
+  translating = true;
+  try {
+    const today = kstToday();
+    if (trBudget.date !== today) trBudget = {date: today, used: 0};
+    const items = day.boxes.flatMap(b => b.items).filter(i => i.lang !== "ko");
+    const jobs = [];
+    items.forEach(i => { if (!i.title_ko && !trCache[i.title]) jobs.push({id: i.id, kind: "t", text: i.title}); });
+    items.forEach(i => { if (i.preview && !i.preview_ko && !trCache[i.preview]) jobs.push({id: i.id, kind: "p", text: i.preview}); });
+    for (const j of jobs) {
+      if (trBudget.used + j.text.length > TR_LIMIT) { if (j.kind === "t") break; continue; }
+      const out = await mymemory(j.text);
+      if (!out) break;                       // 한도 초과·오류면 오늘은 여기까지
+      trBudget.used += j.text.length;
+      trCache[j.text] = out;
+      const keys = Object.keys(trCache);
+      if (keys.length > 1500) keys.slice(0, keys.length - 1500).forEach(k => delete trCache[k]);
+      save("tr_cache", trCache); save("tr_budget", trBudget);
+      const it = findItem(j.id);
+      if (it) document.querySelectorAll('.item[data-id="' + j.id + '"]').forEach(el => { el.outerHTML = itemHtml(it); });
+      await new Promise(r => setTimeout(r, 250));
+    }
+  } finally { translating = false; }
 }
 
 function renderLater(){
