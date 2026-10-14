@@ -206,7 +206,8 @@ async function mymemory(text){
     const r = await fetch("https://api.mymemory.translated.net/get?langpair=en|ko&q=" + encodeURIComponent(text));
     const d = await r.json();
     const out = d.responseData && d.responseData.translatedText;
-    if (d.responseStatus != 200 || !out || /MYMEMORY WARNING/i.test(out) || out.trim() === text.trim()) return null;
+    if (d.quotaFinished || d.responseStatus == 429 || /MYMEMORY WARNING/i.test(out || "")) return "QUOTA";
+    if (d.responseStatus != 200 || !out || out.trim() === text.trim()) return null;  // 번역 불가(고유명사 등)
     return out;
   } catch (e) { return null; }
 }
@@ -228,7 +229,8 @@ async function translateMissing(){
     for (const j of jobs) {
       if (trBudget.used + j.text.length > TR_LIMIT) { if (j.kind === "t") break; continue; }
       const out = await mymemory(j.text);
-      if (!out) break;                       // 한도 초과·오류면 오늘은 여기까지
+      if (out === "QUOTA") break;            // 하루 한도 초과면 오늘은 여기까지
+      if (!out) continue;                    // 이 글만 번역 불가: 건너뜀
       trBudget.used += j.text.length;
       trCache[j.text] = out;
       const keys = Object.keys(trCache);
