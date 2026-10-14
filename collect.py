@@ -45,6 +45,7 @@ def local(tag):
 
 def clean(text, limit):
     text = html.unescape(re.sub(r"<[^>]+>", " ", text or ""))
+    text = re.sub(r"https?://\S+", " ", text)  # 영상 설명의 긴 주소 제거
     text = re.sub(r"\s+", " ", text).strip()
     return text if len(text) <= limit else text[:limit].rstrip() + "…"
 

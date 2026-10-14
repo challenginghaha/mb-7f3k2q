@@ -1,4 +1,4 @@
-﻿{
+{
   "_설명": "이 파일 하나로 소스·키워드·개수를 바꿉니다. 소스를 지우려면 해당 { } 한 덩어리를 통째로 지우세요. 잠시 끄려면 \"enabled\": false 로 바꾸세요.",
   "settings": {
     "dedup_threshold": 0.7,
@@ -58,31 +58,24 @@
     {
       "id": "trend",
       "title": "트렌드",
-      "limit": 12,
+      "_설명": "내가 구독하는 유튜브 채널의 최신 영상입니다. 채널을 바꾸려면 아래 줄을 지우거나 추가하세요.",
+      "limit": 10,
       "max_age_days": 14,
       "per_source_max": 2,
-      "quotas": { "global": 9, "kr": 3 },
+      "quotas": { "kr": 10 },
       "keywords": [],
       "sources": [
-        { "name": "Lenny's Newsletter", "url": "https://www.lennysnewsletter.com/feed", "group": "global", "lang": "en" },
-        { "name": "Pragmatic Engineer", "url": "https://blog.pragmaticengineer.com/rss/", "group": "global", "lang": "en" },
-        { "name": "Stratechery", "url": "https://stratechery.com/feed/", "group": "global", "lang": "en" },
-        { "name": "Hacker News 인기글", "url": "https://hnrss.org/best", "group": "global", "lang": "en" },
-        { "name": "TechCrunch", "url": "https://techcrunch.com/feed/", "group": "global", "lang": "en" },
-        { "name": "Not Boring", "url": "https://www.notboring.co/feed", "group": "global", "lang": "en" },
-        { "name": "Platformer", "url": "https://www.platformer.news/rss/", "group": "global", "lang": "en" },
-        { "name": "Creator Economy", "url": "https://creatoreconomy.so/feed", "group": "global", "lang": "en" },
-        { "name": "YouTube · Y Combinator", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg", "group": "global", "lang": "en", "kind": "video", "enabled": false },
-        { "name": "YouTube · Lenny's Podcast", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6t1O76G0jYXOAoYCm153dA", "group": "global", "lang": "en", "kind": "video", "enabled": false },
-        { "name": "YouTube · Ali Abdaal", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoOae5nYA7VqaXzerajD0lg", "group": "global", "lang": "en", "kind": "video", "enabled": false },
-        { "name": "YouTube · Greg Isenberg", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw", "group": "global", "lang": "en", "kind": "video", "enabled": false },
-        { "name": "YouTube · Fireship", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA", "group": "global", "lang": "en", "kind": "video", "enabled": false },
-        { "name": "YouTube · Matt D'Avella", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ24N4O0bP7LGLBDvye7oCA", "group": "global", "lang": "en", "kind": "video", "enabled": false },
-        { "name": "YouTube · 슈카월드", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsJ6RuBiTVWRX156FVbeaGg", "group": "kr", "lang": "ko", "kind": "video", "enabled": false },
-        { "name": "요즘IT", "url": "https://yozm.wishket.com/magazine/feed/", "group": "kr", "lang": "ko" },
-        { "name": "GeekNews", "url": "https://news.hada.io/rss/news", "group": "kr", "lang": "ko" }
+        { "name": "YouTube · 희렌최널 Hirenze (말 잘하는 법)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChG02-tr10ehrBUZbjepthg", "group": "kr", "lang": "ko", "kind": "video" },
+        { "name": "YouTube · 폴인 fol:in (전문가 인터뷰)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOaooYdrBuum5L5Dh2qCv2A", "group": "kr", "lang": "ko", "kind": "video" },
+        { "name": "YouTube · 주언규 (재테크)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo3Qy41yS1ATrHm_-iIe3Mw", "group": "kr", "lang": "ko", "kind": "video" },
+        { "name": "YouTube · 책과삶 (지식)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgUaqrLRGLL-dHislR1e2TA", "group": "kr", "lang": "ko", "kind": "video" },
+        { "name": "YouTube · 티타임즈TV (회사 트렌드)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCelFN6fJ6OY6v8pbc_SLiXA", "group": "kr", "lang": "ko", "kind": "video" },
+        { "name": "YouTube · 지식인사이드 (지식)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA_hgsFzmynpv1zkvA5A7jA", "group": "kr", "lang": "ko", "kind": "video" },
+        { "name": "YouTube · 큰손 노희영 (트렌드)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqnYeCdELqXQulBZuK2y7sA", "group": "kr", "lang": "ko", "kind": "video" },
+        { "name": "YouTube · 조승연의 탐구생활 (인문학)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvW8norVMTLt7QN-s2pS4Bw", "group": "kr", "lang": "ko", "kind": "video" },
+        { "name": "YouTube · 세바시 강연 (지식)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgheNMc3gGHLsT-RISdCzDQ", "group": "kr", "lang": "ko", "kind": "video" },
+        { "name": "YouTube · 미키피디아", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCt9m3iBPn0e0z0B_t-Va7sw", "group": "kr", "lang": "ko", "kind": "video" }
       ]
     }
   ]
 }
-
