@@ -1,6 +1,6 @@
 {
  "date": "2026-10-14",
- "generated": "2026-10-14T18:56+09:00",
+ "generated": "2026-10-14T19:01+09:00",
  "boxes": [
   {
    "id": "realestate",
@@ -68,6 +68,18 @@
    "title": "주식",
    "items": [
     {
+     "id": "0b195ab3488c",
+     "title": "Investors have made big bets on tech stocks. Why one strategist just downgraded the sector.",
+     "link": "https://www.marketwatch.com/story/investors-have-made-big-bets-on-tech-stocks-why-one-strategist-just-downgraded-the-sector-4c893077?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-14T19:00+09:00",
+     "preview": "Slowing flows into tech stocks as valuations deteriorate has one strategist lowering the firm’s rating on tech stocks.",
+     "also": [],
+     "title_ko": "투자자들은 기술주에 큰 베팅을 했습니다. 왜 한 전략가가 방금 섹터를 하향 조정했는지."
+    },
+    {
      "id": "edb275bf1219",
      "title": "Huatai Securities announces interim dividend of RMB0.18 per share",
      "link": "https://www.investing.com/news/company-news/huatai-securities-announces-interim-dividend-of-rmb018-per-share-93CH-4948497",
@@ -90,18 +102,6 @@
      "preview": "",
      "also": [],
      "title_ko": "아시아 증시는 중국 증시 하락, 석유 리스크, 미국 CPI 가중치에 따라 하락"
-    },
-    {
-     "id": "6fd86b9c72fb",
-     "title": "Oil prices choppy after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
-     "link": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
-     "source": "CNBC",
-     "lang": "en",
-     "kind": "article",
-     "published": "2026-10-14T17:53+09:00",
-     "preview": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
-     "also": [],
-     "title_ko": "IEA가 시장 제약을 경고한 후 유가는 삭막했다. 사우디 관리들은 아람코 시설이 공격을 받았다고 말한다."
     },
     {
      "id": "6916854fd094",
@@ -194,6 +194,17 @@
    "title": "트렌드",
    "items": [
     {
+     "id": "873a4b98972c",
+     "title": "명성? 집? 가족? 인생은 랄프 로렌처럼 살고 싶은 이유",
+     "link": "https://www.youtube.com/watch?v=G4hQedUXX2w",
+     "source": "YouTube · 조승연의 탐구생활 (인문학)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-14T19:00+09:00",
+     "preview": "최근에 랄프 로렌의 삶을 다룬 다큐 ‘Very Ralph’ 상영회에 다녀왔는데요 저의 패션에도 많은 영향을 준 브랜드의 창업자인 랄프 로렌에 대해 이야기해보았습니다! *이 영상에는 랄프 로렌의 유료광고가 포함되어 있습니다 채널에 가입하여 혜택을 누려보세요. 배우는 즐거움이 있는 본격 취…",
+     "also": []
+    },
+    {
      "id": "df9bae7efcd1",
      "title": "원하는 것을 갖는 것과 가진 것을 원하는 것은 다르대요",
      "link": "https://www.youtube.com/shorts/Rd4WJOa7UHg",
@@ -279,17 +290,6 @@
      "kind": "video",
      "published": "2026-10-09T22:00+09:00",
      "preview": "남의 눈치를 보지 않고 할 말도 다하는데 사람들이 좋아하는 사람 VS 아닌 사람의 차이는 무엇일까요? 오늘은 전설의 미드 '프렌즈'의 주인공 피비의 매력 분석을 통해 남 눈치 보지 않는데 인기 많은 사람의 특징을 알아봅니다. 오늘도 최널고정해주신 희릿 내일도 최고길만 걸으세요!",
-     "also": []
-    },
-    {
-     "id": "0c0e5b3dda15",
-     "title": "좌식에서 식탁으로? 가족 간의 대화가 중요해진 이유",
-     "link": "https://www.youtube.com/watch?v=dFSJxnwbxFQ",
-     "source": "YouTube · 조승연의 탐구생활 (인문학)",
-     "lang": "ko",
-     "kind": "video",
-     "published": "2026-10-07T19:00+09:00",
-     "preview": "육아를 하다보면 '국민육아템'이라는 것들이 있더라고요! 스토케의 트립트랩도 그중의 하나인데요 국민육아템은 왜 국민육아템일까요? 오늘은 트립트랩 의자에 관하여 얘기를 해봤습니다! *이 영상에는 스토케의 유료광고가 포함되어 있습니다 조승연의 탐구생활 구독자를 위한 특별 이벤트 영상에 나온…",
      "also": []
     },
     {
