@@ -1,6 +1,6 @@
 {
  "date": "2026-10-14",
- "generated": "2026-10-14T16:10+09:00",
+ "generated": "2026-10-14T16:16+09:00",
  "boxes": [
   {
    "id": "realestate",
@@ -68,6 +68,18 @@
    "title": "주식",
    "items": [
     {
+     "id": "c76148c3b401",
+     "title": "LSEG taps Nvidia for faster historical market data processing",
+     "link": "https://www.investing.com/news/stock-market-news/lseg-teams-up-with-nvidia-for-faster-market-data-processing-4948123",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-14T16:12+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "LSEG는 더 빠른 시장 데이터 처리를 위해 엔비디아를 활용합니다"
+    },
+    {
      "id": "27fe2c26894d",
      "title": "ASML says it's getting order interest through 2030 as profit smashes expectations",
      "link": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
@@ -76,29 +88,8 @@
      "kind": "article",
      "published": "2026-10-14T16:10+09:00",
      "preview": "ASML said some customers are \"expressing an interest\" in placing orders with the company in 2029 and 2030, giving investors a view into longer-term demand.",
-     "also": []
-    },
-    {
-     "id": "400c816d844a",
-     "title": "Wall St futures little changed ahead of CPI data; ASML earnings in focus",
-     "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-muted-after-chip-losses-drag-wall-street-cpi-data-awaited-4947807",
-     "source": "Investing.com",
-     "lang": "en",
-     "kind": "article",
-     "published": "2026-10-14T15:55+09:00",
-     "preview": "",
-     "also": []
-    },
-    {
-     "id": "0bc57ae1bf81",
-     "title": "PNE plunges after lowering 2026 earnings outlook on project postponements",
-     "link": "https://www.investing.com/news/earnings/pne-plunges-after-lowering-2026-earnings-outlook-on-project-postponements-4948164",
-     "source": "Investing.com",
-     "lang": "en",
-     "kind": "article",
-     "published": "2026-10-14T15:46+09:00",
-     "preview": "",
-     "also": []
+     "also": [],
+     "title_ko": "ASML은 이익이 기대치를 무너뜨리면서 2030년까지 주문 이자를 받고 있다고 말합니다."
     },
     {
      "id": "0182b0e597c4",
@@ -121,6 +112,18 @@
      "published": "2026-10-14T14:48+09:00",
      "preview": "",
      "also": []
+    },
+    {
+     "id": "1674475a81af",
+     "title": "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032",
+     "link": "https://www.cnbc.com/2026/10/14/korea-india-hyundai-cars-investment.html",
+     "source": "CNBC",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-14T11:04+09:00",
+     "preview": "Korean car company Hyundai says India is a strategic core market",
+     "also": [],
+     "title_ko": "한국의 자동차 메이커 현대자동차는 2032년까지 인도에 155억 $ 규모의 '전략적' 투자를 계획하고 있습니다."
     }
    ]
   },
