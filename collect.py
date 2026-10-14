@@ -9,6 +9,7 @@ import json
 import re
 import sys
 import time
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -177,6 +178,67 @@ def select(groups, box):
     return sorted(picked, key=lambda g: g["rep"]["published"], reverse=True)
 
 
+TRANSLATE_BUDGET = 4500  # MyMemory 무료 한도(하루 약 5,000자)를 넘지 않도록
+
+
+def mymemory(text):
+    """무료 번역(MyMemory). 실패하거나 한도를 넘으면 None."""
+    url = "https://api.mymemory.translated.net/get?langpair=en|ko&q=" + urllib.parse.quote(text)
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=15) as r:
+            d = json.loads(r.read().decode("utf-8"))
+        out = d.get("responseData", {}).get("translatedText", "")
+        if d.get("responseStatus") != 200 or not out or "MYMEMORY WARNING" in out.upper():
+            return None
+        return out if out.strip() != text.strip() else None
+    except Exception:
+        return None
+
+
+def translate_items(boxes):
+    """영문 기사의 제목(먼저)과 미리보기(남는 한도 안에서)를 한국어로. 한 번 번역한 건 저장해 재사용."""
+    path = DATA / "translations.json"
+    try:
+        cache = json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        cache = {}
+    budget, stop = TRANSLATE_BUDGET, False
+
+    def tr(text):
+        nonlocal budget, stop
+        if text in cache:
+            return cache[text]
+        if stop or not text or len(text) > budget:
+            return None
+        budget -= len(text)
+        out = mymemory(text)
+        time.sleep(0.3)
+        if out is None:
+            stop = True  # 한도 초과·오류면 이번 실행에서는 더 시도하지 않음
+            return None
+        cache[text] = out
+        return out
+
+    items = [it for b in boxes for it in b["items"] if it["lang"] != "ko"]
+    for it in items:
+        ko = tr(it["title"])
+        if ko:
+            it["title_ko"] = ko
+    for it in items:
+        if it["preview"]:
+            ko = tr(it["preview"])
+            if ko:
+                it["preview_ko"] = ko
+    for it in items:  # 이미 저장된 번역이 있으면 항상 반영
+        if "title_ko" not in it and it["title"] in cache:
+            it["title_ko"] = cache[it["title"]]
+    keep = dict(list(cache.items())[-3000:])
+    DATA.mkdir(exist_ok=True)
+    path.write_text(json.dumps(keep, ensure_ascii=False), encoding="utf-8")
+    print(f"번역: 제목 {sum('title_ko' in i for i in items)}/{len(items)}, 미리보기 {sum('preview_ko' in i for i in items)}")
+
+
 def summarize(item):
     """나중에 AI 요약을 붙일 자리. 지금은 아무것도 하지 않습니다."""
     return item
@@ -230,8 +292,9 @@ def main():
             }))
         boxes_out.append({"id": box["id"], "title": box["title"], "items": items})
 
+    translate_items(boxes_out)
     DATA.mkdir(exist_ok=True)
-    day = {"date": today, "generated": now.isoformat(timespec="minutes"), "boxes": boxes_out, "problems": problems}
+    day ={"date": today, "generated": now.isoformat(timespec="minutes"), "boxes": boxes_out, "problems": problems}
     (DATA / f"{today}.json").write_text(json.dumps(day, ensure_ascii=False, indent=1), encoding="utf-8")
 
     files = sorted(DATA.glob("20??-??-??.json"), reverse=True)

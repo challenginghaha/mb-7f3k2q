@@ -30,6 +30,7 @@ main{display:grid;grid-template-columns:repeat(12,1fr);gap:14px;padding:10px 20p
 .t{font-weight:600;color:var(--ink);text-decoration:none;display:block}
 .t:hover{color:var(--accent);text-decoration:underline}
 .meta{color:var(--sub);font-size:12.5px;margin:2px 0}
+.orig{color:var(--sub);font-size:12.5px;font-style:italic;margin-top:1px}
 .pv{color:var(--sub);font-size:13.5px;margin:3px 0 6px}
 .acts{display:flex;gap:6px;flex-wrap:wrap}
 .acts button,.acts a{font-size:12px;padding:2px 8px;border-radius:6px;border:1px solid var(--line);background:transparent;color:var(--sub);text-decoration:none}
@@ -138,9 +139,10 @@ function itemHtml(it){
   const isRead = read[it.id], isLater = later[it.id];
   const also = it.also && it.also.length;
   return `<div class="item ${isRead ? "read" : ""}" data-id="${it.id}">
-    <a class="t" href="${esc(it.link)}" target="_blank" rel="noopener">${it.kind === "video" ? '<span class="vid">▶ 영상</span> ' : ""}${esc(it.title)}</a>
+    <a class="t" href="${esc(it.link)}" target="_blank" rel="noopener">${it.kind === "video" ? '<span class="vid">▶ 영상</span> ' : ""}${esc(it.title_ko || it.title)}</a>
+    ${it.title_ko ? `<div class="orig">${esc(it.title)}</div>` : ""}
     <div class="meta">${esc(it.source)} · ${ago(it.published)}</div>
-    ${it.preview ? `<div class="pv">${esc(it.preview)}</div>` : ""}
+    ${it.preview ? `<div class="pv">${esc(it.preview_ko || it.preview)}</div>` : ""}
     <div class="acts">
       ${it.lang !== "ko" ? `<a href="${esc(tr(it.link))}" target="_blank" rel="noopener">한국어로 번역</a>` : ""}
       <button data-act="later" class="${isLater ? "on" : ""}">${isLater ? "★ 저장됨" : "☆ 나중에"}</button>
@@ -161,6 +163,7 @@ function render(){
       const sb = document.createElement("section");
       sb.className = `box studybox ${l.cls}` + (collapsed[l.id] ? " collapsed" : "");
       sb.dataset.box = l.id;
+      sb.setAttribute("translate", "no");  // 브라우저 자동 번역이 학습 칸을 건드리지 않게
       sb.innerHTML = `<h2><span>${NAMES[l.id]}</span><small>▾</small></h2><div class="body"><div class="st"></div></div>`;
       main.appendChild(sb);
       Study.mount(sb.querySelector(".st"), lang, current || kstToday());
