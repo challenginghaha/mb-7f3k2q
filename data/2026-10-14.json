@@ -1,6 +1,6 @@
 {
  "date": "2026-10-14",
- "generated": "2026-10-14T16:16+09:00",
+ "generated": "2026-10-14T16:28+09:00",
  "boxes": [
   {
    "id": "realestate",
@@ -68,6 +68,18 @@
    "title": "주식",
    "items": [
     {
+     "id": "7ab30605b5f5",
+     "title": "U.S. Treasury yields inch lower as investors await key inflation report",
+     "link": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
+     "source": "CNBC",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-14T16:21+09:00",
+     "preview": "U.S. Treasury yields inched lower on Wednesday as investors awaited the latest CPI inflation reading ahead of a flurry of economic data this week.",
+     "also": [],
+     "title_ko": "투자자들이 주요 인플레이션 보고서를 기다리는 동안 미국 국채 수익률은 1인치 낮아집니다."
+    },
+    {
      "id": "c76148c3b401",
      "title": "LSEG taps Nvidia for faster historical market data processing",
      "link": "https://www.investing.com/news/stock-market-news/lseg-teams-up-with-nvidia-for-faster-market-data-processing-4948123",
@@ -112,18 +124,6 @@
      "published": "2026-10-14T14:48+09:00",
      "preview": "",
      "also": []
-    },
-    {
-     "id": "1674475a81af",
-     "title": "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032",
-     "link": "https://www.cnbc.com/2026/10/14/korea-india-hyundai-cars-investment.html",
-     "source": "CNBC",
-     "lang": "en",
-     "kind": "article",
-     "published": "2026-10-14T11:04+09:00",
-     "preview": "Korean car company Hyundai says India is a strategic core market",
-     "also": [],
-     "title_ko": "한국의 자동차 메이커 현대자동차는 2032년까지 인도에 155억 $ 규모의 '전략적' 투자를 계획하고 있습니다."
     }
    ]
   },
