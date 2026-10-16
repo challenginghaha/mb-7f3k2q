@@ -1,11 +1,22 @@
 {
  "date": "2026-10-16",
- "generated": "2026-10-16T15:58+09:00",
+ "generated": "2026-10-16T16:03+09:00",
  "boxes": [
   {
    "id": "realestate",
    "title": "부동산",
    "items": [
+    {
+     "id": "122f737ecca6",
+     "title": "[속보]정부 “올 수도권 주택 착공, 목표보다 최대 5만가구 부족”",
+     "link": "https://www.mk.co.kr/news/realestate/12177748",
+     "source": "매일경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-16T16:00+09:00",
+     "preview": "정부가 올해 수도권 주택 착공 물량을 21만8000~23만5000가구로 전망했다. 당초 목표인 26만8000가구보다 3만3000천~5만가구 부족하다. 국무조정실과 국토교통부는 16..",
+     "also": []
+    },
     {
      "id": "1c2e45e9ee4f",
      "title": "SH, 고덕강일3단지 토지임대부 1305가구 본청약… 1순위 11월 4~5일 접수",
@@ -62,17 +73,6 @@
      "also": []
     },
     {
-     "id": "36208d5aa6b5",
-     "title": "국감 앞둔 서울시의 반격…“정비구역 해제로 43만가구 공급 기회 날렸다”",
-     "link": "https://www.mk.co.kr/news/realestate/12177788",
-     "source": "매일경제",
-     "lang": "ko",
-     "kind": "article",
-     "published": "2026-10-16T14:12+09:00",
-     "preview": "오는 19일 서울시에 대한 국회 국토교통위원회의 국정감사가 열리는 가운데 서울시가 오세훈 서울시장 취임 이후 서울 주택 인허가·착공 물량이 줄었다는 이재명 대통령의 발언에 정면 반..",
-     "also": []
-    },
-    {
      "id": "cadef4d7393e",
      "title": "한국부동산원장 \"주간 가격 통계, 장기적 추세상 타당\"",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nTFk1MjRnM1J1NVVIQ3NIU0hLWDlET2N0SHRxR2cxQS1nOFJRUXlFeE5HZnFPSzBlTXgwMl9FeWVMcmVraTZFbDhFc1htOGF5M3dHeGlaS1RiQjN6bExYbU5lQlhJQ1R5Wk5FNnQtNjMydFBSbkE?oc=5",
@@ -101,28 +101,28 @@
    "title": "주식",
    "items": [
     {
-     "id": "ca878ef39dee",
-     "title": "Rockhopper issues shares to non-executive director for fees",
-     "link": "https://www.investing.com/news/company-news/rockhopper-issues-shares-to-nonexecutive-director-for-fees-93CH-4953184",
+     "id": "ed23420944c9",
+     "title": "Jefferies says this stock remains a top pick among biotech midcaps",
+     "link": "https://www.investing.com/news/stock-market-news/jefferies-says-this-stock-remains-a-top-pick-among-biotech-midcaps-4953240",
      "source": "Investing.com",
      "lang": "en",
      "kind": "article",
-     "published": "2026-10-16T15:35+09:00",
+     "published": "2026-10-16T15:54+09:00",
      "preview": "",
      "also": [],
-     "title_ko": "Rockhopper, 비상임 이사에게 수수료로 주식 발행"
+     "title_ko": "Jefferies는 이 주식이 생명 공학 미드 캡 중에서 여전히 최고의 선택이라고 말합니다."
     },
     {
-     "id": "ea053cf50504",
-     "title": "IRFC H1 FY2027 slides: revenue up 21%, diversification gains traction",
-     "link": "https://www.investing.com/news/company-news/irfc-h1-fy2027-slides-revenue-up-21-diversification-gains-traction-93CH-4953183",
+     "id": "1f6719544a07",
+     "title": "Nordex shares jump as Q3 profit beats consensus, margin guidance raised",
+     "link": "https://www.investing.com/news/earnings/nordex-shares-jump-as-q3-profit-beats-consensus-margin-guidance-raised-4953239",
      "source": "Investing.com",
      "lang": "en",
      "kind": "article",
-     "published": "2026-10-16T15:34+09:00",
+     "published": "2026-10-16T15:54+09:00",
      "preview": "",
      "also": [],
-     "title_ko": "IRFC H1 FY2027 슬라이드: 매출 21% 증가, 다각화로 견인력 확보"
+     "title_ko": "3분기 이익이 컨센서스를 앞지르면서 Nordex 주식 점프, 마진 가이던스 상승"
     },
     {
      "id": "059f197f93f1",
@@ -204,6 +204,19 @@
      "preview_ko": "OpenAI의 ChatGPT Atlas 브라우저는 사라졌지만, 이제 ChatGPT의 Google Chrome 확장 프로그램은 이미 사용 중인 브라우저 탭을 사용할 수 있는 몇 가지 업그레이드를 받고 있습니다..."
     },
     {
+     "id": "71255465aa71",
+     "title": "Parallax",
+     "link": "https://www.producthunt.com/products/parallax-5",
+     "source": "Product Hunt",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-16T04:25+09:00",
+     "preview": "Every coding agent you run, in one place. Discussion | Link",
+     "also": [],
+     "title_ko": "시차",
+     "preview_ko": "실행하는 모든 코딩 에이전트를 한 곳에서. 토론 | 링크"
+    },
+    {
      "id": "a72d1e4da6b0",
      "title": "Bringing GPT-Rosalind to academic research labs",
      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
@@ -215,18 +228,6 @@
      "also": [],
      "title_ko": "학술 연구실에 GPT-Rosalind 도입",
      "preview_ko": "Rosalind Academic Plan을 소개합니다. GPT-Rosalind에 대한 자격을 갖춘 학술 실험실 후원 액세스 및 생명 과학 연구를 발전시키는 도구를 제공합니다."
-    },
-    {
-     "id": "a0d58fa52c7a",
-     "title": "Krea 3 – An image model built for editing at scale",
-     "link": "https://www.krea.ai/krea-3",
-     "source": "Hacker News",
-     "lang": "en",
-     "kind": "article",
-     "published": "2026-10-16T01:04+09:00",
-     "preview": "",
-     "also": [],
-     "title_ko": "크레아 3 – 대규모 편집을 위해 제작된 이미지 모델"
     }
    ]
   },
@@ -235,25 +236,47 @@
    "title": "트렌드",
    "items": [
     {
-     "id": "1142775ab06a",
-     "title": "집값 규제가 모두에게 같은 기회일까요?",
-     "link": "https://www.youtube.com/shorts/u9uCPK4ipc0",
+     "id": "ce7f111ed38f",
+     "title": "편의점 매대 한 칸도 전쟁이다",
+     "link": "https://www.youtube.com/watch?v=NOiXtcP3WcY",
      "source": "YouTube · 주언규 (재테크)",
      "lang": "ko",
      "kind": "video",
-     "published": "2026-10-16T12:04+09:00",
-     "preview": "집값 규제가 모두에게 같은 기회일까요? 주언규님과 쏘쿨님은 집값 규제가 누구에게 기회가 되는지를 두고 이야기를 나누세요 가격 상승이 눌리면 새로 진입할 기회가 생길 수 있지만 대출까지 막히면 사정이 달라질 수 있다는 거예요 앞으로 벌 소득은 있어도 아직 모은 돈이 적은 사람은 대출을 활…",
+     "published": "2026-10-16T15:04+09:00",
+     "preview": "편의점 매대 한 칸도 전쟁이다 새로운 유행은 편의점 매대에 어떻게 들어올까요 박준형님은 마케터와 MD가 온라인과 해외 시장을 조사하며 새로운 상품과 소비 흐름을 살핀다고 설명하세요 다만 해외에서 인기 있다고 한국에서도 모두 성공하는 것은 아니라고 하십니다 상품을 들여온 뒤에는 반응과 매…",
      "also": []
     },
     {
-     "id": "738378fecf66",
+     "id": "76ad0dd4e193",
      "title": "회사에 낮잠방을 만들자",
-     "link": "https://www.youtube.com/shorts/A9P775_zCR4",
+     "link": "https://www.youtube.com/watch?v=A9P775_zCR4",
      "source": "YouTube · 세바시 강연 (지식)",
      "lang": "ko",
      "kind": "video",
      "published": "2026-10-15T20:00+09:00",
      "preview": "“노숙인도 잠을 자고 있으면 부러워요.” 잠은 가장 사적인 일이지만, 우리가 잠들지 못하는 이유는 꼭 개인에게만 있지 않습니다. 오늘 세바시45에서는 『모멸감』의 저자이자 사회학자 김찬호 교수와 함께, 잠들지 못하는 개인의 고통에서 ‘잠들 수 없는 사회’의 구조까지 깊이 들여다봅니다.…",
+     "also": []
+    },
+    {
+     "id": "864b588e18e2",
+     "title": "\"세계 5위 아닙니다.\" 전 특전사령관이 경고한 한국 군대 현실ㅣ지식인초대석 (전인범 장군 풀버전)",
+     "link": "https://www.youtube.com/watch?v=v2s_9rJSXZs",
+     "source": "YouTube · 지식인사이드 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-15T20:00+09:00",
+     "preview": "오늘은 전인범 장군님을 모시고 한국 군대의 현실과 주한미군에 대해 이야기 나누었습니다 영상이 유익 했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요! #전인범 #지식인사이드 #북한 #한국 #군사력 #국방 #미국 #주한미군 ㅡ 00:00 구독자 인사 01:52 38년 특전사령관…",
+     "also": []
+    },
+    {
+     "id": "5cb5d5d4dc03",
+     "title": "길거리 흔한 코트를 한정판처럼 보이게 만드는 단 하나의 디테일 (가을 패션)",
+     "link": "https://www.youtube.com/watch?v=X7rkuTO2fe4",
+     "source": "YouTube · 큰손 노희영 (트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-15T18:15+09:00",
+     "preview": "안녕하세요 깍지님들👋🏻 어느덧 벌써 가을이 왔네요 슬슬 가을 코트를 꺼낼 시기인데요 그래서 오늘은 흔한 가을 코트로 어떻게 하면 개성이 돋보이고 나의 취향과 트렌디한 색감을 녹여내서 입을 수 있는지 알아보는 시간을 준비했습니다 여러분들은 어떤 스타일의 코트 아우터를 좋아하시나요? 어떤…",
      "also": []
     },
     {
@@ -268,6 +291,17 @@
      "also": []
     },
     {
+     "id": "759175a22adf",
+     "title": "\"잘해주지 말고\" 나를 무시하는 사람에게 '이 말'부터 하세요ㅣEp. 책과사람 178 (나민애 교수 1부)",
+     "link": "https://www.youtube.com/watch?v=cSa_zfhiT4c",
+     "source": "YouTube · 책과삶 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-15T18:00+09:00",
+     "preview": "안녕하세요.\"책과삶\" 입니다. 오늘은 서울대학교 나민애 교수님과 아름다운 우리 단어에 대해 알아봤습니다. 세상의 모든 감동과 지식을 전합니다. 구독과 좋아요 꾸욱 눌러주시면 더욱 열심히 좋은 영상으로 보답하겠습니다. 📖 나민애 교수님의 ‘오래 곁에 두어 좋은 말’ - 교보문고: #책과삶…",
+     "also": []
+    },
+    {
      "id": "873a4b98972c",
      "title": "명성? 집? 가족? 인생은 랄프 로렌처럼 살고 싶은 이유",
      "link": "https://www.youtube.com/watch?v=G4hQedUXX2w",
@@ -279,46 +313,13 @@
      "also": []
     },
     {
-     "id": "b78716f577f2",
+     "id": "36bd0d1e597a",
      "title": "\"5억 → 40억까지\" 이명신의 승부의 감각",
-     "link": "https://www.youtube.com/shorts/hyR8j1BlS8E",
+     "link": "https://www.youtube.com/watch?v=hyR8j1BlS8E",
      "source": "YouTube · 폴인 fol:in (전문가 인터뷰)",
      "lang": "ko",
      "kind": "video",
      "published": "2026-10-14T18:00+09:00",
-     "preview": "",
-     "also": []
-    },
-    {
-     "id": "7fef9cb64099",
-     "title": "\"10년 뒤 몸값 폭등한다\" AI 시대 희귀해질 사람 특징ㅣ Ep. 책과사람 177 (정재민 교수)",
-     "link": "https://www.youtube.com/watch?v=6J26J1-fVrQ",
-     "source": "YouTube · 책과삶 (지식)",
-     "lang": "ko",
-     "kind": "video",
-     "published": "2026-10-14T18:00+09:00",
-     "preview": "안녕하세요.\"책과삶\" 입니다. 오늘은 카이스트 정재민 부총장님과 ai 시대의 부작용에 대해 알아봤습니다. 세상의 모든 감동과 지식을 전합니다. 구독과 좋아요 꾸욱 눌러주시면 더욱 열심히 좋은 영상으로 보답하겠습니다. 📖 정재민 부총장님의 ‘생각을 외주화한 사람들’ - 교보문고: - 예스…",
-     "also": []
-    },
-    {
-     "id": "2c32057a6215",
-     "title": "주변 강대국들이 눈치챈 한국 군사력의 진짜 체급ㅣ지식인초대석: 합석 EP.19 (최준영 X 채승병)",
-     "link": "https://www.youtube.com/watch?v=OyCyr_oJQqw",
-     "source": "YouTube · 지식인사이드 (지식)",
-     "lang": "ko",
-     "kind": "video",
-     "published": "2026-10-12T19:00+09:00",
-     "preview": "오늘은 최준영 박사님, 채승병 박사님을 모시고 전 세계 군사력 서열과 현대전의 양상에 대해 알아봤습니다. 영상이 유익 했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요! #최준영 #채승병 #지식인사이드 #전쟁 #군사 #무기 #AI #정보보안 #중국 ㅡ 00:00 인트로 00:…",
-     "also": []
-    },
-    {
-     "id": "cac9f3dfa409",
-     "title": "저녁에 먹어도 부담 없는 두부면 파스타 레시피",
-     "link": "https://www.youtube.com/shorts/EJk5uRUeEC4",
-     "source": "YouTube · 큰손 노희영 (트렌드)",
-     "lang": "ko",
-     "kind": "video",
-     "published": "2026-10-12T18:00+09:00",
      "preview": "",
      "also": []
     },
@@ -347,13 +348,5 @@
    ]
   }
  ],
- "problems": [
-  "트렌드 / YouTube · 희렌최널 Hirenze (말 잘하는 법): 접속 실패 → 저장해 둔 목록 사용",
-  "트렌드 / YouTube · 폴인 fol:in (전문가 인터뷰): 접속 실패 → 저장해 둔 목록 사용",
-  "트렌드 / YouTube · 주언규 (재테크): 접속 실패 → 저장해 둔 목록 사용",
-  "트렌드 / YouTube · 책과삶 (지식): 접속 실패 → 저장해 둔 목록 사용",
-  "트렌드 / YouTube · 티타임즈TV (회사 트렌드): 접속 실패 → 저장해 둔 목록 사용",
-  "트렌드 / YouTube · 지식인사이드 (지식): 접속 실패 → 저장해 둔 목록 사용",
-  "트렌드 / YouTube · 큰손 노희영 (트렌드): 접속 실패 → 저장해 둔 목록 사용"
- ]
+ "problems": []
 }
