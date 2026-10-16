@@ -3,7 +3,12 @@
 (function () {
   const LANGS = {
     en: { name: "영어", data: () => window.STUDY_EN, speech: "en-US" },
-    ja: { name: "일본어", data: () => window.STUDY_JA, speech: "ja-JP" }
+    // 일본어: 기본 7일 + 교재 코스 파일(ja_course_*.js)을 합침. 같은 날짜면 코스 쪽이 우선
+    ja: { name: "일본어", speech: "ja-JP", data: () => {
+      const b = window.STUDY_JA, c = window.STUDY_JA_COURSE;
+      if (!b) return null;
+      return c ? Object.assign({}, b, { days: Object.assign({}, b.days, c) }) : b;
+    } }
   };
   const TABS = [["words", "단어"], ["sentences", "문장"], ["expressions", "표현"], ["review", "복습"], ["quiz", "퀴즈"]];
   const TYPE_LABEL = { words: "단어", sentences: "문장", expressions: "표현" };
@@ -88,7 +93,7 @@
     return `<div class="si ${m === "k" ? "known" : m === "u" ? "unk" : ""}" data-id="${esc(o.id)}">
       <div class="si-top"><span class="si-t">${txt}</span>
         <button class="play" data-st="play" title="듣기">🔊</button></div>
-      <div class="si-k">${esc(it.k)}${it.g ? ` <span class="tag">${esc(it.g)}</span>` : ""}${it.q ? ` <span class="tag warn">확인 필요</span>` : ""}</div>
+      <div class="si-k">${esc(it.k)}${it.s ? ` <span class="tag sit">${esc(it.s)}</span>` : ""}${it.g ? ` <span class="tag">${esc(it.g)}</span>` : ""}${it.q ? ` <span class="tag warn">확인 필요</span>` : ""}</div>
       ${it.u ? `<div class="si-u">${esc(it.u)}</div>` : ""}
       ${it.r ? `<div class="si-r">📖 ${rich(it.r)}</div>` : ""}
       ${fm}
