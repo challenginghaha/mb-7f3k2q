@@ -1,0 +1,357 @@
+{
+ "date": "2026-10-17",
+ "generated": "2026-10-17T07:55+09:00",
+ "boxes": [
+  {
+   "id": "realestate",
+   "title": "부동산",
+   "items": [
+    {
+     "id": "1d4664faeb65",
+     "title": "부평 산곡역자이힐스테이트&하늘채 등 6천734가구 내주 분양",
+     "link": "https://www.yna.co.kr/view/AKR20261016152400003",
+     "source": "연합뉴스",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-17T07:05+09:00",
+     "preview": "(세종=연합뉴스) 오진송 기자 = 다음 주에는 전국에서 6천734가구가 분양에 나선다.",
+     "also": []
+    },
+    {
+     "id": "f6fc8df51aef",
+     "title": "日 시니어주택 96% '식사 제공'…\"입주민이 첫손 꼽는 서비스\"",
+     "link": "https://www.hankyung.com/article/202610153875i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-17T07:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "bf0d740f8f15",
+     "title": "“은마 4억 낼 때, 잠실5 8억 환급”…50년 전 광고는 알고 있었다 [안장원의 부동산 노트]",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5dDZPZHp5TVRvR0VhS2pud2pzZmMzckVjZ3pWZnlHSG1TWXRNazR1Zk55VUUzY3lna1BpU2taRl85ZUJQRWJrekpZRFJ6ZHI0aEZxNlFn?oc=5",
+     "source": "중앙일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-17T06:01+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "095d8846846b",
+     "title": "같은 ‘동탄’인데… 동탄역 84㎡는 22억, 서동탄역은 6억대",
+     "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/17/GJ2G2SPXK5FCDBMDOIPYSXSTQI/",
+     "source": "조선비즈",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-17T06:00+09:00",
+     "preview": "경기 화성 동탄역과 서동탄역 주변 아파트값이 가격 수준뿐 아니라 상승 속도에서도 차이를 보이고 있다. 동탄역 주변에서는 전용면적 84㎡가 22억원을 넘긴 반면, 서동탄역 주변 주요 단지는 같은 면적이 6억원대에 거래되고 있다. 서동탄역 일대도 집값이 반등했지만 2021~2022년 전고점…",
+     "also": []
+    },
+    {
+     "id": "dae65b1401a0",
+     "title": "'15.8억' 옆동과 자산격차 10억…\"우리도 분양해줘\" 강남 아파트 시끌",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwTUtFT3ZHRlo4V3kxRldmQXVUNWRHOWtsYlpXOWpMMUpjWS1ZRnB2N0RiR25MY0YwS3BBb1U0TG1ibk9lYXVTZlpzejBHaW5uVGZuYUpsdjhOOExoRDVLdC10ZGtZRkNnMEEtTnR1QdIBb0FVX3lxTFAwTUtFT3ZHRlo4V3kxRldmQXVUNWRHOWtsYlpXOWpMMUpjWS1ZRnB2N0RiR25MY0YwS3BBb1U0TG1ibk9lYXVTZlpzejBHaW5uVGZuYUpsdjhOOExoRDVLdC10ZGtZRkNnMEEtTnR1QQ?oc=5",
+     "source": "머니투데이",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-17T04:50+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "f3875aac154a",
+     "title": "국감 앞두고 주택정책 백서...\"공급절벽은 박원순 시정 탓\"",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DQ3RPMTdkNFFPcHFXbHo4N3dfTWxqUENCejJhV1ppYVR6ZlpPc1ZtLW5qU29zcmdkYlFqb0s3czF2cjdyemR4ZWFkSDBfV0FubUFGQkp6TUExVEJnRHc?oc=5",
+     "source": "YTN",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-16T22:50+09:00",
+     "preview": "",
+     "also": [
+      {
+       "source": "YTN",
+       "title": "국감 앞두고 주택정책 백서...\"공급절벽은 박원순 시정 탓\"",
+       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pQ001Y0tWdEVvX05Ub0phWTBqOEZ1TldFdXh2a3UxSTQ2UXBzRnVJcHVvTk01bW5sYkg5UDJENFZOMl9Jd1VBNmdnZzJoTDg4b0ZmRU9jcl9QRm1uaWNqeExhNF9abHVvajU3MDdUMm5SNGpOS1E?oc=5"
+      }
+     ]
+    },
+    {
+     "id": "71558f7f1d1e",
+     "title": "“추가 대출 규제 없다” 못 박은 정부…강남 집값 잡혔다는데, 서울 외곽은?",
+     "link": "https://www.mk.co.kr/news/realestate/12178244",
+     "source": "매일경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-16T21:20+09:00",
+     "preview": "정부가 강남3구를 중심으로 주택가격 상승세가 다소 진정되고 있다고 진단했다. 지난해 잇따라 내놓은 대출 규제에 이어 추가 규제 가능성에도 선을 그었다. 다만 서울 외곽과 중저가 주..",
+     "also": []
+    },
+    {
+     "id": "8471d0ea19c2",
+     "title": "송미령 “이웃에 농사 맡긴 고령농, 처분 걱정 없게 설명 당부”",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04703526645613576",
+     "source": "이데일리",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-16T17:31+09:00",
+     "preview": "송미령 농림축산식품부 장관이 농지조사 현장 담당자들에게 상속·관행적 임대차 등 일반적인 위반 사안은 처분하지 않는다는 정부 방침을 정확히 안내해달라고 당부했다. 조사 과정에서 확인된 농촌 현실을 반영해 제도를 개편하고, 농업인의 불안을 해소하겠다는 취지다. 송 장관은 16일 오후 국립농…",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "stocks",
+   "title": "주식",
+   "items": [
+    {
+     "id": "ef72775c5312",
+     "title": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+     "link": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
+     "source": "CNBC",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-17T07:31+09:00",
+     "preview": "Apple’s $1,999 iPhone Duo is drawing early demand as analysts assess whether the foldable can lift iPhone pricing and revenue.",
+     "also": [],
+     "title_ko": "Apple의 $ 1,999 iPhone Duo는 회사의 상태-기호 파워를 테스트합니다.",
+     "preview_ko": "애플의 $ 1,999 아이폰 듀오는 분석가들이 접이식이 아이폰 가격과 수익을 올릴 수 있는지 여부를 평가하면서 조기 수요를 끌어 올리고 있습니다."
+    },
+    {
+     "id": "8fa8d3b46c95",
+     "title": "배당에 소각까지 다 퍼준다…실적 날개 단 '이 종목'",
+     "link": "https://www.hankyung.com/article/202610166333i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-17T07:30+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "d7cfb7203f60",
+     "title": "Ethos Technologies CEO sells over $4.6m in company stock",
+     "link": "https://www.investing.com/news/insider-trading-news/ethos-technologies-ceo-sells-over-46m-in-company-stock-93CH-4954920",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-17T07:16+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "Ethos Technologies CEO, 회사 주식 $ 4.6M 이상 매각"
+    },
+    {
+     "id": "f5096e58e7bd",
+     "title": "Ethos Technologies president Wang Lingke sells $4.5m in LIFE shares",
+     "link": "https://www.investing.com/news/insider-trading-news/ethos-technologies-president-wang-lingke-sells-45m-in-life-shares-93CH-4954918",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-17T07:16+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "Ethos Technologies 회장 Wang Lingke, $ 450만 상당의 종신주 매각"
+    },
+    {
+     "id": "78f2f8b3f339",
+     "title": "방산·증권·엔터 실적 눈높이 낮아졌다",
+     "link": "https://www.hankyung.com/article/2026101671211",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-16T19:48+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI 툴",
+   "items": [
+    {
+     "id": "d0f11237d1f3",
+     "title": "Replit is no longer working with Anthropic, CEO says",
+     "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+     "source": "TechCrunch AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-17T06:22+09:00",
+     "preview": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never an…",
+     "also": [],
+     "title_ko": "CEO는 Replit이 Anthropic과 더 이상 협력하지 않는다고 말합니다.",
+     "preview_ko": "Masad는 비용 등 여러 가지 이유로 결정을 내렸다고 말했습니다. Replit은 8월에 OpenAI와의 파트너십을 발표했지만…"
+    },
+    {
+     "id": "9a7394432446",
+     "title": "How the Claude Code team does code review",
+     "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+     "source": "Hacker News",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-17T04:04+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "Claude Code 팀이 코드를 검토하는 방법"
+    },
+    {
+     "id": "66efd2f87608",
+     "title": "The tech backlash is now in theaters",
+     "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+     "source": "The Verge AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-17T01:26+09:00",
+     "preview": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon V…",
+     "also": [],
+     "title_ko": "기술적 반발이 이제 극장에 나타났습니다.",
+     "preview_ko": "파괴적인 기술 창업자에 대한 영화는 새로운 것이 아니지만 2026은 실리콘 V를 훨씬 더 비판적으로 보는 기능으로 특이하게 쌓여 있습니다..."
+    },
+    {
+     "id": "ba4e7337aba2",
+     "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+     "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+     "source": "Hugging Face",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-16T10:44+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "스케일링 인디크 프리트레이닝: 2.8조 개의 토큰과 오픈 데이터 생성 파이프라인"
+    },
+    {
+     "id": "048077dee378",
+     "title": "GBrain Tools",
+     "link": "https://www.producthunt.com/products/gbrain",
+     "source": "Product Hunt",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-16T09:51+09:00",
+     "preview": "A password manager for AI Discussion | Link",
+     "also": [],
+     "title_ko": "GBrain 도구",
+     "preview_ko": "AI 토론을 위한 비밀번호 관리자 | 링크"
+    }
+   ]
+  },
+  {
+   "id": "trend",
+   "title": "트렌드",
+   "items": [
+    {
+     "id": "b9bcf49f7506",
+     "title": "엔비디아, 브로드컴, TSMC가 칩 속에 광케이블을 심는 이유",
+     "link": "https://www.youtube.com/watch?v=DB_pvycXuhs",
+     "source": "YouTube · 티타임즈TV (회사 트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-17T07:00+09:00",
+     "preview": "AI의 연산량이 기하급수적으로 늘어나면서 새로운 병목이 생겼습니다. 바로 칩과 칩, 랙과 랙, 서버와 서버 사이의 연결입니다. 그간 반도체의 연결은 구리선을 통해 이뤄졌는데요. 한 번에 연결해야 하는 GPU의 수가 수십 개에서 수백, 수천개로 늘어나면서 구리선이 버틸 수 있는 한계를 넘…",
+     "also": []
+    },
+    {
+     "id": "908b1b287593",
+     "title": "0원부터 시작하면 당장 해야할 3가지",
+     "link": "https://www.youtube.com/watch?v=IJu8461FR4E",
+     "source": "YouTube · 주언규 (재테크)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-16T20:03+09:00",
+     "preview": "0원부터 시작하면 당장 해야할 3가지 새로 뭘 배우러 가지 않을 겁니다 대신 딱 세 가지 챙길거예요 내가 뭘 알고, 뭘 할 수 있고 어떤 환경에 있는지 정말 내가 겪고 해결한 문제 진짜 좋아해서 오래 한거 일하면서 쌓아 온 전문성 주변에서 자꾸 나한테 물어보는 게 있잖아요 별거 아닌 것…",
+     "also": []
+    },
+    {
+     "id": "1075720519b0",
+     "title": "사우디가 미국에게 통수맞은 '5가지' 이유 ㅣ지식인 클래스 EP.31 (박현도 교수)",
+     "link": "https://www.youtube.com/watch?v=A-yZfiROY9g",
+     "source": "YouTube · 지식인사이드 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-16T18:00+09:00",
+     "preview": "오늘은 중동 전문가 박현도 교수님과 함께 사우디아라비아와 후티 반군의 갈등부터 트럼프의 중동 전략, 네옴시티의 위기까지 살펴봤습니다. 영상이 유익 했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요! #지식인사이드 #박현도 #중동정세 #사우디아라비아 #후티반군 #중동전쟁 ㅡ 0…",
+     "also": []
+    },
+    {
+     "id": "8542307e5307",
+     "title": "자녀가 잘되는 집은 엄마의 '이것'이 확실히 다릅니다 ㅣEp. 책과사람 179 (홍승표 감독)",
+     "link": "https://www.youtube.com/watch?v=xr5_iDSA5lk",
+     "source": "YouTube · 책과삶 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-16T18:00+09:00",
+     "preview": "❤ 어머니를 향한 사랑과 그리움을 담은 휴먼 다큐멘터리 [욕쟁이 할머니] 11월 4일부터 전국 메가박스에서 만나보세요! 안녕하세요.\"책과삶\" 입니다. 오늘은 홍승표 감독님과 함께 엄마의 말에 대해 알아봤습니다. 세상의 모든 감동과 지식을 전합니다. 구독과 좋아요 꾸욱 눌러주시면 더욱 열…",
+     "also": []
+    },
+    {
+     "id": "76ad0dd4e193",
+     "title": "회사에 낮잠방을 만들자",
+     "link": "https://www.youtube.com/watch?v=A9P775_zCR4",
+     "source": "YouTube · 세바시 강연 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-15T20:00+09:00",
+     "preview": "“노숙인도 잠을 자고 있으면 부러워요.” 잠은 가장 사적인 일이지만, 우리가 잠들지 못하는 이유는 꼭 개인에게만 있지 않습니다. 오늘 세바시45에서는 『모멸감』의 저자이자 사회학자 김찬호 교수와 함께, 잠들지 못하는 개인의 고통에서 ‘잠들 수 없는 사회’의 구조까지 깊이 들여다봅니다.…",
+     "also": []
+    },
+    {
+     "id": "5cb5d5d4dc03",
+     "title": "핑크 호피무늬 하나로 얌전한 명품들 씹어먹는 노희영의 압도적 스타일",
+     "link": "https://www.youtube.com/watch?v=X7rkuTO2fe4",
+     "source": "YouTube · 큰손 노희영 (트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-15T18:15+09:00",
+     "preview": "안녕하세요 깍지님들👋🏻 어느덧 벌써 가을이 왔네요 슬슬 가을 코트를 꺼낼 시기인데요 그래서 오늘은 흔한 가을 코트로 어떻게 하면 개성이 돋보이고 나의 취향과 트렌디한 색감을 녹여내서 입을 수 있는지 알아보는 시간을 준비했습니다 여러분들은 어떤 스타일의 코트 아우터를 좋아하시나요? 어떤…",
+     "also": []
+    },
+    {
+     "id": "873a4b98972c",
+     "title": "명성? 집? 가족? 인생은 랄프 로렌처럼 살고 싶은 이유",
+     "link": "https://www.youtube.com/watch?v=G4hQedUXX2w",
+     "source": "YouTube · 조승연의 탐구생활 (인문학)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-14T19:00+09:00",
+     "preview": "최근에 랄프 로렌의 삶을 다룬 다큐 ‘Very Ralph’ 상영회에 다녀왔는데요 저의 패션에도 많은 영향을 준 브랜드의 창업자인 랄프 로렌에 대해 이야기해보았습니다! ’Very Ralph‘는 쿠팡플레이에서 시청 가능합니다 *이 영상에는 랄프 로렌의 유료광고가 포함되어 있습니다 채널에 가…",
+     "also": []
+    },
+    {
+     "id": "36bd0d1e597a",
+     "title": "\"5억 → 40억까지\" 이명신의 승부의 감각",
+     "link": "https://www.youtube.com/watch?v=hyR8j1BlS8E",
+     "source": "YouTube · 폴인 fol:in (전문가 인터뷰)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-14T18:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "452519528612",
+     "title": "남 눈치 안 보는데, 인기 많은 사람 특징 3가지",
+     "link": "https://www.youtube.com/watch?v=3hGsmV-_fEI",
+     "source": "YouTube · 희렌최널 Hirenze (말 잘하는 법)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-09T22:00+09:00",
+     "preview": "남의 눈치를 보지 않고 할 말도 다하는데 사람들이 좋아하는 사람 VS 아닌 사람의 차이는 무엇일까요? 오늘은 전설의 미드 '프렌즈'의 주인공 피비의 매력 분석을 통해 남 눈치 보지 않는데 인기 많은 사람의 특징을 알아봅니다. 오늘도 최널고정해주신 희릿 내일도 최고길만 걸으세요!",
+     "also": []
+    },
+    {
+     "id": "01c07084823a",
+     "title": "💰나의 순자산, 미래가치, 노후를 계산해보자! (feat. 경제적 자유 계산기 버전 3 대공개)",
+     "link": "https://www.youtube.com/watch?v=4uwYUJUpkQc",
+     "source": "YouTube · 미키피디아",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-04T12:00+09:00",
+     "preview": "경제적 자유를 이루려면, 나에게는 얼마가 필요할까요? 이번 영상에서는 ChatGPT Work와 함께 만든 순자산 관리 스프레드시트, 미래 소득의 현재 가치 계산기, 그리고 여러분의 의견을 반영해서 업그레이드한 ‘경제적 자유 시뮬레이터' 3번째 버전까지 소개합니다. ⚠️이 영상에는 [Ch…",
+     "also": []
+    }
+   ]
+  }
+ ],
+ "problems": []
+}
