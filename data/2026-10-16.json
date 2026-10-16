@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "generated": "2026-10-16T12:56+09:00",
+ "generated": "2026-10-16T13:07+09:00",
  "boxes": [
   {
    "id": "realestate",
@@ -101,6 +101,53 @@
    "title": "주식",
    "items": [
     {
+     "id": "88bcff289efc",
+     "title": "[속보] 코스닥 장중 4.9% 급등에 '매수 사이드카' 발동",
+     "link": "https://www.hankyung.com/article/2026101662937",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-16T13:01+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "a1324ed004f8",
+     "title": "Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes",
+     "link": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
+     "source": "CNBC",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-16T12:53+09:00",
+     "preview": "BTS' world tour and rising global demand for newer K-pop acts are fueling earnings expectations, sending Hybe shares soaring.",
+     "also": [],
+     "title_ko": "케이팝 센세이션 방탄소년단 (BTS) 의 투어가 수입에 대한 희망을 높이는 가운데 하이브 (Hybe) 가 10% 의 수익을 올",
+     "preview_ko": "BTS의 월드 투어와 새로운 K-POP 공연에 대한 글로벌 수요 증가는 수익 기대치를 높여 하이베 주식이 급증하고 있습니다."
+    },
+    {
+     "id": "455c949b521c",
+     "title": "Asia stocks rebound as chipmakers recover, Indonesia rout deepens with 11% slump",
+     "link": "https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-chipmakers-recover-while-indonesia-rout-deepens-4953029",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-16T12:48+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "아시아 증시는 칩 메이커의 회복에 따라 반등하고, 인도네시아는 11% 의 부진으로 더욱 깊어지고 있습니다."
+    },
+    {
+     "id": "3ecab3ba1392",
+     "title": "코스피 급락하자 8조원 이탈…스마트개미 갈아탄 '이곳'",
+     "link": "https://www.hankyung.com/article/202610166219i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-16T12:16+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
      "id": "3b65c7cb6824",
      "title": "Everpure chief product officer Ajay Singh sells $2.8m in company shares",
      "link": "https://www.investing.com/news/insider-trading-news/everpure-chief-product-officer-ajay-singh-sells-28m-in-company-shares-93CH-4953014",
@@ -111,59 +158,6 @@
      "preview": "",
      "also": [],
      "title_ko": "Everpure 최고 제품 책임자 Ajay Singh, 회사 주식 $ 280만 매각"
-    },
-    {
-     "id": "5cc9edc1a627",
-     "title": "Why is BayCurrent stock surging today?",
-     "link": "https://www.investing.com/news/stock-market-news/why-is-baycurrent-stock-surging-today-93CH-4953006",
-     "source": "Investing.com",
-     "lang": "en",
-     "kind": "article",
-     "published": "2026-10-16T12:10+09:00",
-     "preview": "",
-     "also": [
-      {
-       "source": "Investing.com",
-       "title": "Why is Shift stock surging today?",
-       "link": "https://www.investing.com/news/stock-market-news/why-is-shift-stock-surging-today-93CH-4953016"
-      }
-     ],
-     "title_ko": "오늘날 BayCurrent 재고가 급증하는 이유는 무엇입니까?"
-    },
-    {
-     "id": "2bda89abb47a",
-     "title": "20% 폭락에도 \"증시 끄떡없다\"…정부는 자신만만한 이유",
-     "link": "https://www.hankyung.com/article/2026101658846",
-     "source": "한국경제",
-     "lang": "ko",
-     "kind": "article",
-     "published": "2026-10-16T10:21+09:00",
-     "preview": "",
-     "also": []
-    },
-    {
-     "id": "31db47a6799d",
-     "title": "'일단' 하락세는 멈췄다…코스피, 반등 출발에 5600선 회복",
-     "link": "https://www.hankyung.com/article/2026101657236",
-     "source": "한국경제",
-     "lang": "ko",
-     "kind": "article",
-     "published": "2026-10-16T09:35+09:00",
-     "preview": "",
-     "also": []
-    },
-    {
-     "id": "633aef76a35b",
-     "title": "A lot changed in stock market in just a few months. The single biggest risk did not",
-     "link": "https://www.cnbc.com/2026/10/15/spx-sp500-tech-stocks-invest.html",
-     "source": "CNBC",
-     "lang": "en",
-     "kind": "article",
-     "published": "2026-10-16T08:12+09:00",
-     "preview": "In 2025 and into 2026 investors were told to avoid S&P 500 tech stock risk by moving to equal-weight. That failed. Now the AI trade is reeling. So what's next?",
-     "also": [],
-     "title_ko": "불과 몇 달 만에 주식 시장에서 많은 것이 바뀌었습니다. 가장 큰 단일 위험은 그렇지 않았습니다.",
-     "preview_ko": "2025년과 2026년에 투자자들은 동등한 비중으로 이동하여 S&P 500 기술 주식 위험을 피하라는 말을 들었다. 실패했습니다. 이제 인공지능 거래가 활발해지고 있습니다. 다음 단계는 무엇인가요?"
     }
    ]
   },
@@ -239,19 +233,130 @@
   {
    "id": "trend",
    "title": "트렌드",
-   "items": []
+   "items": [
+    {
+     "id": "1142775ab06a",
+     "title": "집값 규제가 모두에게 같은 기회일까요?",
+     "link": "https://www.youtube.com/shorts/u9uCPK4ipc0",
+     "source": "YouTube · 주언규 (재테크)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-16T12:04+09:00",
+     "preview": "집값 규제가 모두에게 같은 기회일까요? 주언규님과 쏘쿨님은 집값 규제가 누구에게 기회가 되는지를 두고 이야기를 나누세요 가격 상승이 눌리면 새로 진입할 기회가 생길 수 있지만 대출까지 막히면 사정이 달라질 수 있다는 거예요 앞으로 벌 소득은 있어도 아직 모은 돈이 적은 사람은 대출을 활…",
+     "also": []
+    },
+    {
+     "id": "a1c7602dcf50",
+     "title": "내 능력이 퇴보하지 않고 AI 쓰려면 이렇게 하세요 (이제현 KIST AIX 전략실장)",
+     "link": "https://www.youtube.com/watch?v=o7WlANaRKL4",
+     "source": "YouTube · 티타임즈TV (회사 트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-15T18:00+09:00",
+     "preview": "금요일부터 일요일 점심까지 이틀 반 동안 쉬지 않고 토큰을 태운 AI 에이전트. 너무나 일을 열심히 하길래 잔뜩 기대를 하며 결과를 열어보니, 작동이 되기는 커녕 처리해달라고 부탁했던 데이터베이스를 이미 다 날려 먹은 뒤였습니다. 이제현 KIST AIX 전략실장이 GPT-5.6 솔에게…",
+     "also": []
+    },
+    {
+     "id": "873a4b98972c",
+     "title": "명성? 집? 가족? 인생은 랄프 로렌처럼 살고 싶은 이유",
+     "link": "https://www.youtube.com/watch?v=G4hQedUXX2w",
+     "source": "YouTube · 조승연의 탐구생활 (인문학)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-14T19:00+09:00",
+     "preview": "최근에 랄프 로렌의 삶을 다룬 다큐 ‘Very Ralph’ 상영회에 다녀왔는데요 저의 패션에도 많은 영향을 준 브랜드의 창업자인 랄프 로렌에 대해 이야기해보았습니다! ’Very Ralph‘는 쿠팡플레이에서 시청 가능합니다 *이 영상에는 랄프 로렌의 유료광고가 포함되어 있습니다 채널에 가…",
+     "also": []
+    },
+    {
+     "id": "b78716f577f2",
+     "title": "\"5억 → 40억까지\" 이명신의 승부의 감각",
+     "link": "https://www.youtube.com/shorts/hyR8j1BlS8E",
+     "source": "YouTube · 폴인 fol:in (전문가 인터뷰)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-14T18:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "7fef9cb64099",
+     "title": "\"10년 뒤 몸값 폭등한다\" AI 시대 희귀해질 사람 특징ㅣ Ep. 책과사람 177 (정재민 교수)",
+     "link": "https://www.youtube.com/watch?v=6J26J1-fVrQ",
+     "source": "YouTube · 책과삶 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-14T18:00+09:00",
+     "preview": "안녕하세요.\"책과삶\" 입니다. 오늘은 카이스트 정재민 부총장님과 ai 시대의 부작용에 대해 알아봤습니다. 세상의 모든 감동과 지식을 전합니다. 구독과 좋아요 꾸욱 눌러주시면 더욱 열심히 좋은 영상으로 보답하겠습니다. 📖 정재민 부총장님의 ‘생각을 외주화한 사람들’ - 교보문고: - 예스…",
+     "also": []
+    },
+    {
+     "id": "27cc7faa9d28",
+     "title": "인생에는 정해진 때가 없습니다",
+     "link": "https://www.youtube.com/shorts/LY-eAJ93QE4",
+     "source": "YouTube · 세바시 강연 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-14T12:18+09:00",
+     "preview": "취업할 나이, 결혼할 나이, 성공해야 할 나이. 우리는 자신도 모르게 남들이 정한 시간표에 맞춰 살아갑니다. 하지만 누가 정한 기준일까요? 남들의 속도에 맞추느라 조급해하기보다 내가 원하는 때에, 나만의 속도로 살아가도 괜찮습니다. 김미경 강연자가 전하는 '사회적 알람'에서 벗어나는 방…",
+     "also": []
+    },
+    {
+     "id": "2c32057a6215",
+     "title": "주변 강대국들이 눈치챈 한국 군사력의 진짜 체급ㅣ지식인초대석: 합석 EP.19 (최준영 X 채승병)",
+     "link": "https://www.youtube.com/watch?v=OyCyr_oJQqw",
+     "source": "YouTube · 지식인사이드 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-12T19:00+09:00",
+     "preview": "오늘은 최준영 박사님, 채승병 박사님을 모시고 전 세계 군사력 서열과 현대전의 양상에 대해 알아봤습니다. 영상이 유익 했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요! #최준영 #채승병 #지식인사이드 #전쟁 #군사 #무기 #AI #정보보안 #중국 ㅡ 00:00 인트로 00:…",
+     "also": []
+    },
+    {
+     "id": "cac9f3dfa409",
+     "title": "저녁에 먹어도 부담 없는 두부면 파스타 레시피",
+     "link": "https://www.youtube.com/shorts/EJk5uRUeEC4",
+     "source": "YouTube · 큰손 노희영 (트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-12T18:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "452519528612",
+     "title": "남 눈치 안 보는데, 인기 많은 사람 특징 3가지",
+     "link": "https://www.youtube.com/watch?v=3hGsmV-_fEI",
+     "source": "YouTube · 희렌최널 Hirenze (말 잘하는 법)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-09T22:00+09:00",
+     "preview": "남의 눈치를 보지 않고 할 말도 다하는데 사람들이 좋아하는 사람 VS 아닌 사람의 차이는 무엇일까요? 오늘은 전설의 미드 '프렌즈'의 주인공 피비의 매력 분석을 통해 남 눈치 보지 않는데 인기 많은 사람의 특징을 알아봅니다. 오늘도 최널고정해주신 희릿 내일도 최고길만 걸으세요!",
+     "also": []
+    },
+    {
+     "id": "01c07084823a",
+     "title": "💰나의 순자산, 미래가치, 노후를 계산해보자! (feat. 경제적 자유 계산기 버전 3 대공개)",
+     "link": "https://www.youtube.com/watch?v=4uwYUJUpkQc",
+     "source": "YouTube · 미키피디아",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-04T12:00+09:00",
+     "preview": "경제적 자유를 이루려면, 나에게는 얼마가 필요할까요? 이번 영상에서는 ChatGPT Work와 함께 만든 순자산 관리 스프레드시트, 미래 소득의 현재 가치 계산기, 그리고 여러분의 의견을 반영해서 업그레이드한 ‘경제적 자유 시뮬레이터' 3번째 버전까지 소개합니다. ⚠️이 영상에는 [Ch…",
+     "also": []
+    }
+   ]
   }
  ],
  "problems": [
-  "트렌드 / YouTube · 희렌최널 Hirenze (말 잘하는 법): HTTPError HTTP Error 404: Not Found",
-  "트렌드 / YouTube · 폴인 fol:in (전문가 인터뷰): HTTPError HTTP Error 404: Not Found",
-  "트렌드 / YouTube · 주언규 (재테크): HTTPError HTTP Error 404: Not Found",
-  "트렌드 / YouTube · 책과삶 (지식): HTTPError HTTP Error 404: Not Found",
-  "트렌드 / YouTube · 티타임즈TV (회사 트렌드): HTTPError HTTP Error 404: Not Found",
-  "트렌드 / YouTube · 지식인사이드 (지식): HTTPError HTTP Error 404: Not Found",
-  "트렌드 / YouTube · 큰손 노희영 (트렌드): HTTPError HTTP Error 404: Not Found",
-  "트렌드 / YouTube · 조승연의 탐구생활 (인문학): HTTPError HTTP Error 404: Not Found",
-  "트렌드 / YouTube · 세바시 강연 (지식): HTTPError HTTP Error 404: Not Found",
-  "트렌드 / YouTube · 미키피디아: HTTPError HTTP Error 404: Not Found"
+  "트렌드 / YouTube · 희렌최널 Hirenze (말 잘하는 법): 접속 실패 → 저장해 둔 목록 사용",
+  "트렌드 / YouTube · 폴인 fol:in (전문가 인터뷰): 접속 실패 → 저장해 둔 목록 사용",
+  "트렌드 / YouTube · 주언규 (재테크): 접속 실패 → 저장해 둔 목록 사용",
+  "트렌드 / YouTube · 책과삶 (지식): 접속 실패 → 저장해 둔 목록 사용",
+  "트렌드 / YouTube · 티타임즈TV (회사 트렌드): 접속 실패 → 저장해 둔 목록 사용",
+  "트렌드 / YouTube · 지식인사이드 (지식): 접속 실패 → 저장해 둔 목록 사용",
+  "트렌드 / YouTube · 큰손 노희영 (트렌드): 접속 실패 → 저장해 둔 목록 사용",
+  "트렌드 / YouTube · 조승연의 탐구생활 (인문학): 접속 실패 → 저장해 둔 목록 사용",
+  "트렌드 / YouTube · 세바시 강연 (지식): 접속 실패 → 저장해 둔 목록 사용",
+  "트렌드 / YouTube · 미키피디아: 접속 실패 → 저장해 둔 목록 사용"
  ]
 }
