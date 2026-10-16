@@ -1,11 +1,13 @@
+# 매일 아침 7시 30분(한국 시간)에 자료를 모으고 웹사이트를 갱신합니다.
+# GitHub 서버가 실행하므로 내 컴퓨터가 꺼져 있어도 됩니다.
 name: 아침 브리핑 갱신
 
 on:
   schedule:
-    - cron: "30 22 * * *"
-  workflow_dispatch:
+    - cron: "30 22 * * *"   # UTC 22:30 = 한국 시간 07:30
+  workflow_dispatch:         # 수동 실행 버튼 (Actions 탭에서 Run workflow)
   push:
-    branches: [main]
+    branches: [main]         # 파일을 올릴 때도 한 번 실행
 
 permissions:
   contents: write
@@ -30,9 +32,11 @@ jobs:
           python-version: "3.12"
 
       - name: 자료 모으기
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}   # GitHub 비밀 저장소(Secrets)에 넣어 둔 유튜브 키
         run: python collect.py
 
-      - name: 모은 자료 저장
+      - name: 모은 자료 저장 (어제 이전 날짜 보관용)
         run: |
           git config user.name "briefing-bot"
           git config user.email "briefing-bot@users.noreply.github.com"
