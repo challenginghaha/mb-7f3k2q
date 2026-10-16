@@ -1,11 +1,55 @@
 {
  "date": "2026-10-16",
- "generated": "2026-10-16T16:03+09:00",
+ "generated": "2026-10-16T16:21+09:00",
  "boxes": [
   {
    "id": "realestate",
    "title": "부동산",
    "items": [
+    {
+     "id": "be85287d6b24",
+     "title": "집값 불안에 공급 성과 알리겠다는 정부…착공은 목표의 37%",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oRVo2eUtlQ1E5anpOb1RySGxxbjhDR0VxdzBPeDk3TUtVZDdObmdYc2h1cTJORU8xR0VpR3VnOS10VDd4U1pJS21wY1pYVDA3OUtUTXZTQ2FJYXFCQVpicTRuWnZnNGZHbUJIS05R0gFzQVVfeXFMTzJUUUVUSHRVckpYcFJacGdTWnhqTHVRc2lHVDdtelpFY1FfZjhwVGVOYWlHTnR1WXNuMHRhT2ZIUTZuT2pZdm9vVlZlbXVlYjNhUjFkYmJGZHdSOUxhdFJCVEtLU0VSYUxzcGxtWjBRWjFWOA?oc=5",
+     "source": "한국일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-16T16:09+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "9b5595dd3732",
+     "title": "수도권 올해 착공, 최대 전망도 목표의 88%… 최소 3만3000가구 부족",
+     "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/16/ZG2NATKWM5BIDNOYLRK2GWSR3A/",
+     "source": "조선비즈",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-16T16:05+09:00",
+     "preview": "정부가 올해 수도권 주택 착공 실적을 최대 23만5000가구로 전망했다. 연말 착공 예정 물량이 계획대로 실적에 반영되더라도 연간 목표인 26만8000가구의 88%에 그친다. 목표보다 최소 3만3000가구 부족한 규모다. 10월 둘째 주까지 착공 실적은 약 9만9000가구로, 목표의 3…",
+     "also": []
+    },
+    {
+     "id": "32eabc6a82c3",
+     "title": "정부 \"착공·분양·입주 상황판 가동\"…주택공급 첫 정례브리핑",
+     "link": "https://www.yna.co.kr/view/AKR20261016108900001",
+     "source": "연합뉴스",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-16T16:00+09:00",
+     "preview": "(서울=연합뉴스) 이상현 기자 = 정부가 국민이 보다 쉽게 주택 공급 상황을 확인할 수 있도록 주택 공급 디지털 상황판의 구축·운영에 나선다.",
+     "also": []
+    },
+    {
+     "id": "8e418285f845",
+     "title": "수도권 착공 목표 26.8만호 '빨간불'…정부 \"연말까지 21.8만~23.5만호\"",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04309926645613576",
+     "source": "이데일리",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-16T16:00+09:00",
+     "preview": "정부가 올해 수도권 주택 착공 실적이 목표(26만 8000호)에 못 미칠 것으로 내다봤다. 연말까지 착공 물량이 최대 23만 5000호에 그칠 것이란 전망이다. 10월 중순까지 실제 착공 물량은 목표의 37% 수준에 머물러 남은 두 달 반 동안 12만~13만호 이상을 착공해야 하는 처지…",
+     "also": []
+    },
     {
      "id": "122f737ecca6",
      "title": "[속보]정부 “올 수도권 주택 착공, 목표보다 최대 5만가구 부족”",
@@ -18,24 +62,13 @@
      "also": []
     },
     {
-     "id": "1c2e45e9ee4f",
-     "title": "SH, 고덕강일3단지 토지임대부 1305가구 본청약… 1순위 11월 4~5일 접수",
-     "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/16/NPJKY2WSG5GUTLRXF7C44ETUZI/",
-     "source": "조선비즈",
-     "lang": "ko",
-     "kind": "article",
-     "published": "2026-10-16T15:32+09:00",
-     "preview": "서울주택도시개발공사(SH)가 서울 강동구 강일동 고덕강일3단지 토지임대부 분양주택의 본청약을 진행한다. 토지임대부 분양주택은 토지는 공공이, 건물은 분양받은 사람이 각각 소유하는 구조다. 최장 80년까지 안정적으로 살 수 있고 전매제한기간 10년이 지나면 개인 간 거래도 할 수 있다.…",
-     "also": []
-    },
-    {
-     "id": "6434e3d7307a",
-     "title": "포스코이앤씨, 상봉역 '더샵 퍼스트월드 서울' 오피스텔 11월 분양",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42dFllTzZ0RDFFbWRYZlFWY3Y5cDJzU3hLUHowYU9qM2xXdkp0WEhBU3FHTXo1STIzcldScU5rbzEtVmtSeVlvZFRzUmtWTHpBT1VSRTNsaFBOeWgyQTYyb2xWWEsxMmwtM3fSAW9BVV95cUxPOFQxQlQ0RUtfVkRIUWhnR0dHRmdZN25NV01KTmVpS1V4NHR1VUl6LTVKdHBNWF9ZZkZxclpZa3ByQXQ4UTFncUxEdGxzTEJvbmxyd2Y0ekw4UEJueEFrbTk0Nkg3OHFmZk5mczBFME0?oc=5",
+     "id": "1996d37f2444",
+     "title": "\"전세의 월세화 완충 필요\"…정부, 내년 말까지 수도권 공적주택 10만가구 입주",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zUDNseTdHVFc2Qk9LWGJoSHcwMTZuMENpbGFVNlZ6ckFJZkU0NnJaZzJ1RFJ1QWRldDk4WUNpWUFqdzM3X0ZVTDRmWVNkNmVCNG13MVpOdERGc3FUSkt1U2RpUzFFd2o1U3fSAW9BVV95cUxNOUJMcTZ5MHIzQmoyMVBYRWRmOWg4VjJRaVFubVZTTzFBdi1CN0tOWkM2UG4zSlh3ZTVYdkFrRTJ0UmZiSnV4Rnl6VzF1eDJUUkRFX2tZZHRZZW1EQ1MtbFJvUmVuSGRTd3A4NFdSZ3M?oc=5",
      "source": "머니투데이",
      "lang": "ko",
      "kind": "article",
-     "published": "2026-10-16T15:18+09:00",
+     "published": "2026-10-16T16:00+09:00",
      "preview": "",
      "also": []
     },
@@ -51,17 +84,6 @@
      "also": []
     },
     {
-     "id": "0a7ccd9e47b4",
-     "title": "갤러리아명품관 서관 재건축 건축허가…40년 숙원사업 추진 속도",
-     "link": "https://www.yna.co.kr/view/AKR20261016104500030",
-     "source": "연합뉴스",
-     "lang": "ko",
-     "kind": "article",
-     "published": "2026-10-16T14:37+09:00",
-     "preview": "(서울=연합뉴스) 조민정 기자 = 한화갤러리아가 추진하는 강남구 갤러리아명품관 재건축 사업이 건축허가를 받았다.",
-     "also": []
-    },
-    {
      "id": "a8a3a9cff481",
      "title": "\"동탄 한복판에 49층\"…반송역 직결 1808가구 대단지 나온다",
      "link": "https://www.hankyung.com/article/2026101664206",
@@ -71,28 +93,6 @@
      "published": "2026-10-16T14:15+09:00",
      "preview": "",
      "also": []
-    },
-    {
-     "id": "cadef4d7393e",
-     "title": "한국부동산원장 \"주간 가격 통계, 장기적 추세상 타당\"",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nTFk1MjRnM1J1NVVIQ3NIU0hLWDlET2N0SHRxR2cxQS1nOFJRUXlFeE5HZnFPSzBlTXgwMl9FeWVMcmVraTZFbDhFc1htOGF5M3dHeGlaS1RiQjN6bExYbU5lQlhJQ1R5Wk5FNnQtNjMydFBSbkE?oc=5",
-     "source": "YTN",
-     "lang": "ko",
-     "kind": "article",
-     "published": "2026-10-16T04:00+09:00",
-     "preview": "",
-     "also": []
-    },
-    {
-     "id": "195016312b01",
-     "title": "[부고] 김형진(경찰인재개발원 교무과)씨 모친상 외",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42R2FkM0ppNmFUN2FPV1pZWUV2ODAzejF4Z1RKa0dwQVZ1SlhyYlBqVkRpSHdSS3dfekhwczlBQnZEU2tmVGNXVUdkMEFxekp6dXlwWURuZEExRGZSbzc3b0FNQjJhV0QtMnN1bndR?oc=5",
-     "source": "한국일보",
-     "lang": "ko",
-     "kind": "article",
-     "published": "2026-10-15T16:00+09:00",
-     "preview": "",
-     "also": []
     }
    ]
   },
@@ -100,6 +100,54 @@
    "id": "stocks",
    "title": "주식",
    "items": [
+    {
+     "id": "059f197f93f1",
+     "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
+     "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+     "source": "CNBC",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-16T16:11+09:00",
+     "preview": "Warsh refrained from signaling another interest rate hike this month, pointed to a \"synchronous tightening\" by central banks in the fight against inflation.",
+     "also": [],
+     "title_ko": "Fed의 워시 (Warsh) 는 금리 신호를 보류하고, '무임승차자 없음' 으로 최근 글로벌 타이트닝을 칭찬합니다.",
+     "preview_ko": "워시는 이번 달에 또 다른 금리 인상 신호를 보내는 것을 자제하면서 인플레이션에 맞서 싸우는 중앙은행의 \"동기 조임\" 을 지적했다."
+    },
+    {
+     "id": "08fec06f0fc3",
+     "title": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
+     "link": "https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-16T16:07+09:00",
+     "preview": "Federal Reserve Chair Kevin Warsh had an opportunity Thursday night to shape expectations heading into the central bank’s interest-rate-setting meeting in two w…",
+     "also": [],
+     "title_ko": "다음은 연준 의장 케빈 워시 (Kevin Warsh) 가 미국인들이 목요일 밤에 자고있는 동안 말한 주요 내용입니다.",
+     "preview_ko": "케빈 워시 (Kevin Warsh) 연방준비제도이사회 (Federal Reserve Chair) 의장은 목요일 밤 두 차례에 걸쳐 중앙은행의 이자율 설정 회의로 향하는 기대치를 구체화할 기회를 가졌다."
+    },
+    {
+     "id": "a0661bccb6cf",
+     "title": "실적 부진 전망에도 생명보험주 강세…장기금리 상승에 건전성 개선 기대",
+     "link": "https://www.hankyung.com/article/202610166590i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-16T16:05+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "cc3aa4bc7be4",
+     "title": "[단독]교공 출자 펀드 중 청산 실적 선두는 헬리오스·IMM·웰투시",
+     "link": "https://www.hankyung.com/article/202610166755i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-16T16:02+09:00",
+     "preview": "",
+     "also": []
+    },
     {
      "id": "ed23420944c9",
      "title": "Jefferies says this stock remains a top pick among biotech midcaps",
@@ -111,53 +159,6 @@
      "preview": "",
      "also": [],
      "title_ko": "Jefferies는 이 주식이 생명 공학 미드 캡 중에서 여전히 최고의 선택이라고 말합니다."
-    },
-    {
-     "id": "1f6719544a07",
-     "title": "Nordex shares jump as Q3 profit beats consensus, margin guidance raised",
-     "link": "https://www.investing.com/news/earnings/nordex-shares-jump-as-q3-profit-beats-consensus-margin-guidance-raised-4953239",
-     "source": "Investing.com",
-     "lang": "en",
-     "kind": "article",
-     "published": "2026-10-16T15:54+09:00",
-     "preview": "",
-     "also": [],
-     "title_ko": "3분기 이익이 컨센서스를 앞지르면서 Nordex 주식 점프, 마진 가이던스 상승"
-    },
-    {
-     "id": "059f197f93f1",
-     "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
-     "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-     "source": "CNBC",
-     "lang": "en",
-     "kind": "article",
-     "published": "2026-10-16T15:18+09:00",
-     "preview": "Warsh refrained from signaling another interest rate hike this month, pointed to a \"synchronous tightening\" by central banks in the fight against inflation.",
-     "also": [],
-     "title_ko": "Fed의 워시 (Warsh) 는 금리 신호를 보류하고, '무임승차자 없음' 으로 최근 글로벌 타이트닝을 칭찬합니다.",
-     "preview_ko": "워시는 이번 달에 또 다른 금리 인상 신호를 보내는 것을 자제하면서 인플레이션에 맞서 싸우는 중앙은행의 \"동기 조임\" 을 지적했다."
-    },
-    {
-     "id": "e697b42a3766",
-     "title": "증시 급락하자 '피신'…1.4조 뭉칫돈 몰린 곳",
-     "link": "https://www.hankyung.com/article/202610166597i",
-     "source": "한국경제",
-     "lang": "ko",
-     "kind": "article",
-     "published": "2026-10-16T15:00+09:00",
-     "preview": "",
-     "also": []
-    },
-    {
-     "id": "63ab5ddc9f60",
-     "title": "삼전 담고 하이닉스 던졌다…초고수 엇갈린 '반도체 베팅'",
-     "link": "https://www.hankyung.com/article/202610166482i",
-     "source": "한국경제",
-     "lang": "ko",
-     "kind": "article",
-     "published": "2026-10-16T14:33+09:00",
-     "preview": "",
-     "also": []
     }
    ]
   },
@@ -236,14 +237,14 @@
    "title": "트렌드",
    "items": [
     {
-     "id": "ce7f111ed38f",
-     "title": "편의점 매대 한 칸도 전쟁이다",
-     "link": "https://www.youtube.com/watch?v=NOiXtcP3WcY",
+     "id": "97229086065d",
+     "title": "출시 한 달 전 이미 시작됐다",
+     "link": "https://www.youtube.com/watch?v=YZzqPhEmab4",
      "source": "YouTube · 주언규 (재테크)",
      "lang": "ko",
      "kind": "video",
-     "published": "2026-10-16T15:04+09:00",
-     "preview": "편의점 매대 한 칸도 전쟁이다 새로운 유행은 편의점 매대에 어떻게 들어올까요 박준형님은 마케터와 MD가 온라인과 해외 시장을 조사하며 새로운 상품과 소비 흐름을 살핀다고 설명하세요 다만 해외에서 인기 있다고 한국에서도 모두 성공하는 것은 아니라고 하십니다 상품을 들여온 뒤에는 반응과 매…",
+     "published": "2026-10-16T16:04+09:00",
+     "preview": "출시 한 달 전 이미 시작됐다 제품을 출시하는 날에야 홍보를 시작하면 어떨까요 박준형님은 파김치가 들어간 파이팅 감자탕을 출시하며 한 달 전부터 관심을 모았던 경험을 들려주세요 개발할 때도 생소한 제품이라 사람들이 어떻게 받아들일지 고민하셨다고 해요 직접 먹어보기 전에는 맛을 알기 어렵…",
      "also": []
     },
     {
