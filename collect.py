@@ -6,6 +6,7 @@ config.json 에 적힌 RSS 를 읽어 data/날짜.json 과 data/data.js 를 만�
 import hashlib
 import html
 import json
+import os
 import re
 import sys
 import time
@@ -255,9 +256,45 @@ def summarize(item):
     return item
 
 
+def youtube_api(src, preview_chars):
+    """YouTube Data API(무료)로 채널의 최신 영상을 가져온다. 키(YT_API_KEY)가 없으면 None."""
+    key = os.environ.get("YT_API_KEY", "").strip()
+    m = re.search(r"channel_id=(UC[\w-]{22})", src["url"])
+    if not key or not m:
+        return None
+    url = ("https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=15&playlistId=UU"
+           + m.group(1)[2:] + "&key=" + urllib.parse.quote(key))
+    try:
+        data = json.loads(fetch(url, tries=2, delay=1).decode("utf-8"))
+    except Exception as e:
+        # 키가 기록에 남지 않도록 주소는 절대 출력하지 않는다
+        raise RuntimeError("YouTube API 오류 " + str(getattr(e, "code", type(e).__name__))) from None
+    items = []
+    for it in data.get("items", []):
+        sn = it.get("snippet", {})
+        vid = sn.get("resourceId", {}).get("videoId")
+        title = sn.get("title", "")
+        if not vid or title in ("Private video", "Deleted video"):
+            continue
+        items.append({
+            "title": clean(title, 200),
+            "link": "https://www.youtube.com/watch?v=" + vid,
+            "published": parse_date(sn.get("publishedAt"), timezone.utc),
+            "preview": clean(sn.get("description", ""), preview_chars),
+        })
+    return items
+
+
 def fetch_feed(src, tz, preview_chars):
-    """RSS 를 가져온다. 유튜브 RSS 는 가끔 이유 없이 404 를 돌려주므로 여러 번 다시 시도한다."""
+    """RSS 를 가져온다. 유튜브는 공식 서비스(API 키가 있을 때)를 먼저 쓰고, 안 되면 RSS 를 여러 번 시도한다."""
     is_youtube = "youtube.com/feeds" in src["url"]
+    if is_youtube:
+        try:
+            got = youtube_api(src, preview_chars)
+            if got is not None:
+                return got
+        except Exception as e:
+            print("  [공식 서비스 실패 → RSS 로 시도]", src["name"], e)
     return parse_feed(fetch(src["url"], tries=10 if is_youtube else 3, delay=1.5 if is_youtube else 2),
                       tz, preview_chars)
 
