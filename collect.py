@@ -27,7 +27,7 @@ except Exception:
     pass
 
 
-def fetch(url, tries=3):
+def fetch(url, tries=3, delay=2):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     for n in range(tries):
         try:
@@ -36,7 +36,7 @@ def fetch(url, tries=3):
         except Exception:
             if n == tries - 1:
                 raise
-            time.sleep(2)
+            time.sleep(delay)
 
 
 def local(tag):
@@ -255,10 +255,22 @@ def summarize(item):
     return item
 
 
+def fetch_feed(src, tz, preview_chars):
+    """RSS 를 가져온다. 유튜브 RSS 는 가끔 이유 없이 404 를 돌려주므로 여러 번 다시 시도한다."""
+    is_youtube = "youtube.com/feeds" in src["url"]
+    return parse_feed(fetch(src["url"], tries=10 if is_youtube else 3, delay=1.5 if is_youtube else 2),
+                      tz, preview_chars)
+
+
 def main():
     cfg = json.loads((ROOT / "config.json").read_text(encoding="utf-8-sig"))
     st = cfg["settings"]
     now = datetime.now(KST)
+    cache_path = DATA / "source_cache.json"
+    try:
+        src_cache = json.loads(cache_path.read_text(encoding="utf-8"))
+    except Exception:
+        src_cache = {}
     today = now.strftime("%Y-%m-%d")
     used_links, boxes_out, problems = set(), [], []
 
@@ -270,11 +282,20 @@ def main():
                 continue
             tz = KST if src["group"] == "kr" else timezone.utc
             try:
-                feed = parse_feed(fetch(src["url"]), tz, st["preview_chars"])
+                feed = fetch_feed(src, tz, st["preview_chars"])
+                src_cache[src["url"]] = [
+                    {**it, "published": it["published"].isoformat() if it["published"] else None} for it in feed[:40]]
             except Exception as e:
-                problems.append(f'{box["title"]} / {src["name"]}: {type(e).__name__} {str(e)[:60]}')
-                print("  [실패]", box["title"], src["name"], type(e).__name__)
-                continue
+                saved = src_cache.get(src["url"])
+                if not saved:
+                    problems.append(f'{box["title"]} / {src["name"]}: {type(e).__name__} {str(e)[:60]}')
+                    print("  [실패]", box["title"], src["name"], type(e).__name__)
+                    continue
+                # 접속이 막혔을 땐 마지막으로 받아 둔 목록을 대신 사용
+                feed = [{**it, "published": datetime.fromisoformat(it["published"]) if it["published"] else None}
+                        for it in saved]
+                problems.append(f'{box["title"]} / {src["name"]}: 접속 실패 → 저장해 둔 목록 사용')
+                print("  [저장본]", box["title"], src["name"])
             if src.get("google_news"):
                 for it in feed:
                     it["title"] = strip_outlet(it["title"])
@@ -309,6 +330,7 @@ def main():
 
     translate_items(boxes_out)
     DATA.mkdir(exist_ok=True)
+    cache_path.write_text(json.dumps(src_cache, ensure_ascii=False), encoding="utf-8")
     day ={"date": today, "generated": now.isoformat(timespec="minutes"), "boxes": boxes_out, "problems": problems}
     (DATA / f"{today}.json").write_text(json.dumps(day, ensure_ascii=False, indent=1), encoding="utf-8")
 
