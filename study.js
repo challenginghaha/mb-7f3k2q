@@ -80,7 +80,7 @@
     const lines = [];
     if (it.f) lines.push(`<div><b>형태</b> ${ja ? rich(it.f) : esc(it.f)}</div>`);
     if (it.c) lines.push(`<div><b>짝꿍</b> ${esc(it.c)}</div>`);
-    if (it.o) lines.push(`<div class="ok">✅ ${ja ? rich(it.o) : esc(it.o)}</div>`);
+    if (it.o) lines.push(`<div class="ok">✅ ${ja ? rich(it.o) : esc(it.o)}${it.ok ? ` <span style="color:var(--sub);font-size:12.5px">→ ${esc(it.ok)}</span>` : ""}</div>`);
     if (it.n) lines.push(`<div class="ng">❌ ${ja ? rich(it.n) : esc(it.n)}</div>`);
     if (it.a) lines.push(`<div><b>바꿔 쓰기</b> ${rich(it.a)}</div>`);
     const fm = lines.length

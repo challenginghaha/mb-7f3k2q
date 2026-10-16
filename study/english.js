@@ -7,16 +7,16 @@ window.STUDY_EN = {
     "2026-10-12": {
       theme: "월요일 · 회의",
       words: [
-        {t:"postpone", k:"연기하다", u:"일정이나 결정을 뒤로 미룰 때. 격식 있는 회의 영어.", f:"postpone + 명사 / -ing (to부정사 ❌)", c:"postpone a meeting, postpone a decision", o:"We postponed launching the app.", n:"We postponed to launch the app."},
-        {t:"agenda", k:"안건, 회의 순서표", u:"회의에서 다룰 항목 목록.", f:"셀 수 있는 명사 · on the agenda (in ❌)", c:"set the agenda, an agenda item", o:"It's on the agenda for Friday.", n:"It's in the agenda for Friday."},
-        {t:"wrap up", k:"마무리하다", u:"회의나 업무를 끝낼 때.", f:"동사 wrap up / 명사 wrap-up · 대명사는 사이에 끼움", c:"wrap up a meeting", o:"Let's wrap it up.", n:"Let's wrap up it."},
-        {t:"bring up", k:"(화제를) 꺼내다", u:"회의에서 문제나 의견을 처음 언급할 때.", f:"bring up + 명사 · 대명사는 사이에: bring it up", c:"bring up a concern, bring up an issue", o:"She brought it up yesterday.", n:"She brought up it yesterday."},
-        {t:"follow up", k:"후속 조치를 하다", u:"회의 뒤에 연락하거나 확인을 이어 갈 때.", f:"follow up with 사람 / on 일 · 명사는 follow-up (하이픈)", c:"follow up on an email, a follow-up call", o:"I'll follow up with Anna on the budget.", n:"I'll follow up Anna the budget."},
-        {t:"minutes", k:"회의록", u:"회의 내용을 적은 기록. 항상 복수형.", f:"항상 복수형 minutes · take the minutes", c:"take the minutes, send out the minutes", o:"Who is taking the minutes?", n:"Who is taking the minute?"},
-        {t:"attend", k:"참석하다", u:"회의나 행사에 참석할 때.", f:"attend + 명사 (전치사 ❌) · attend to 는 '처리하다'로 뜻이 달라짐", c:"attend a meeting, attend an event", o:"I attended the meeting.", n:"I attended to the meeting."},
-        {t:"align", k:"방향·의견을 맞추다", u:"팀이 같은 방향이 되도록 조율할 때.", f:"align on + 안건 / align with + 사람·목표", c:"align on priorities, align with the goal", o:"Let's align on next steps.", n:"Let's align about next steps."},
-        {t:"table", k:"(미국) 보류하다 / (영국) 안건으로 올리다", u:"미국식은 '뒤로 미루다', 영국식은 반대 뜻이라 주의.", f:"table + 명사 · 전치사 없음", c:"table a proposal", o:"Let's table this until next week.", n:"Let's table about this until next week.", q:true},
-        {t:"deliverable", k:"(내야 하는) 결과물", u:"프로젝트에서 제출해야 하는 산출물.", f:"셀 수 있는 명사 · 보통 복수 deliverables", c:"key deliverables, meet a deliverable", o:"The deliverables are due Friday.", n:"The deliverables is due Friday."}
+        {t:"postpone", k:"연기하다", u:"일정이나 결정을 뒤로 미룰 때. 격식 있는 회의 영어.", f:"postpone + 명사 / -ing (to부정사 ❌)", c:"postpone a meeting, postpone a decision", o:"We postponed launching the app.", ok:"우리는 앱 출시를 연기했어요.", n:"We postponed to launch the app."},
+        {t:"agenda", k:"안건, 회의 순서표", u:"회의에서 다룰 항목 목록.", f:"셀 수 있는 명사 · on the agenda (in ❌)", c:"set the agenda, an agenda item", o:"It's on the agenda for Friday.", ok:"금요일 안건에 올라 있어요.", n:"It's in the agenda for Friday."},
+        {t:"wrap up", k:"마무리하다", u:"회의나 업무를 끝낼 때.", f:"동사 wrap up / 명사 wrap-up · 대명사는 사이에 끼움", c:"wrap up a meeting", o:"Let's wrap it up.", ok:"이제 마무리합시다.", n:"Let's wrap up it."},
+        {t:"bring up", k:"(화제를) 꺼내다", u:"회의에서 문제나 의견을 처음 언급할 때.", f:"bring up + 명사 · 대명사는 사이에: bring it up", c:"bring up a concern, bring up an issue", o:"She brought it up yesterday.", ok:"그녀가 어제 그 얘기를 꺼냈어요.", n:"She brought up it yesterday."},
+        {t:"follow up", k:"후속 조치를 하다", u:"회의 뒤에 연락하거나 확인을 이어 갈 때.", f:"follow up with 사람 / on 일 · 명사는 follow-up (하이픈)", c:"follow up on an email, a follow-up call", o:"I'll follow up with Anna on the budget.", ok:"예산 건은 제가 애나에게 후속 연락을 할게요.", n:"I'll follow up Anna the budget."},
+        {t:"minutes", k:"회의록", u:"회의 내용을 적은 기록. 항상 복수형.", f:"항상 복수형 minutes · take the minutes", c:"take the minutes, send out the minutes", o:"Who is taking the minutes?", ok:"회의록은 누가 작성하나요?", n:"Who is taking the minute?"},
+        {t:"attend", k:"참석하다", u:"회의나 행사에 참석할 때.", f:"attend + 명사 (전치사 ❌) · attend to 는 '처리하다'로 뜻이 달라짐", c:"attend a meeting, attend an event", o:"I attended the meeting.", ok:"저는 그 회의에 참석했어요.", n:"I attended to the meeting."},
+        {t:"align", k:"방향·의견을 맞추다", u:"팀이 같은 방향이 되도록 조율할 때.", f:"align on + 안건 / align with + 사람·목표", c:"align on priorities, align with the goal", o:"Let's align on next steps.", ok:"다음 단계에 대해 의견을 맞춰 봅시다.", n:"Let's align about next steps."},
+        {t:"table", k:"(미국) 보류하다 / (영국) 안건으로 올리다", u:"미국식은 '뒤로 미루다', 영국식은 반대 뜻이라 주의.", f:"table + 명사 · 전치사 없음", c:"table a proposal", o:"Let's table this until next week.", ok:"이건 다음 주까지 보류합시다.", n:"Let's table about this until next week.", q:true},
+        {t:"deliverable", k:"(내야 하는) 결과물", u:"프로젝트에서 제출해야 하는 산출물.", f:"셀 수 있는 명사 · 보통 복수 deliverables", c:"key deliverables, meet a deliverable", o:"The deliverables are due Friday.", ok:"결과물은 금요일까지 제출해야 해요.", n:"The deliverables is due Friday."}
       ],
       sentences: [
         {t:"Let's get started, since everyone is here.", k:"모두 오셨으니 시작하죠.", u:"회의를 여는 가장 기본 문장.", f:"get started (get start ❌) · since = ~이니까", b:"get started", ng:"Let's get start, since everyone is here."},
@@ -46,16 +46,16 @@ window.STUDY_EN = {
     "2026-10-13": {
       theme: "화요일 · 이메일",
       words: [
-        {t:"attach", k:"첨부하다", u:"이메일에 파일을 붙일 때.", f:"attach + 파일 / attach A to B · 명사는 attachment", c:"attach a file, the attached report", o:"I attached the report to this email.", n:"I attached the report in this email."},
-        {t:"forward", k:"전달하다", u:"받은 메일을 다른 사람에게 보낼 때.", f:"forward + 메일 + to 사람 (forward me it ❌)", c:"forward an email to", o:"Please forward it to Anna.", n:"Please forward Anna it."},
-        {t:"cc", k:"참조로 넣다", u:"메일 참조에 사람을 넣을 때. 동사로도 씀.", f:"cc + 사람 (동사) · cc'd 가 과거형", c:"cc me, keep me in the loop", o:"Please cc me on the reply.", n:"Please cc to me on the reply."},
-        {t:"regarding", k:"~에 관하여", u:"about 보다 격식 있는 전치사.", f:"regarding + 명사 (regarding about ❌)", c:"regarding your request", o:"I'm writing regarding your request.", n:"I'm writing regarding about your request."},
-        {t:"reach out", k:"연락하다", u:"먼저 연락할 때 자주 쓰는 비즈니스 표현.", f:"reach out to 사람 (reach out me ❌) · about / regarding 일", c:"reach out to the team", o:"Feel free to reach out to me.", n:"Feel free to reach out me."},
-        {t:"loop in", k:"(참조로) 끌어들이다", u:"어떤 건에 사람을 포함시킬 때.", f:"loop + 사람 + in / loop in + 사람 · 'loop me in' 이 자연스러움", c:"loop in the manager, keep me in the loop", o:"I'll loop Anna in.", n:"I'll loop in to Anna."},
-        {t:"get back to", k:"(나중에) 답하다", u:"바로 답할 수 없을 때.", f:"get back to + 사람 (on 일) · 대명사도 그대로: get back to you", c:"get back to you shortly", o:"I'll get back to you on Friday.", n:"I'll get back you on Friday."},
-        {t:"heads-up", k:"미리 알려 주는 말", u:"사전에 알림을 줄 때.", f:"명사 a heads-up (the/a 필요) · give someone a heads-up", c:"give you a heads-up", o:"Just a quick heads-up.", n:"Just quick heads-up."},
-        {t:"acknowledge", k:"수신·확인했음을 알리다", u:"메일을 받았다고 알릴 때.", f:"acknowledge + 명사 / that절 · acknowledge receipt (of)", c:"acknowledge receipt of", o:"I acknowledge receipt of your email.", n:"I acknowledge to receive your email."},
-        {t:"apologize", k:"사과하다", u:"사과 메일의 기본 동사.", f:"apologize for + 명사/-ing, to + 사람 (apologize you ❌)", c:"apologize for the delay", o:"I apologize for the delay.", n:"I apologize you for the delay."}
+        {t:"attach", k:"첨부하다", u:"이메일에 파일을 붙일 때.", f:"attach + 파일 / attach A to B · 명사는 attachment", c:"attach a file, the attached report", o:"I attached the report to this email.", ok:"이 메일에 보고서를 첨부했어요.", n:"I attached the report in this email."},
+        {t:"forward", k:"전달하다", u:"받은 메일을 다른 사람에게 보낼 때.", f:"forward + 메일 + to 사람 (forward me it ❌)", c:"forward an email to", o:"Please forward it to Anna.", ok:"그걸 애나에게 전달해 주세요.", n:"Please forward Anna it."},
+        {t:"cc", k:"참조로 넣다", u:"메일 참조에 사람을 넣을 때. 동사로도 씀.", f:"cc + 사람 (동사) · cc'd 가 과거형", c:"cc me, keep me in the loop", o:"Please cc me on the reply.", ok:"답장할 때 저를 참조로 넣어 주세요.", n:"Please cc to me on the reply."},
+        {t:"regarding", k:"~에 관하여", u:"about 보다 격식 있는 전치사.", f:"regarding + 명사 (regarding about ❌)", c:"regarding your request", o:"I'm writing regarding your request.", ok:"요청하신 건과 관련해 연락드립니다.", n:"I'm writing regarding about your request."},
+        {t:"reach out", k:"연락하다", u:"먼저 연락할 때 자주 쓰는 비즈니스 표현.", f:"reach out to 사람 (reach out me ❌) · about / regarding 일", c:"reach out to the team", o:"Feel free to reach out to me.", ok:"언제든 편하게 연락 주세요.", n:"Feel free to reach out me."},
+        {t:"loop in", k:"(참조로) 끌어들이다", u:"어떤 건에 사람을 포함시킬 때.", f:"loop + 사람 + in / loop in + 사람 · 'loop me in' 이 자연스러움", c:"loop in the manager, keep me in the loop", o:"I'll loop Anna in.", ok:"애나도 참조에 넣을게요.", n:"I'll loop in to Anna."},
+        {t:"get back to", k:"(나중에) 답하다", u:"바로 답할 수 없을 때.", f:"get back to + 사람 (on 일) · 대명사도 그대로: get back to you", c:"get back to you shortly", o:"I'll get back to you on Friday.", ok:"금요일에 답변드릴게요.", n:"I'll get back you on Friday."},
+        {t:"heads-up", k:"미리 알려 주는 말", u:"사전에 알림을 줄 때.", f:"명사 a heads-up (the/a 필요) · give someone a heads-up", c:"give you a heads-up", o:"Just a quick heads-up.", ok:"미리 짧게 알려 드려요.", n:"Just quick heads-up."},
+        {t:"acknowledge", k:"수신·확인했음을 알리다", u:"메일을 받았다고 알릴 때.", f:"acknowledge + 명사 / that절 · acknowledge receipt (of)", c:"acknowledge receipt of", o:"I acknowledge receipt of your email.", ok:"보내 주신 메일을 잘 받았습니다.", n:"I acknowledge to receive your email."},
+        {t:"apologize", k:"사과하다", u:"사과 메일의 기본 동사.", f:"apologize for + 명사/-ing, to + 사람 (apologize you ❌)", c:"apologize for the delay", o:"I apologize for the delay.", ok:"지연되어 죄송합니다.", n:"I apologize you for the delay."}
       ],
       sentences: [
         {t:"I'm writing to follow up on our conversation yesterday.", k:"어제 나눈 대화와 관련해 연락드립니다.", u:"후속 메일의 첫 문장.", f:"follow up on + 명사 · I'm writing to + 동사원형", b:"follow up on", ng:"I'm writing to follow up our conversation yesterday."},
@@ -85,16 +85,16 @@ window.STUDY_EN = {
     "2026-10-14": {
       theme: "수요일 · 일정 조율",
       words: [
-        {t:"reschedule", k:"일정을 다시 잡다", u:"약속 일정을 바꿀 때.", f:"reschedule + 명사 + for / to + 날짜·시간", c:"reschedule a meeting for Monday", o:"Can we reschedule it for Monday?", n:"Can we reschedule it in Monday?"},
-        {t:"availability", k:"가능한 시간", u:"상대의 비어 있는 시간을 물을 때.", f:"셀 수 없는 명사 (availabilities ❌) · your availability", c:"check your availability", o:"What is your availability next week?", n:"What are your availabilities next week?"},
-        {t:"conflict", k:"일정 충돌", u:"겹치는 일정이 있을 때.", f:"have a conflict with + 일정 · scheduling conflict", c:"a scheduling conflict", o:"I have a conflict with another meeting.", n:"I have a conflict to another meeting."},
-        {t:"tentative", k:"잠정적인", u:"확정은 아니지만 가능한 일정.", f:"형용사 · 부사는 tentatively", c:"a tentative schedule", o:"The date is tentative.", n:"The date is tentatively."},
-        {t:"pencil in", k:"(잠정적으로) 일정을 넣어 두다", u:"변경 가능성을 두고 일정에 넣을 때.", f:"pencil in + 명사 · pencil it in", c:"pencil in a call", o:"Let me pencil it in.", n:"Let me pencil in it."},
-        {t:"free up", k:"시간을 비우다", u:"일정을 비워 둘 때.", f:"free up + 명사 · free it up", c:"free up some time", o:"I'll free up some time on Thursday.", n:"I'll free up some time at Thursday."},
-        {t:"bandwidth", k:"(일을 맡을) 여유", u:"사람의 업무 여력을 말할 때.", f:"셀 수 없는 명사 · have the bandwidth to + 동사원형", c:"have the bandwidth", o:"I don't have the bandwidth right now.", n:"I don't have a bandwidth right now."},
-        {t:"deadline", k:"마감일", u:"언제까지 끝내야 하는지.", f:"meet / miss a deadline · by the deadline (deadline 은 셀 수 있음)", c:"meet a deadline, tight deadline", o:"We need to meet the deadline.", n:"We need to keep the deadline."},
-        {t:"slot", k:"(시간) 자리, 시간대", u:"비어 있는 시간대를 말할 때.", f:"a time slot · 셀 수 있는 명사", c:"an open slot", o:"Do you have a slot on Friday?", n:"Do you have a slot in Friday?"},
-        {t:"touch base", k:"가볍게 연락·확인하다", u:"짧게 상황을 공유할 때.", f:"touch base with + 사람 (on 일)", c:"touch base next week", o:"Let's touch base with the team.", n:"Let's touch base to the team."}
+        {t:"reschedule", k:"일정을 다시 잡다", u:"약속 일정을 바꿀 때.", f:"reschedule + 명사 + for / to + 날짜·시간", c:"reschedule a meeting for Monday", o:"Can we reschedule it for Monday?", ok:"월요일로 일정을 다시 잡을 수 있을까요?", n:"Can we reschedule it in Monday?"},
+        {t:"availability", k:"가능한 시간", u:"상대의 비어 있는 시간을 물을 때.", f:"셀 수 없는 명사 (availabilities ❌) · your availability", c:"check your availability", o:"What is your availability next week?", ok:"다음 주에 가능한 시간이 언제인가요?", n:"What are your availabilities next week?"},
+        {t:"conflict", k:"일정 충돌", u:"겹치는 일정이 있을 때.", f:"have a conflict with + 일정 · scheduling conflict", c:"a scheduling conflict", o:"I have a conflict with another meeting.", ok:"다른 회의와 일정이 겹쳐요.", n:"I have a conflict to another meeting."},
+        {t:"tentative", k:"잠정적인", u:"확정은 아니지만 가능한 일정.", f:"형용사 · 부사는 tentatively", c:"a tentative schedule", o:"The date is tentative.", ok:"날짜는 잠정적이에요.", n:"The date is tentatively."},
+        {t:"pencil in", k:"(잠정적으로) 일정을 넣어 두다", u:"변경 가능성을 두고 일정에 넣을 때.", f:"pencil in + 명사 · pencil it in", c:"pencil in a call", o:"Let me pencil it in.", ok:"일단 잠정적으로 일정에 넣어 둘게요.", n:"Let me pencil in it."},
+        {t:"free up", k:"시간을 비우다", u:"일정을 비워 둘 때.", f:"free up + 명사 · free it up", c:"free up some time", o:"I'll free up some time on Thursday.", ok:"목요일에 시간을 좀 비워 둘게요.", n:"I'll free up some time at Thursday."},
+        {t:"bandwidth", k:"(일을 맡을) 여유", u:"사람의 업무 여력을 말할 때.", f:"셀 수 없는 명사 · have the bandwidth to + 동사원형", c:"have the bandwidth", o:"I don't have the bandwidth right now.", ok:"지금은 그 일을 맡을 여력이 없어요.", n:"I don't have a bandwidth right now."},
+        {t:"deadline", k:"마감일", u:"언제까지 끝내야 하는지.", f:"meet / miss a deadline · by the deadline (deadline 은 셀 수 있음)", c:"meet a deadline, tight deadline", o:"We need to meet the deadline.", ok:"마감을 지켜야 해요.", n:"We need to keep the deadline."},
+        {t:"slot", k:"(시간) 자리, 시간대", u:"비어 있는 시간대를 말할 때.", f:"a time slot · 셀 수 있는 명사", c:"an open slot", o:"Do you have a slot on Friday?", ok:"금요일에 비는 시간 있으세요?", n:"Do you have a slot in Friday?"},
+        {t:"touch base", k:"가볍게 연락·확인하다", u:"짧게 상황을 공유할 때.", f:"touch base with + 사람 (on 일)", c:"touch base next week", o:"Let's touch base with the team.", ok:"팀과 가볍게 상황을 공유해 봅시다.", n:"Let's touch base to the team."}
       ],
       sentences: [
         {t:"What does your availability look like next week?", k:"다음 주 가능한 시간이 어떻게 되세요?", u:"일정 조율의 첫 질문.", f:"look like + 명사 · availability 는 셀 수 없음", b:"look like", ng:"What does your availabilities look like next week?"},
@@ -124,16 +124,16 @@ window.STUDY_EN = {
     "2026-10-15": {
       theme: "목요일 · 스몰토크",
       words: [
-        {t:"commute", k:"통근하다", u:"출퇴근 이야기를 할 때.", f:"commute to + 장소 (commute to work) · 명사로도 씀", c:"a long commute", o:"I commute to work by train.", n:"I commute to home by train."},
-        {t:"catch up", k:"밀린 이야기를 나누다", u:"오랜만에 만났을 때.", f:"catch up with + 사람 (on 일)", c:"catch up with a friend", o:"I'd love to catch up with you.", n:"I'd love to catch up you."},
-        {t:"hang out", k:"어울려 놀다", u:"편하게 시간을 보낼 때.", f:"hang out with + 사람 (hang out together)", c:"hang out with friends", o:"We hang out on weekends.", n:"We hang out friends on weekends."},
-        {t:"grab", k:"(간단히) 먹다·사다", u:"커피나 점심을 가볍게 말할 때.", f:"grab + 명사 (grab a coffee)", c:"grab a bite, grab lunch", o:"Let's grab a coffee.", n:"Let's grab for a coffee."},
-        {t:"bump into", k:"우연히 마주치다", u:"우연히 만난 일.", f:"bump into + 사람 (bump to ❌)", c:"bump into someone", o:"I bumped into Anna yesterday.", n:"I bumped to Anna yesterday."},
-        {t:"keep in touch", k:"연락하고 지내다", u:"헤어질 때 자주.", f:"keep in touch with + 사람 · in touch (the ❌)", c:"stay in touch", o:"Let's keep in touch.", n:"Let's keep in a touch."},
-        {t:"recommend", k:"추천하다", u:"식당이나 책을 추천할 때.", f:"recommend + 명사 / -ing · recommend that + 주어 + 동사원형", c:"highly recommend", o:"I recommend trying the soup.", n:"I recommend to try the soup."},
-        {t:"vacation", k:"휴가", u:"여행·휴가 이야기.", f:"on vacation (in ❌) · 미국식, 영국식은 holiday", c:"go on vacation, take a vacation", o:"She's on vacation this week.", n:"She's in vacation this week."},
-        {t:"take up", k:"(취미 등을) 시작하다", u:"새 취미를 시작했을 때.", f:"take up + 명사 · take it up", c:"take up a hobby", o:"I took up running last year.", n:"I took up to run last year."},
-        {t:"wind down", k:"긴장을 풀다, 마무리되다", u:"하루를 끝내고 쉴 때.", f:"wind down (목적어 없음) · 사람 + wind down", c:"wind down after work", o:"I need to wind down after work.", n:"I need to wind down myself after work."}
+        {t:"commute", k:"통근하다", u:"출퇴근 이야기를 할 때.", f:"commute to + 장소 (commute to work) · 명사로도 씀", c:"a long commute", o:"I commute to work by train.", ok:"저는 기차로 출근해요.", n:"I commute to home by train."},
+        {t:"catch up", k:"밀린 이야기를 나누다", u:"오랜만에 만났을 때.", f:"catch up with + 사람 (on 일)", c:"catch up with a friend", o:"I'd love to catch up with you.", ok:"만나서 밀린 이야기를 나누고 싶어요.", n:"I'd love to catch up you."},
+        {t:"hang out", k:"어울려 놀다", u:"편하게 시간을 보낼 때.", f:"hang out with + 사람 (hang out together)", c:"hang out with friends", o:"We hang out on weekends.", ok:"우리는 주말에 같이 놀아요.", n:"We hang out friends on weekends."},
+        {t:"grab", k:"(간단히) 먹다·사다", u:"커피나 점심을 가볍게 말할 때.", f:"grab + 명사 (grab a coffee)", c:"grab a bite, grab lunch", o:"Let's grab a coffee.", ok:"커피 한잔해요.", n:"Let's grab for a coffee."},
+        {t:"bump into", k:"우연히 마주치다", u:"우연히 만난 일.", f:"bump into + 사람 (bump to ❌)", c:"bump into someone", o:"I bumped into Anna yesterday.", ok:"어제 애나를 우연히 마주쳤어요.", n:"I bumped to Anna yesterday."},
+        {t:"keep in touch", k:"연락하고 지내다", u:"헤어질 때 자주.", f:"keep in touch with + 사람 · in touch (the ❌)", c:"stay in touch", o:"Let's keep in touch.", ok:"계속 연락하고 지내요.", n:"Let's keep in a touch."},
+        {t:"recommend", k:"추천하다", u:"식당이나 책을 추천할 때.", f:"recommend + 명사 / -ing · recommend that + 주어 + 동사원형", c:"highly recommend", o:"I recommend trying the soup.", ok:"수프를 드셔 보시길 추천해요.", n:"I recommend to try the soup."},
+        {t:"vacation", k:"휴가", u:"여행·휴가 이야기.", f:"on vacation (in ❌) · 미국식, 영국식은 holiday", c:"go on vacation, take a vacation", o:"She's on vacation this week.", ok:"그녀는 이번 주 휴가예요.", n:"She's in vacation this week."},
+        {t:"take up", k:"(취미 등을) 시작하다", u:"새 취미를 시작했을 때.", f:"take up + 명사 · take it up", c:"take up a hobby", o:"I took up running last year.", ok:"작년에 달리기를 시작했어요.", n:"I took up to run last year."},
+        {t:"wind down", k:"긴장을 풀다, 마무리되다", u:"하루를 끝내고 쉴 때.", f:"wind down (목적어 없음) · 사람 + wind down", c:"wind down after work", o:"I need to wind down after work.", ok:"퇴근 후에는 긴장을 풀어야 해요.", n:"I need to wind down myself after work."}
       ],
       sentences: [
         {t:"How was your weekend?", k:"주말 잘 보내셨어요?", u:"월요일 스몰토크의 기본.", f:"How was + 명사 (How is ❌ 과거 지난 일)", b:"How was", ng:"How is your weekend?"},
@@ -163,16 +163,16 @@ window.STUDY_EN = {
     "2026-10-16": {
       theme: "금요일 · 면접·자기소개",
       words: [
-        {t:"background", k:"배경, 경력", u:"학력·경력을 말할 때.", f:"셀 수 없는 명사 / a background in + 분야", c:"a background in sales", o:"I have a background in sales.", n:"I have background on sales."},
-        {t:"strength", k:"강점", u:"면접 단골 질문.", f:"셀 수 있는 명사 · one of my strengths is ~", c:"play to your strengths", o:"One of my strengths is communication.", n:"One of my strength is communication."},
-        {t:"achievement", k:"성과", u:"이룬 결과를 말할 때.", f:"셀 수 있는 명사 · achieve + 명사", c:"a major achievement", o:"My biggest achievement was the project.", n:"My biggest achievement were the project."},
-        {t:"responsible", k:"책임이 있는", u:"담당 업무를 설명할 때.", f:"be responsible for + 명사/-ing (responsible of ❌)", c:"responsible for the budget", o:"I was responsible for managing the team.", n:"I was responsible of managing the team."},
-        {t:"lead", k:"이끌다", u:"팀이나 프로젝트를 이끌었을 때.", f:"lead + 명사 · 과거 led [led]", c:"lead a team, lead a project", o:"I led a team of five.", n:"I leaded a team of five."},
-        {t:"handle", k:"처리하다, 다루다", u:"맡아서 처리한 업무.", f:"handle + 명사 (handle with ❌)", c:"handle a complaint", o:"I handled customer requests.", n:"I handled with customer requests."},
-        {t:"transition", k:"전환하다, 이행", u:"직무·산업을 바꿀 때.", f:"transition from A to B · 명사로도 씀", c:"transition into a new role", o:"I want to transition into marketing.", n:"I want to transition to into marketing."},
-        {t:"contribute", k:"기여하다", u:"입사 후 포부를 말할 때.", f:"contribute to + 명사/-ing (to 뒤 동사 -ing)", c:"contribute to the team", o:"I want to contribute to the company.", n:"I want to contribute the company."},
-        {t:"collaborate", k:"협업하다", u:"팀 업무 스타일을 말할 때.", f:"collaborate with + 사람 · on + 일", c:"collaborate with teams", o:"I collaborated with the design team.", n:"I collaborated the design team."},
-        {t:"passionate", k:"열정적인", u:"관심 분야를 말할 때.", f:"be passionate about + 명사/-ing (passionate for ❌)", c:"passionate about marketing", o:"I'm passionate about marketing.", n:"I'm passionate in marketing."}
+        {t:"background", k:"배경, 경력", u:"학력·경력을 말할 때.", f:"셀 수 없는 명사 / a background in + 분야", c:"a background in sales", o:"I have a background in sales.", ok:"저는 영업 분야 경력이 있어요.", n:"I have background on sales."},
+        {t:"strength", k:"강점", u:"면접 단골 질문.", f:"셀 수 있는 명사 · one of my strengths is ~", c:"play to your strengths", o:"One of my strengths is communication.", ok:"제 강점 중 하나는 소통이에요.", n:"One of my strength is communication."},
+        {t:"achievement", k:"성과", u:"이룬 결과를 말할 때.", f:"셀 수 있는 명사 · achieve + 명사", c:"a major achievement", o:"My biggest achievement was the project.", ok:"가장 큰 성과는 그 프로젝트였어요.", n:"My biggest achievement were the project."},
+        {t:"responsible", k:"책임이 있는", u:"담당 업무를 설명할 때.", f:"be responsible for + 명사/-ing (responsible of ❌)", c:"responsible for the budget", o:"I was responsible for managing the team.", ok:"저는 팀 관리를 맡았어요.", n:"I was responsible of managing the team."},
+        {t:"lead", k:"이끌다", u:"팀이나 프로젝트를 이끌었을 때.", f:"lead + 명사 · 과거 led [led]", c:"lead a team, lead a project", o:"I led a team of five.", ok:"저는 다섯 명 팀을 이끌었어요.", n:"I leaded a team of five."},
+        {t:"handle", k:"처리하다, 다루다", u:"맡아서 처리한 업무.", f:"handle + 명사 (handle with ❌)", c:"handle a complaint", o:"I handled customer requests.", ok:"저는 고객 요청을 처리했어요.", n:"I handled with customer requests."},
+        {t:"transition", k:"전환하다, 이행", u:"직무·산업을 바꿀 때.", f:"transition from A to B · 명사로도 씀", c:"transition into a new role", o:"I want to transition into marketing.", ok:"마케팅 쪽으로 전환하고 싶어요.", n:"I want to transition to into marketing."},
+        {t:"contribute", k:"기여하다", u:"입사 후 포부를 말할 때.", f:"contribute to + 명사/-ing (to 뒤 동사 -ing)", c:"contribute to the team", o:"I want to contribute to the company.", ok:"회사에 기여하고 싶어요.", n:"I want to contribute the company."},
+        {t:"collaborate", k:"협업하다", u:"팀 업무 스타일을 말할 때.", f:"collaborate with + 사람 · on + 일", c:"collaborate with teams", o:"I collaborated with the design team.", ok:"디자인팀과 협업했어요.", n:"I collaborated the design team."},
+        {t:"passionate", k:"열정적인", u:"관심 분야를 말할 때.", f:"be passionate about + 명사/-ing (passionate for ❌)", c:"passionate about marketing", o:"I'm passionate about marketing.", ok:"저는 마케팅에 열정이 있어요.", n:"I'm passionate in marketing."}
       ],
       sentences: [
         {t:"Let me briefly introduce myself.", k:"간단히 제 소개를 드리겠습니다.", u:"자기소개 시작.", f:"Let me + 동사원형 · introduce myself", b:"introduce myself", ng:"Let me briefly introducing myself."},
@@ -202,16 +202,16 @@ window.STUDY_EN = {
     "2026-10-17": {
       theme: "토요일 · 식당·쇼핑",
       words: [
-        {t:"reservation", k:"예약", u:"식당·호텔 예약.", f:"make a reservation (do ❌) · 셀 수 있는 명사", c:"make a reservation, a reservation for two", o:"I made a reservation for two.", n:"I did a reservation for two."},
-        {t:"split", k:"나누다", u:"비용을 나눌 때.", f:"split + 명사 · split the bill · 과거형도 split", c:"split the bill", o:"Let's split the bill.", n:"Let's split the bill with equal."},
-        {t:"tip", k:"팁, 봉사료", u:"식당 계산 때.", f:"leave a tip (do ❌) · 셀 수 있는 명사", c:"leave a tip", o:"We left a tip for the server.", n:"We did a tip for the server."},
-        {t:"refund", k:"환불", u:"환불 요청.", f:"get a refund · 명사/동사 같은 모양", c:"ask for a refund, get a refund", o:"I'd like to get a refund.", n:"I'd like to get refund."},
-        {t:"exchange", k:"교환하다", u:"상품 교환.", f:"exchange A for B (exchange A to B ❌)", c:"exchange for a different size", o:"I'd like to exchange it for a larger size.", n:"I'd like to exchange it to a larger size."},
-        {t:"receipt", k:"영수증", u:"구매 증빙.", f:"셀 수 있는 명사 · 발음 [rɪˈsiːt] (p 묵음)", c:"keep the receipt", o:"Do you have the receipt?", n:"Do you have the receipts?"},
-        {t:"browse", k:"둘러보다", u:"가게에서 구경할 때.", f:"browse + 명사 / browse through + 명사 · 전치사 없이도", c:"just browsing", o:"I'm just browsing.", n:"I'm just browse."},
-        {t:"try on", k:"입어 보다", u:"옷 가게에서.", f:"try on + 명사 · try it on", c:"try on a jacket", o:"Can I try it on?", n:"Can I try on it?"},
-        {t:"sold out", k:"매진된", u:"재고가 없을 때.", f:"형용사 · be sold out (sold out of 도 가능: out of stock)", c:"be sold out", o:"That size is sold out.", n:"That size is sold off."},
-        {t:"takeout", k:"포장 (주문)", u:"음식을 포장할 때.", f:"미국 takeout / 영국 takeaway · 명사 (붙여 씀)", c:"order takeout", o:"Let's order takeout.", n:"Let's order take out."}
+        {t:"reservation", k:"예약", u:"식당·호텔 예약.", f:"make a reservation (do ❌) · 셀 수 있는 명사", c:"make a reservation, a reservation for two", o:"I made a reservation for two.", ok:"두 명으로 예약했어요.", n:"I did a reservation for two."},
+        {t:"split", k:"나누다", u:"비용을 나눌 때.", f:"split + 명사 · split the bill · 과거형도 split", c:"split the bill", o:"Let's split the bill.", ok:"계산서를 나눠서 냅시다.", n:"Let's split the bill with equal."},
+        {t:"tip", k:"팁, 봉사료", u:"식당 계산 때.", f:"leave a tip (do ❌) · 셀 수 있는 명사", c:"leave a tip", o:"We left a tip for the server.", ok:"종업원에게 팁을 남겼어요.", n:"We did a tip for the server."},
+        {t:"refund", k:"환불", u:"환불 요청.", f:"get a refund · 명사/동사 같은 모양", c:"ask for a refund, get a refund", o:"I'd like to get a refund.", ok:"환불받고 싶어요.", n:"I'd like to get refund."},
+        {t:"exchange", k:"교환하다", u:"상품 교환.", f:"exchange A for B (exchange A to B ❌)", c:"exchange for a different size", o:"I'd like to exchange it for a larger size.", ok:"더 큰 사이즈로 교환하고 싶어요.", n:"I'd like to exchange it to a larger size."},
+        {t:"receipt", k:"영수증", u:"구매 증빙.", f:"셀 수 있는 명사 · 발음 [rɪˈsiːt] (p 묵음)", c:"keep the receipt", o:"Do you have the receipt?", ok:"영수증 갖고 계세요?", n:"Do you have the receipts?"},
+        {t:"browse", k:"둘러보다", u:"가게에서 구경할 때.", f:"browse + 명사 / browse through + 명사 · 전치사 없이도", c:"just browsing", o:"I'm just browsing.", ok:"그냥 구경 중이에요.", n:"I'm just browse."},
+        {t:"try on", k:"입어 보다", u:"옷 가게에서.", f:"try on + 명사 · try it on", c:"try on a jacket", o:"Can I try it on?", ok:"입어 봐도 될까요?", n:"Can I try on it?"},
+        {t:"sold out", k:"매진된", u:"재고가 없을 때.", f:"형용사 · be sold out (sold out of 도 가능: out of stock)", c:"be sold out", o:"That size is sold out.", ok:"그 사이즈는 품절이에요.", n:"That size is sold off."},
+        {t:"takeout", k:"포장 (주문)", u:"음식을 포장할 때.", f:"미국 takeout / 영국 takeaway · 명사 (붙여 씀)", c:"order takeout", o:"Let's order takeout.", ok:"포장 주문해요.", n:"Let's order take out."}
       ],
       sentences: [
         {t:"I'd like to make a reservation for two at seven.", k:"7시에 두 명 예약하고 싶습니다.", u:"전화 예약.", f:"make a reservation for + 인원 · at + 시각", b:"make a reservation for two", ng:"I'd like to do a reservation for two at seven."},
@@ -241,16 +241,16 @@ window.STUDY_EN = {
     "2026-10-18": {
       theme: "일요일 · 건강·여가",
       words: [
-        {t:"workout", k:"운동", u:"운동 이야기를 할 때.", f:"명사 workout / 동사 work out (띄움)", c:"a quick workout, work out", o:"I do a workout every morning.", n:"I do a work out every morning."},
-        {t:"stretch", k:"스트레칭하다", u:"몸을 풀 때.", f:"stretch + 부위 · stretch out", c:"stretch your legs", o:"I stretch every morning.", n:"I stretches every morning."},
-        {t:"sleep in", k:"늦잠 자다", u:"주말 늦잠.", f:"sleep in (목적어 없음) · 과거 slept in", c:"sleep in on weekends", o:"I slept in this morning.", n:"I slept in the bed this morning."},
-        {t:"unwind", k:"긴장을 풀다", u:"쉬면서 풀 때.", f:"unwind (목적어 없음) · unwind with + 활동", c:"unwind after work", o:"I unwind by reading.", n:"I unwind myself by reading."},
-        {t:"appointment", k:"(병원·상담) 예약", u:"병원 예약.", f:"make / have an appointment with + 사람 (a/an 필요)", c:"make an appointment", o:"I have an appointment with the dentist.", n:"I have a appointment with the dentist."},
-        {t:"prescription", k:"처방전", u:"병원·약국.", f:"셀 수 있는 명사 · a prescription for + 약", c:"fill a prescription", o:"I need a prescription for antibiotics.", n:"I need a prescription of antibiotics."},
-        {t:"symptom", k:"증상", u:"몸 상태를 설명.", f:"셀 수 있는 명사 · symptoms 가 흔함", c:"flu symptoms", o:"What are your symptoms?", n:"What is your symptoms?"},
-        {t:"recover", k:"회복하다", u:"병이나 피로에서 회복.", f:"recover from + 명사 (recover of ❌)", c:"recover from a cold", o:"I'm recovering from a cold.", n:"I'm recovering of a cold."},
-        {t:"binge-watch", k:"몰아서 보다", u:"드라마 몰아보기.", f:"binge-watch + 명사 (하이픈)", c:"binge-watch a series", o:"We binge-watched the whole series.", n:"We binge-watched about the whole series."},
-        {t:"errand", k:"심부름, 잡무", u:"볼일을 처리할 때.", f:"run errands (do ❌) · 보통 복수", c:"run errands", o:"I have to run some errands.", n:"I have to do some errand."}
+        {t:"workout", k:"운동", u:"운동 이야기를 할 때.", f:"명사 workout / 동사 work out (띄움)", c:"a quick workout, work out", o:"I do a workout every morning.", ok:"저는 매일 아침 운동해요.", n:"I do a work out every morning."},
+        {t:"stretch", k:"스트레칭하다", u:"몸을 풀 때.", f:"stretch + 부위 · stretch out", c:"stretch your legs", o:"I stretch every morning.", ok:"저는 매일 아침 스트레칭해요.", n:"I stretches every morning."},
+        {t:"sleep in", k:"늦잠 자다", u:"주말 늦잠.", f:"sleep in (목적어 없음) · 과거 slept in", c:"sleep in on weekends", o:"I slept in this morning.", ok:"오늘 아침 늦잠 잤어요.", n:"I slept in the bed this morning."},
+        {t:"unwind", k:"긴장을 풀다", u:"쉬면서 풀 때.", f:"unwind (목적어 없음) · unwind with + 활동", c:"unwind after work", o:"I unwind by reading.", ok:"저는 책을 읽으며 긴장을 풀어요.", n:"I unwind myself by reading."},
+        {t:"appointment", k:"(병원·상담) 예약", u:"병원 예약.", f:"make / have an appointment with + 사람 (a/an 필요)", c:"make an appointment", o:"I have an appointment with the dentist.", ok:"치과 예약이 있어요.", n:"I have a appointment with the dentist."},
+        {t:"prescription", k:"처방전", u:"병원·약국.", f:"셀 수 있는 명사 · a prescription for + 약", c:"fill a prescription", o:"I need a prescription for antibiotics.", ok:"항생제 처방전이 필요해요.", n:"I need a prescription of antibiotics."},
+        {t:"symptom", k:"증상", u:"몸 상태를 설명.", f:"셀 수 있는 명사 · symptoms 가 흔함", c:"flu symptoms", o:"What are your symptoms?", ok:"증상이 어떠세요?", n:"What is your symptoms?"},
+        {t:"recover", k:"회복하다", u:"병이나 피로에서 회복.", f:"recover from + 명사 (recover of ❌)", c:"recover from a cold", o:"I'm recovering from a cold.", ok:"감기에서 회복 중이에요.", n:"I'm recovering of a cold."},
+        {t:"binge-watch", k:"몰아서 보다", u:"드라마 몰아보기.", f:"binge-watch + 명사 (하이픈)", c:"binge-watch a series", o:"We binge-watched the whole series.", ok:"시리즈 전체를 몰아서 봤어요.", n:"We binge-watched about the whole series."},
+        {t:"errand", k:"심부름, 잡무", u:"볼일을 처리할 때.", f:"run errands (do ❌) · 보통 복수", c:"run errands", o:"I have to run some errands.", ok:"볼일을 몇 개 처리해야 해요.", n:"I have to do some errand."}
       ],
       sentences: [
         {t:"I've been trying to work out three times a week.", k:"일주일에 세 번 운동하려고 해요.", u:"운동 습관.", f:"work out (동사) · three times a week", b:"work out", ng:"I've been trying to workout three times a week."},
