@@ -1,0 +1,362 @@
+{
+ "date": "2026-10-22",
+ "generated": "2026-10-22T07:57+09:00",
+ "boxes": [
+  {
+   "id": "realestate",
+   "title": "부동산",
+   "items": [
+    {
+     "id": "aeffca649b11",
+     "title": "부동산 배우라더니 도배·집수리만…사위 아닌 '일꾼' 취급한 처가",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EaDNSYjhfNUd2WlFzckdGdG9UemNjZ0pZX3hEZXg0S0MyRWttS1haSjVWYlh6WFhMY2hobTRJQk5Rc09yVzNLUnVidVZEdjltcTA0aDNzMi1sek5WZVpJTktxUTNKSHZXcTJn0gFwQVVfeXFMTjZfWEFUUk43RF9KTXc1OUI0SE85VU5qc3lyZkZaTlFHV2x4dmlFR09Nb3BtbE1hSnd5MDU2VU1tQUVmbFktV3B4R00xLUpKenZ2WkpWQXU5X1BLWUxQOFFuQjgwdno1R1h6M0tWTnFPRA?oc=5",
+     "source": "머니투데이",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-22T07:27+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "4f65c015897c",
+     "title": "20억 돌파 초읽기…수색에서 연신내까지 은평구 천지개벽",
+     "link": "https://www.hankyung.com/article/202610190890i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-22T07:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "01e18ef82cb6",
+     "title": "서울 아파트 실거래가 1년 새 15.5%↑…2021년 이후 최대 상승",
+     "link": "https://www.yna.co.kr/view/AKR20261021153100004",
+     "source": "연합뉴스",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-22T06:00+09:00",
+     "preview": "(서울=연합뉴스) 유한주 기자 = 서울 아파트 매매 실거래가격이 1년 새 15.5% 상승하며 2021년 11월 이후 가장 높은 상승률을 기록했다...",
+     "also": []
+    },
+    {
+     "id": "1d42dd90d0af",
+     "title": "[법조 인사이드] 건설사 회장도 ‘공사 중지’ 실패… 조망권 소송 왜 어렵나",
+     "link": "https://biz.chosun.com/topics/law_firm/2026/10/22/ELPKHZ4WWJB3PNV6AHTV4EATBM/",
+     "source": "조선비즈",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-22T06:00+09:00",
+     "preview": "이 기사는 2026년 10월 21일 오후 5시 23분 조선비즈 RM 리포트 사이트에 표출됐습니다. 국내 대형 건설사를 이끄는 이중근 부영그룹 회장도 자택의 한강 조망권을 지키기 위한 법정 다툼에서 원하는 결과를 얻지 못했다. 이 회장은 조정호 메리츠금융 회장의 신축 주택이 한강 조망을…",
+     "also": []
+    },
+    {
+     "id": "cfa40e4f3efc",
+     "title": "상생임대주택 혜택 올해로 끝 … 꼭 챙겨야할 5가지",
+     "link": "https://www.mk.co.kr/news/realestate/12181750",
+     "source": "매일경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-22T05:47+09:00",
+     "preview": "상생임대주택에 관한 오해 5가지상생임대주택 제도가 올해로 종료된다. 거주하지 않아도 비과세가 가능하고 이에 따라 양도세를 크게 줄일 수 있는 제도인데 더 이상 연장되지 않는 것이다..",
+     "also": []
+    },
+    {
+     "id": "bce363804d83",
+     "title": "“천당 위 분당? 7억은 번다” 지금 사도 돈 되는 ‘로또 재건축’",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2QUJrdV9fWFk5eHBXX0tHUnZYQ2djaVJ1Q21aaVc2RmpRbDlqU1dUXzFwenNFQU92RnA0NVZValFBOUpkcVFGMmEzVEVYcFo2dUlBX2R3?oc=5",
+     "source": "중앙일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-22T05:15+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "3b2f0f888b07",
+     "title": "숨고르는 금통위…‘호미'의 효과 점검할 시간 더 필요",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01659686645615544",
+     "source": "이데일리",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-22T05:00+09:00",
+     "preview": "한국은행 금융통화위원회는 22일 본회의를 열고 기준금리를 결정한다. 이번 회의에서는 기준금리를 현 수준인 연 3.00%에서 동결하며 속도 조절에 나설 것이라는 전망이 지배적이다. 한은은 앞서 지난 7월과 8월 두 차례 연속 금리를 올리며 선제적 긴축을 단행한 바 있다. 한국은행 금융통화…",
+     "also": []
+    },
+    {
+     "id": "28c05b802db5",
+     "title": "한국은행, 3연속 기준금리 인상?...오늘 오전 결정",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwcTlUWTVIZnFZOFRkQWVWbkFYTkdTUTFyUGZfMEh2TkRSNzRjRUowODZPTVo4bkRESi1FRXBiR3ZMbURkTEVLRDA3ZW9tTmZlZWFMYmlnYTNyR0JBNTB1b3pjSWNJdlpQbVdhNmhzS183OTN3dGc?oc=5",
+     "source": "YTN",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-22T00:32+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "stocks",
+   "title": "주식",
+   "items": [
+    {
+     "id": "52fc054bdf85",
+     "title": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
+     "link": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
+     "source": "CNBC",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-22T07:50+09:00",
+     "preview": "CoreWeave shares are down 29% in October, and the spreads in its credit default swaps are widening.",
+     "also": [],
+     "title_ko": "CoreWeave의 시장 신뢰도는 채권 수익률이 급증하고 주가가 하락함에 따라 침식됩니다.",
+     "preview_ko": "CoreWeave 주식은 10월에 29% 감소했으며 신용 디폴트 스왑의 스프레드는 확대되고 있습니다."
+    },
+    {
+     "id": "01e001992248",
+     "title": "Stocks rise on AI-led earnings, France’s 10-year bond yield hits 5%",
+     "link": "https://www.investing.com/news/economy-news/asian-stocks-climb-as-strong-earnings-buoy-wall-street-4961492",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-22T07:48+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "주가는 AI 주도 수익으로 상승하고, 프랑스의 10년 채권 수익률은 5% 를 기록했습니다."
+    },
+    {
+     "id": "d7b9b169e54e",
+     "title": "Cathay General Q3 2026 slides: record NII drives earnings growth",
+     "link": "https://www.investing.com/news/company-news/cathay-general-q3-2026-slides-record-nii-drives-earnings-growth-93CH-4964376",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-22T07:48+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "Cathay General 2026년 3분기 슬라이드: 기록적인 NII로 수익 성장 촉진"
+    },
+    {
+     "id": "f50906f23e63",
+     "title": "스페이스X 훈풍에 기술주 강세…나스닥 1.05% ↑ [뉴욕증시 브리핑]",
+     "link": "https://www.hankyung.com/article/2026102273436",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-22T07:05+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "0f78938754d1",
+     "title": "LS에코에너지, 급락 딛고 급등…증권가 목표주가 줄상향 이유",
+     "link": "https://www.hankyung.com/article/202610216480i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-21T18:30+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI 툴",
+   "items": [
+    {
+     "id": "25443172439e",
+     "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+     "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+     "source": "TechCrunch AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-22T07:51+09:00",
+     "preview": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+     "also": [],
+     "title_ko": "블랙스톤의 자스 카이라 (Jas Khaira) 는 AI 구축 부채에 대한 두려움이 과도하다고 말합니다.",
+     "preview_ko": "블랙스톤의 AI는 왜 PE 거물이 시장 불안에 시달리지 않는지에 대해 머리를 맞대고 있습니다."
+    },
+    {
+     "id": "eaa3fbf80042",
+     "title": "Data centers could erase decades of air quality gains",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+     "source": "The Verge AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-22T07:33+09:00",
+     "preview": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical inf…",
+     "also": [],
+     "title_ko": "데이터 센터는 수십 년간의 대기 질 향상을 지울 수 있습니다.",
+     "preview_ko": "새로운 데이터 센터가 급히 들어서면 대기 오염이 2000년대 이후 텍사스에서 볼 수 없었던 수준으로 되살아날 수 있으며, 이는 물리적 정보의 지상 제로가 되었습니다."
+    },
+    {
+     "id": "2ed22a61b2f1",
+     "title": "Broad access through consistent standards",
+     "link": "https://openai.com/index/broad-access-through-consistent-standards",
+     "source": "OpenAI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-22T06:00+09:00",
+     "preview": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+     "also": [],
+     "title_ko": "일관된 표준을 통한 폭넓은 액세스",
+     "preview_ko": "OpenAI가 배포 파트너와 협력하여 일관된 보호 조치를 유지하고, 책임감 있는 액세스를 지원하며, 사용 정책에서 기대치를 명확히 하는 방법."
+    },
+    {
+     "id": "5dbb54a00540",
+     "title": "Claude Duet",
+     "link": "https://claude.com/product/claude-duet",
+     "source": "Hacker News",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-22T04:14+09:00",
+     "preview": "",
+     "also": [
+      {
+       "source": "Hacker News",
+       "title": "Claude Duet",
+       "link": "https://claude.com/resources/articles/claude-duet"
+      },
+      {
+       "source": "The Verge AI",
+       "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+       "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
+      }
+     ],
+     "title_ko": "클로드 듀엣"
+    },
+    {
+     "id": "7104bc51c295",
+     "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+     "link": "https://huggingface.co/blog/nvidia/kumo-relational",
+     "source": "Hugging Face",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-22T03:26+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "NVIDIA KUMO 관계형은 관계형 데이터에 대해 감독되는 기계 학습을 능가하며 교육이 필요하지 않습니다."
+    }
+   ]
+  },
+  {
+   "id": "trend",
+   "title": "트렌드",
+   "items": [
+    {
+     "id": "53d62e23be1c",
+     "title": "모든 걸 바친 직원이 회사를 떠나며 남긴 말",
+     "link": "https://www.youtube.com/watch?v=EXkngh_rjgk",
+     "source": "YouTube · 세바시 강연 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-22T05:00+09:00",
+     "preview": "모든 걸 걸고 함께했던 직원이 회사를 떠나며 말했습니다. “노력이 부족했다면 더 하면 됐을 겁니다. 그런데 지금은 뭘 더 해야 할지 모르겠습니다.” 그 말이 오래도록 마음에 남았습니다. 포기하는 게 더 편할지도 모르지만, 함께 버텨온 사람들과 우리의 도전을 믿어준 분들 때문에 아직은 내…",
+     "also": []
+    },
+    {
+     "id": "1240e429ba42",
+     "title": "\"기름 한 방울 안 나는데..\" 한국이 마음 먹으면 전 세계 비행기에 생기는 일ㅣ지식인 클래스 EP.32 (박현도 교수)",
+     "link": "https://www.youtube.com/watch?v=SrL_gHCp5w0",
+     "source": "YouTube · 지식인사이드 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-21T19:40+09:00",
+     "preview": "오늘은 박현도 교수 님을 모시고 석유 한 방울 안 나는 한국이 중동 산유국들의 ‘심장’이 된 진짜 이유에 대해 들어봤습니다. 영상이 유익 했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요! #지식인사이드 #지식인클래스 #박현도 #중동 #석유 #방산 00:00 인트로 00:28…",
+     "also": []
+    },
+    {
+     "id": "ef98bd3fecdf",
+     "title": "첫인상과 실제 모습이 다르게 느껴지는 이유",
+     "link": "https://www.youtube.com/watch?v=oW666ROzezU",
+     "source": "YouTube · 주언규 (재테크)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-21T18:04+09:00",
+     "preview": "첫인상과 실제 모습이 다르게 느껴지는 이유 처음엔 차가웠는데 이야기하고 나니 다르게 느껴진 적 있잖아요? 우리가 가장 자주 보여주는 얼굴은 어떤 표정일까요 이하영님과 주언규님이 무표정과 대화 중 인상에 관해 생각을 나눕니다 내가 평소 짓는 얼굴도 한번 살펴보세요 이하영님은 말과 일상에…",
+     "also": []
+    },
+    {
+     "id": "00e2eae21253",
+     "title": "AI에 ‘고통’ 가르쳤더니 일 못하겠다고 한다면? (이건복 마이크로소프트 상무)",
+     "link": "https://www.youtube.com/watch?v=TGtO63-5hHo",
+     "source": "YouTube · 티타임즈TV (회사 트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-21T18:00+09:00",
+     "preview": "AI가 의식을 가지고 있느냐 혹은 로봇의 유지보수를 위해서라도 인공의식(Artificial Consciousness)를 만들어줘야 하냐에 대해 논의가 많은데요. 이건복 마이크로소프트 상무와 정리해봅니다. “로봇도 너무 뜨거운 데 가면 오작동이 일어날 수 있잖아요. 그래서 고통이라는 컨셉…",
+     "also": []
+    },
+    {
+     "id": "5c88655acea8",
+     "title": "💬AI에게 카카오톡 관리시키는 방법! 생산성 3배 올라갑니다 (광고 아님)",
+     "link": "https://www.youtube.com/watch?v=7HSmI01GYfM",
+     "source": "YouTube · 미키피디아",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-21T18:00+09:00",
+     "preview": "요즘 ChatGPT를 이용해 생산성을 높이는 여러 방법들을 연구하고 있는데, 오늘은 진짜 비서처럼 일하는 ChatGPT의 새로운 활용법을 소개합니다 ⚠️댓글 이벤트 주의사항! 기존 ChatGPT 유료 구독 이용자가 Pro 1개월 이용권을 지급받는 경우, 기존 구독의 잔여 이용 기간은 소…",
+     "also": []
+    },
+    {
+     "id": "3c75841ca16e",
+     "title": "\"망하는 것까지 제가 선택하고 싶었어요\" 김재현의 승부",
+     "link": "https://www.youtube.com/watch?v=ukG7WA8Eho8",
+     "source": "YouTube · 폴인 fol:in (전문가 인터뷰)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-21T08:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "729aa6dcd977",
+     "title": "\"자격증 따고 스펙 쌓던 시대는 끝났습니다\" AI가 절대 따라잡을 수 없는 인간만의 능력 ㅣEp 책과사람 180 (정수진 작가 1부)",
+     "link": "https://www.youtube.com/watch?v=_H65l5XF_Po",
+     "source": "YouTube · 책과삶 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-20T18:00+09:00",
+     "preview": "안녕하세요.\"책과삶\" 입니다. 오늘은 정수진 작가님과 AI시대 대체되지 않을 능력에 대해 알아봤습니다. 세상의 모든 감동과 지식을 전합니다. 구독과 좋아요 꾸욱 눌러주시면 더욱 열심히 좋은 영상으로 보답하겠습니다. 세상에서 가장 똑똑한 기계를 만드는 곳에서 배운것 📖 [나는 코드를 모르…",
+     "also": []
+    },
+    {
+     "id": "b510fb7c1be1",
+     "title": "가을 코트 준비 꿀팁",
+     "link": "https://www.youtube.com/watch?v=TD_ix6mt9L8",
+     "source": "YouTube · 큰손 노희영 (트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-18T11:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "873a4b98972c",
+     "title": "명성? 집? 가족? 인생은 랄프 로렌처럼 살고 싶은 이유",
+     "link": "https://www.youtube.com/watch?v=G4hQedUXX2w",
+     "source": "YouTube · 조승연의 탐구생활 (인문학)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-14T19:00+09:00",
+     "preview": "최근에 랄프 로렌의 삶을 다룬 다큐 ‘Very Ralph’ 상영회에 다녀왔는데요 저의 패션에도 많은 영향을 준 브랜드의 창업자인 랄프 로렌에 대해 이야기해보았습니다! ’Very Ralph‘는 쿠팡플레이에서 시청 가능합니다 *이 영상에는 랄프 로렌의 유료광고가 포함되어 있습니다 채널에 가…",
+     "also": []
+    },
+    {
+     "id": "452519528612",
+     "title": "남 눈치 안 보는데, 인기 많은 사람 특징 3가지",
+     "link": "https://www.youtube.com/watch?v=3hGsmV-_fEI",
+     "source": "YouTube · 희렌최널 Hirenze (말 잘하는 법)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-09T22:00+09:00",
+     "preview": "남의 눈치를 보지 않고 할 말도 다하는데 사람들이 좋아하는 사람 VS 아닌 사람의 차이는 무엇일까요? 오늘은 전설의 미드 '프렌즈'의 주인공 피비의 매력 분석을 통해 남 눈치 보지 않는데 인기 많은 사람의 특징을 알아봅니다. 오늘도 최널고정해주신 희릿 내일도 최고길만 걸으세요!",
+     "also": []
+    }
+   ]
+  }
+ ],
+ "problems": []
+}
