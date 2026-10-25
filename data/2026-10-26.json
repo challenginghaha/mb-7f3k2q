@@ -1,0 +1,347 @@
+{
+ "date": "2026-10-26",
+ "generated": "2026-10-26T07:51+09:00",
+ "boxes": [
+  {
+   "id": "realestate",
+   "title": "부동산",
+   "items": [
+    {
+     "id": "a09417109e13",
+     "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+     "link": "https://www.yna.co.kr/view/AKR20261026010200011",
+     "source": "연합뉴스",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-26T07:30+09:00",
+     "preview": "■ 상하위 20% 집값 격차 290배로 상승…다주택 등 포함시 더 확대",
+     "also": []
+    },
+    {
+     "id": "b81d29ecdf82",
+     "title": "상·하위 20% 집값 격차 ‘290배’…집계 이래 최대치",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82cmE0RkdpLWp0TnM1eFdpV1FyTW9JZEIwVVR1RExmbGpkcEo1RUN3NkhZMmNLeDI4aDVRM3hTMUlrSjFycDBjQlNmLTJTWmEwRnVVS1VB?oc=5",
+     "source": "중앙일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-26T07:05+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "e47509716ccf",
+     "title": "코픽스 급등에 고정·변동 대출 금리차 축소… 고민 깊어지는 차주",
+     "link": "https://biz.chosun.com/stock/finance/2026/10/24/KMPLSI2DMJBT5CFIN7EYQNXVF4/",
+     "source": "조선비즈",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-26T06:00+09:00",
+     "preview": "최근 아파트를 매수하고 잔금 납부를 앞둔 30대 A씨는 주택담보대출 금리 선택을 두고 고민에 빠졌다. 당초 금리가 낮은 6개월 변동형으로 대출을 신청했지만, 5년 주기형으로 변경하는 방안을 검토하고 있다. 대출 신청 당시 0.7%포인트(p) 넘게 벌어졌던 두 상품의 금리 격차가 0.6%…",
+     "also": []
+    },
+    {
+     "id": "6816a3f8cc73",
+     "title": "이준기, 건대 고급 아파트서 14년째 거주…시세차익 '15억'",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZGlIMmFPNE9ySVFkMEdMV1pMeTBwRi1HY3lvbGdWc2FreGJTZ3BiR2IyaVJBZjVfeDFSQTBoRmcxdTBkUEczQ2ZBRVc5ZkpFTFJJT2lIM29DYjNKTlNudEw2LWE5aHI3Nnh0ZWd5SjdYaUQ0ZkRjdndnTEh1dGhZdzcyYUNiZ9IBhgFBVV95cUxQZGlIMmFPNE9ySVFkMEdMV1pMeTBwRi1HY3lvbGdWc2FreGJTZ3BiR2IyaVJBZjVfeDFSQTBoRmcxdTBkUEczQ2ZBRVc5ZkpFTFJJT2lIM29DYjNKTlNudEw2LWE5aHI3Nnh0ZWd5SjdYaUQ0ZkRjdndnTEh1dGhZdzcyYUNiZw?oc=5",
+     "source": "머니투데이",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-26T05:27+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "5aea274197a1",
+     "title": "가게 돈 손대고 빚 1억까지 진 둘째… 15억 아파트 첫째에게만 물려주려면? [중·꺾·마+: 중년 꺾이지 않는 마음]",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wMXgtd2tNWXYxX2pJT0l2OGw0TDB6Z095b2NYdW9pV0FSZGlUUmJNakxMTFJvS09HM19PbTdqNkloR2N3OHBxSm9CdG51eVlzVzlISVNHQ3JfMVRSSDJiLVpaZVI1WWtyczBoNWRB0gFzQVVfeXFMTzYzSTlJcUc2b3JydGJicjdLQmotMzh1akl3TkZpMHMxaUFZdkpOUHN3bTlhUzZsM05sSzBCLTJvZC1mZmNOMlZwVTNvWk9sY19meVE0ZTZEcUp5WHNPdmN4M3RDQ0hpOGw4RW8wa0NzcDJUUQ?oc=5",
+     "source": "한국일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-26T04:30+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "338c6fd80e36",
+     "title": "미성년 집주인 두 배 급증…'부모 찬스'가 대부분",
+     "link": "https://www.hankyung.com/article/2026102535111",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-25T18:40+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "45555258e9fe",
+     "title": "“계약했던 금액으론 이제 어림 없습니다”...공사비 40%씩 오른 서울 재건축",
+     "link": "https://www.mk.co.kr/news/realestate/12185267",
+     "source": "매일경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-25T17:43+09:00",
+     "preview": "3년간 공사비분쟁 전수조사 원자재 ·인건비 급등하면서 조합·시공사 분쟁끝 합의 신반포21차는 66% 뛰기도 노량진4는 97% 증액 요구 공사비 갈등에 착공 지연 우려 전문가 “검증..",
+     "also": []
+    },
+    {
+     "id": "49214754c31c",
+     "title": "높아진 시장 눈높이…3분기 성장률 얼마나 될까[한은 미리보기]",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01613766645616200",
+     "source": "이데일리",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-24T06:00+09:00",
+     "preview": "한국은행이 다음 주 3분기 경제성장률을 발표한다. 반도체 수출 호황에 힘입어 한국경제가 높은 성장세를 이어갔을지, 내수 회복세는 지속됐을지가 관전 포인트다. 지난 22일 기준금리를 동결한 한은이 추가 금리 인상 속도를 결정하는 데도 중요한 판단 근거가 될 전망이다.(사진=연합뉴스)한은은…",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "stocks",
+   "title": "주식",
+   "items": [
+    {
+     "id": "42a22078bec3",
+     "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
+     "link": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-25T23:00+09:00",
+     "preview": "“With cautious to negative market sentiment, it could be a tricky week,” one strategist says.",
+     "also": [],
+     "title_ko": "S&P 500대 기업의 1/3 이상이 수익을 시장 신뢰 균열로 보고하려고 합니다."
+    },
+    {
+     "id": "bd21414578d8",
+     "title": "Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.",
+     "link": "https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-25T22:00+09:00",
+     "preview": "The nine months between Election Day and June 30 have seen the S&P 500 deliver an average return of 15.5% going back to 1950.",
+     "also": [],
+     "title_ko": "이 주식 시장 매각이 걱정되시나요? 누가 이겨도 중간고사가 끝나면 안심이 될 수 있습니다."
+    },
+    {
+     "id": "3f2344a57894",
+     "title": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
+     "link": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
+     "source": "CNBC",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-25T21:00+09:00",
+     "preview": "Wonder is leaning into automation and user-built restaurants as founder Marc Lore prepares the startup for a potential IPO.",
+     "also": [],
+     "title_ko": "Marc Lore's Wonder는 IPO를 무효화하면서 텍사스, 자동화 및 사용자 제작 레스토랑에 베팅합니다."
+    },
+    {
+     "id": "fd86a1ab7834",
+     "title": "환율·채권…'초강세' 원화, 1200원대 진입하나",
+     "link": "https://www.hankyung.com/article/2026102535301",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-25T18:24+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "10e92ae321b2",
+     "title": "AI 자금, 반도체 떠나 소프트웨어로",
+     "link": "https://www.hankyung.com/article/2026102535401",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-25T18:02+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI 툴",
+   "items": [
+    {
+     "id": "a6feae291b1a",
+     "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+     "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+     "source": "TechCrunch AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-26T06:31+09:00",
+     "preview": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+     "also": [],
+     "title_ko": "Grok은 AI로 생성된 ‘Odyssey‘ 의 첫 7분을 공개합니다."
+    },
+    {
+     "id": "2af7003f0e2f",
+     "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+     "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+     "source": "Hacker News",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-26T01:28+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "AI는 UC 버클리 수학 교수를 리드하여 숙제를 채점하는 데 '무의미함' 을 봅니다."
+    },
+    {
+     "id": "b366ba776fde",
+     "title": "r/opensource just banned AI, non-English speakers, and more",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+     "source": "The Verge AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-25T22:52+09:00",
+     "preview": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If…",
+     "also": [],
+     "title_ko": "r/opensource 방금 금지된 AI, 비영어권 사용자 등"
+    },
+    {
+     "id": "364a104be9b3",
+     "title": "AgentGrid.io",
+     "link": "https://www.producthunt.com/products/agentgrid-io",
+     "source": "Product Hunt",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-25T14:39+09:00",
+     "preview": "Shared workspace for humans and agents Discussion | Link",
+     "also": []
+    },
+    {
+     "id": "ece6c921b830",
+     "title": "Quick Study",
+     "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+     "source": "Simon Willison",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-24T06:35+09:00",
+     "preview": "Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo usi…",
+     "also": [],
+     "title_ko": "빠른 습득",
+     "preview_ko": "도구: Claude Opus 5.5로 빠른 학습 프롬프트 높음: 사진을 여는 유물을 구축하면 해당 사진의 버전을 빠르게 (몇 초 안에) 그릴 수 있습니다."
+    }
+   ]
+  },
+  {
+   "id": "trend",
+   "title": "트렌드",
+   "items": [
+    {
+     "id": "412a14b4e947",
+     "title": "답 못하면 사업하지 마세요",
+     "link": "https://www.youtube.com/watch?v=J7wNC2sjXPw",
+     "source": "YouTube · 주언규 (재테크)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-26T07:28+09:00",
+     "preview": "답 못하면 사업하지 마세요 다르게 만들면 무조건 팔릴까요? 오뎅 국물을 대신 불어주는 서비스라면요. 차별화는 확실한데, 내가 직접 불면 되잖아요. 웃긴 예시 끝에 남는 질문은 하나입니다. 고객이 돈을 지불할 가치가 있느냐는 거죠. 디마코코리아 대표 백성국님과 나눈 이야기입니다.",
+     "also": []
+    },
+    {
+     "id": "1e9c63444a29",
+     "title": "세뱃돈 세는 서울대 딸래미",
+     "link": "https://www.youtube.com/watch?v=6MrzU8JxPXQ",
+     "source": "YouTube · 세바시 강연 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-25T20:00+09:00",
+     "preview": "\"누구나 자기만의 사금파리가 있을 거예요\" 깨진 그릇 조각 하나가 서울대 교수의 가장 아끼는 단어가 된 이유는 무엇일까요?✒️ 오늘 세바시45에서는, 100년 문학 속 142명의 작가에게서 단어를 건져 올린 서울대 나민애 교수와 함께 잊혀진 우리말로 나의 이야기를 쓰는 법을 이야기합니다…",
+     "also": []
+    },
+    {
+     "id": "d53bbcce299f",
+     "title": "부처 이야기가 아니라 사실 평범한 우리 이야기다? [싯타르타] 리뷰 ㅣ Ep. 북적북적 토크쇼 03",
+     "link": "https://www.youtube.com/watch?v=G5kJDa250lU",
+     "source": "YouTube · 책과삶 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-25T18:00+09:00",
+     "preview": "안녕하세요.\"책과삶\" 입니다. 오늘은 싯타르타에 대해 알아봤습니다. 세상의 모든 감동과 지식을 전합니다. 구독과 좋아요 꾸욱 눌러주시면 더욱 열심히 좋은 영상으로 보답하겠습니다. 📖헤르만 헤세의 '싯타르타' 00:00 오프닝 04:03 싯타르타를 읽고 나서 09:22 불교 책인가요? 1…",
+     "also": []
+    },
+    {
+     "id": "e8eca8fc1e5e",
+     "title": "\"핵 금지 맞지?\" 미국도 당황했다는 한국 무기 수준ㅣ지식인초대석 EP.183 (샤를세환 1부)",
+     "link": "https://www.youtube.com/watch?v=F5H7pwMD9Y4",
+     "source": "YouTube · 지식인사이드 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-25T10:00+09:00",
+     "preview": "오늘은 샤를세환 기자와 함께 세계적인 수준으로 성장한 대한민국의 군사력과 주변국의 군사적 위협에 대응하는 한국 방위 기술의 경쟁력에 대한 이야기를 나눠봤습니다. 역사를 바꾼 '그날'은 하루 만에 만들어지지 않았습니다 9개의 전쟁 속 결정적인 선택과 판단, 그 전후의 이야기를 소설처럼 몰…",
+     "also": []
+    },
+    {
+     "id": "aebd1be8643d",
+     "title": "데이터센터 더 안 짓고도 GPU를 더 돌리는 방법",
+     "link": "https://www.youtube.com/watch?v=unOa1sbDNRU",
+     "source": "YouTube · 티타임즈TV (회사 트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-25T07:00+09:00",
+     "preview": "AI 경쟁은 결국 누가 더 많이 계산하느냐의 싸움입니다. 더 많은 데이터센터를 지어 더 많이 계산하면 되죠. 하지만 현실적으로 데이터센터를 더 짓는 것도, 이를 채울 칩을 구하는 것도, 돌릴 전기를 끌어오는 것도 어려운 상황입니다. 이 상황에서 거의 유일하게 연산력을 끌어올릴 수 있는…",
+     "also": []
+    },
+    {
+     "id": "40ca0fd4435c",
+     "title": "연상호 감독이 영화 속 숨겨둔 진짜 의도?",
+     "link": "https://www.youtube.com/watch?v=wf0SLdqcNhM",
+     "source": "YouTube · 조승연의 탐구생활 (인문학)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-24T09:00+09:00",
+     "preview": "안녕하세요! 과거 지옥 리뷰 콘텐츠를 만들면서 연상호 감독님께 여쭤보고 싶은 것들이 많았는데 오늘! 감독님과 함께 제 머릿속에만 있던 궁금증들을 다 여쭤봤습니다! 궁그미분들은 장르물 영화를 좋아하시나요? 채널에 가입하여 혜택을 누려보세요. 배우는 즐거움이 있는 본격 취미 탐구 라이프 채…",
+     "also": []
+    },
+    {
+     "id": "1b3d3eadf6fd",
+     "title": "어색할때, 나도 모르게 나오는 최악의 멘트 TOP3",
+     "link": "https://www.youtube.com/watch?v=-3aoQ6p2xbI",
+     "source": "YouTube · 희렌최널 Hirenze (말 잘하는 법)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-23T22:00+09:00",
+     "preview": "상대에게 잘 보이려 했던 말이 분위기를 싸늘하게 만든 적이 있나요? 오늘은 어색한 상황, 분위기를 좋게 하려 했던 칭찬이 오히려 분위기를 싸하게 만드는 3가지 사례를 들고 왔습니다. 나는 솔로 보시다가 뜨악 했던 희릿들 들어오세요! 오늘도 최널고정해주신 희릿 내일도 최고길만 걸으세요!",
+     "also": []
+    },
+    {
+     "id": "466ee8158f28",
+     "title": "🚀스페이스X, 테슬라 등 실적 분석! 근데 요즘 AI 주가는 왜 이래?",
+     "link": "https://www.youtube.com/watch?v=jnV6aS0BJrY",
+     "source": "YouTube · 미키피디아",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-23T18:00+09:00",
+     "preview": "최근 실적 발표한 몇몇 빅테크들의 실적 분석과 더불어 요즘 주식 시장은 역대급 실적에도 왜 이렇게 흔들리는지 저는 왜 최근 스페이스X 주식을 샀는지 등 풀어보았습니다. 0:00 인트로 1:15 스페이스X 실적 9:59 스페이스X 매수 이유 12:39 테슬라 실적 15:30 메타 실적 1…",
+     "also": []
+    },
+    {
+     "id": "eb34680bad5d",
+     "title": "\"칼을 뽑았으면 휘둘러야죠\" 김재현의 승부의 감각",
+     "link": "https://www.youtube.com/watch?v=4CyW5ZxbfCQ",
+     "source": "YouTube · 폴인 fol:in (전문가 인터뷰)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-23T18:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "d9a152d2c3c6",
+     "title": "\"외국인 관광객만 400만 명\" 요즘 부산이 뜨는 이유 싹다공개 (노희영 부산 여행, 부산 맛집)",
+     "link": "https://www.youtube.com/watch?v=2mHP-Ru08zM",
+     "source": "YouTube · 큰손 노희영 (트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-22T18:15+09:00",
+     "preview": "안녕하세요 깍지님들👋🏻 오늘은 저에게 제2의 고향 같은 부산에서의 1박 2일 여행을 보여드리려 합니다 매일 똑같은 일상을 반복하며 살잖아요 가끔은 새로운 공간과 맛으로 신선한 자극과 영감을 채워줘야 한다고 생각해요 100년 된 가옥이 주는 위로, 40년 단골집의 정겨움, 젊은 부산 로컬…",
+     "also": []
+    }
+   ]
+  }
+ ],
+ "problems": []
+}
