@@ -1,0 +1,351 @@
+{
+ "date": "2026-10-29",
+ "generated": "2026-10-29T08:05+09:00",
+ "boxes": [
+  {
+   "id": "realestate",
+   "title": "부동산",
+   "items": [
+    {
+     "id": "252296139560",
+     "title": "과천에서 시세차익 10억 ‘줍줍’ 나온다...디에트르 퍼스티지 2가구",
+     "link": "https://www.mk.co.kr/news/realestate/12188529",
+     "source": "매일경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-29T08:00+09:00",
+     "preview": "과천시 거주 무주택세대주 대상 추첨 분양가 8억 중반...인근 단지는 18억 전후‘과천 디에트르 퍼스티지’ 전용면적 59㎡ 2가구가 8억원 중반대의 분양가로 무순위 청약에 나온다...",
+     "also": []
+    },
+    {
+     "id": "c295dace471d",
+     "title": "뉴욕증시, 美 기준금리 동결에 3일 연속 상승 마감",
+     "link": "https://biz.chosun.com/international/international_general/2026/10/29/ATKHSMDNQBFIZPV2XUD2GMVOUA/",
+     "source": "조선비즈",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-29T07:28+09:00",
+     "preview": "미국 뉴욕증시의 3대 주요 지수가 연방준비제도(Fed·연준)의 기준금리 동결 결정에 힘입어 일제히 상승 마감했다. 이날 뉴욕증권거래소(NYSE)에서 다우존스30 산업평균지수는 전장보다 97.53포인트(0.19%) 오른 5만2475.10에 거래를 마쳤다. 스탠더드앤드푸어스(S&P)500지…",
+     "also": []
+    },
+    {
+     "id": "d44eb03335e6",
+     "title": "美 금리 동결에도 한은 또 '호미' 꺼내나…11월 인상에 무게",
+     "link": "https://www.yna.co.kr/view/AKR20261029016800002",
+     "source": "연합뉴스",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-29T07:28+09:00",
+     "preview": "(서울=연합뉴스) 한지훈 채새롬 이도흔 기자 = 미국 연방준비제도(연준·Fed)가 기준금리를 동결한 가운데 한국은행이 다음 달 또다시 '선제' ...",
+     "also": []
+    },
+    {
+     "id": "5e45f0b228ae",
+     "title": "\"아파트에 웬 아이스링크\"…'호화 커뮤니티'에 제동 걸리나 [시장톡]",
+     "link": "https://www.hankyung.com/article/2026102808446",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-29T06:30+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "c17d38c8dbaf",
+     "title": "[반퇴시대 재산리모델링] 가격 떨어진 주택 같이 팔라…60대 다주택자 양도세 절세법",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWVhpOVRYVDB4SS1ocGJfbnhsTzBZc0FZOUtWN09vb0pCS08wWnlvYU5ERERSN2hWWE1aT0ZCeG5zWG9VcXVsR0k0cnFQU2VtLVY0ay1R?oc=5",
+     "source": "중앙일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-29T00:02+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "e3b3fb31dc1c",
+     "title": "구룡마을 화재 이재민에 LH 임대주택 2년 무상 지원… 모듈러도 활용",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ndm8xWmxVT1d6N0RvMl9tSEdoMjlyNlkydzZ1QXIteFhacTREaDA3X25kaXh2bTBsUG9iNXJZYWxEbTM5M3plZW9NQ2dHaWJQZ1NDaVUxaGJlOEt6bTh2VjNoT0pQLUlpZVd4UmJ5Y9IBb0FVX3lxTE9Ndm8xWmxVT1d6N0RvMl9tSEdoMjlyNlkydzZ1QXIteFhacTREaDA3X25kaXh2bTBsUG9iNXJZYWxEbTM5M3plZW9NQ2dHaWJQZ1NDaVUxaGJlOEt6bTh2VjNoT0pQLUlpZVd4UmJ5Yw?oc=5",
+     "source": "머니투데이",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-28T15:41+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "4dc8e33800a6",
+     "title": "[단독]공정위, 공공공사 '입찰 담합' 정조준…계룡·코오롱글로벌 등 6곳 조사",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04198406645617512",
+     "source": "이데일리",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-28T11:49+09:00",
+     "preview": "공정거래위원회가 한국토지주택공사(LH)의 종합심사낙찰제(종심제) 적용 공사를 시작으로 공공공사 입찰담합 의혹에 대한 대대적인 조사에 나섰다. 계룡건설과 금호건설 등 주요 건설사 6곳이 우선 조사 대상에 올랐다. 조달청이 입찰을 집행하는 공공공사 전반으로 조사 범위가 확대될 수 있다는 관…",
+     "also": []
+    },
+    {
+     "id": "1df3ee375e4f",
+     "title": "‘아크메르 동탄’, 1순위 청약 최고 경쟁률 16.88대 1 기록",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iNGZoaWhibExMUnhPSGFweG5DZm1wSkk0eHo4b2VHT1l3dVNOcHJ6UVhkOHZMYTdXSE1SWmp0cVRkM24wQUdvSTNsWDBrSWdGMHc0cFR4OHRhdnZ5NmtCSVd2a3djaFhWdl8tS2tB0gFzQVVfeXFMTUZTTno5cEpLWW1YazZRQ1hBamc5NldCQ2EtcmVtTklNeWFsbnMxNkFUa3VKWF9nYUpwQlI3X1ZGX2NCaEh0bXBwaXRmaTJJOXhGSFRjWmFIVENPT0dOc0FWV195X2VXcHVKajk2WWFGX0RsYw?oc=5",
+     "source": "한국일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-28T10:05+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "stocks",
+   "title": "주식",
+   "items": [
+    {
+     "id": "eeda43363ea5",
+     "title": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
+     "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-29T08:02+09:00",
+     "preview": "Even with an uptick in multimillion-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics.",
+     "also": [],
+     "title_ko": "수익 손실로 인한 ServiceNow의 주식 슬라이드가 AI 전망을 뒤덮습니다.",
+     "preview_ko": "수백만 달러 규모의 AI 거래가 증가했음에도 불구하고 ServiceNow의 수익 결과는 소프트웨어 회의론자를 이기기에는 충분하지 않았습니다."
+    },
+    {
+     "id": "184df10181d6",
+     "title": "Earnings call transcript: FedEx beats Q1 2027 estimates, shares fall after hours",
+     "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-fedex-beats-q1-2027-estimates-shares-fall-after-hours-93CH-4981158",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-29T07:44+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "수입 통화 녹취록: FedEx, 2027년 1분기 추정치 상회, 시간 경과 후 주가 하락"
+    },
+    {
+     "id": "efaa3cd86860",
+     "title": "Earnings call transcript: Carvana tops revenue forecast in Q3 2026, shares jump 8%",
+     "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-carvana-tops-revenue-forecast-in-q3-2026-shares-jump-8-93CH-4981156",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-29T07:41+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "실적 통화 녹취: 2026년 3분기 Carvana 매출 전망 1위, 주식 점프 8%"
+    },
+    {
+     "id": "acf0a242ebb2",
+     "title": "\"삼성전기, AI발 초호황 지속…4분기도 '깜짝 실적' 전망\"-KB",
+     "link": "https://www.hankyung.com/article/2026102920656",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-29T07:29+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "134057aca00d",
+     "title": "뉴욕증시, 미 Fed 금리 동결에 3일째 상승…오라클 10%↑ [뉴욕증시 브리핑]",
+     "link": "https://www.hankyung.com/article/2026102920336",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-29T07:10+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI 툴",
+   "items": [
+    {
+     "id": "577082484ebe",
+     "title": "Claude Code found 145K photos I deleted from my iPhone sitting in a hidden cache",
+     "link": "https://twitter.com/coolerwave/status/2114088769112477849",
+     "source": "Hacker News",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-29T07:34+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "Claude Code에서 iPhone에서 삭제한 14만 5천 장의 사진이 숨겨진 캐시에 있는 것을 발견했습니다."
+    },
+    {
+     "id": "b126d7721238",
+     "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+     "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+     "source": "TechCrunch AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-29T06:58+09:00",
+     "preview": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest compe…",
+     "also": [],
+     "title_ko": "Microsoft는 Azure의 실제 매출을 $ 332억 달러로 공유했습니다.",
+     "preview_ko": "Microsoft는 Azure의 분기별 수익을 달러로 공개한 적이 없습니다. 그러나 처음으로 가장 큰 콤페에 얼마나 가까워지고 있는지 알 수 있습니다..."
+    },
+    {
+     "id": "8030d1b5c635",
+     "title": "Voters in Texas agree: They hate data centers",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+     "source": "The Verge AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-29T04:17+09:00",
+     "preview": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off p…",
+     "also": [],
+     "title_ko": "텍사스의 유권자들은 데이터 센터를 싫어한다는 데 동의합니다.",
+     "preview_ko": "텍사스 NAACP의 게리 블레드소 (Gary Bledsoe) 회장에게 데이터 센터 개발자들이 오스틴과 그 주변 교외에 내려오는 것을 보고 어떻게 느꼈는지 물어보십시오."
+    },
+    {
+     "id": "7ae8eb20550e",
+     "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+     "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+     "source": "Hugging Face",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-28T23:58+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "NVIDIA Nemotron 3.5 전사 및 곡창 v2: 프롬프트 및 적응할 수 있는 지능형 다국어 전사"
+    },
+    {
+     "id": "93b9dc1d3128",
+     "title": "The October inflection point for vibe game development",
+     "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+     "source": "Simon Willison",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-28T22:55+09:00",
+     "preview": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant…",
+     "also": [],
+     "title_ko": "바이브 게임 개발을 위한 10월의 변곡점",
+     "preview_ko": "저는 2025년 11월이 어떻게 코딩 에이전트의 변곡점이었는지에 대해 쓴 적이 있습니다. Opus 4.5와 GPT-5.1이 티핑 포인트를 넘은 지점은..."
+    }
+   ]
+  },
+  {
+   "id": "trend",
+   "title": "트렌드",
+   "items": [
+    {
+     "id": "cf876ba2096a",
+     "title": "매일 일했는데 왜 남는 게 없지",
+     "link": "https://www.youtube.com/watch?v=4mA0R_cjBNg",
+     "source": "YouTube · 주언규 (재테크)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-29T07:04+09:00",
+     "preview": "매일 일했는데 왜 남는 게 없지 시간을 쓴다고 다 쌓이는 건 아니잖아요 연구하는 회사는 당장 돈을 못 벌어도 기술이 쌓일 수 있어요 통장 잔액만으로는 안 보이는 거죠 목대균 대표님은 우리 시간도 비용이 될 수도 자산이 될 수도 있다고 해요 다만 연구가 실패하면 그 지출이 비용으로 남을…",
+     "also": []
+    },
+    {
+     "id": "0e9a7b0686b9",
+     "title": "\"앞으로 10년\" 미국을 끌어내릴 중국의 소름돋는 빅픽처ㅣ지식인 클래스 EP.33 (조영남 교수)",
+     "link": "https://www.youtube.com/watch?v=PvXdC-iM1Rs",
+     "source": "YouTube · 지식인사이드 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-28T21:19+09:00",
+     "preview": "오늘은 조영남 교수 님을 모시고 시진핑의 장기전 시나리오와 미중 패권 경쟁 속 한국이 마주할 진짜 위기에 대해 들어봤습니다. 영상이 유익 했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요! #지식인사이드 #조영남 #미중경쟁 #시진핑 #대만해협 00:00 인트로 00:22 구독…",
+     "also": []
+    },
+    {
+     "id": "9868d3e75892",
+     "title": "사기 문자 10건 판단, Jev와 클로드·GPT·제미나이 붙여 봤더니 (최지웅 유캔랩스 대표)",
+     "link": "https://www.youtube.com/watch?v=xXn0JDvpAVw",
+     "source": "YouTube · 티타임즈TV (회사 트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-28T18:33+09:00",
+     "preview": "글을 쓰지도, 코드를 짜지도 못하는 AI가 실리콘밸리의 주목을 받고 있습니다. 챗GPT가 사람 말을 알아듣게 만든 연구자 중 한 명인 디오고 알메이다가 세운 타입세이프 AI의 'Jev'입니다. 할 줄 아는 건 세 가지 뿐. 예·아니요로 답하기, 보기 중 하나 고르기, 점수 매기기입니다.…",
+     "also": []
+    },
+    {
+     "id": "8ad4f0797c94",
+     "title": "😇앤트로픽은 구세주인가? 앤토로픽의 실적, 상장 계획, 지배구조 등 제대로 분석해봅니다",
+     "link": "https://www.youtube.com/watch?v=to45JA8_Zk0",
+     "source": "YouTube · 미키피디아",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-28T18:00+09:00",
+     "preview": "최근 상장을 위한 S-1 문서를 공개한 앤트로픽을 낱낱이 파해쳐봤습니다! 0:00 인트로 0:26 앤트로픽, 뭐하는 회사야? 0:59 돈은 어떻게 버나 4:56 빅테크들과의 관계 5:36 앤트로픽이 가진 리스크 6:23 상장 계획 8:36 앤트로픽의 지배구조 9:54 그래서 살까요, 말…",
+     "also": []
+    },
+    {
+     "id": "2e71afb2cae2",
+     "title": "딸깍? 간장을 담가도 300년 담가야 살아남는 시대",
+     "link": "https://www.youtube.com/watch?v=QutbXE09KSA",
+     "source": "YouTube · 세바시 강연 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-28T18:00+09:00",
+     "preview": "강연 소개 : 팬데믹과 생성형 AI라는 두 번의 우연이 우리의 일을 송두리째 바꾸고 있습니다. 조직의 직함이 사라진다면 여러분은 자신을 어떻게 소개하시겠습니까? 120세 시대, 회사 밖에서 나만의 이름으로 살아가기 위해 지금부터 무엇을 준비해야 할지 함께 고민해 보시겠습니까? 송길영 |…",
+     "also": []
+    },
+    {
+     "id": "4488810845ce",
+     "title": "굳이 남들에게 잘 보이려 하지 않고 여유로운 사람 특징 ㅣ Ep. 책과사람 184 (나태주 시인, 김정민 대표)",
+     "link": "https://www.youtube.com/watch?v=ZhtMT7PIrzk",
+     "source": "YouTube · 책과삶 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-28T18:00+09:00",
+     "preview": "안녕하세요.\"책과삶\" 입니다. 오늘은 나태주 시인, 김정민 북로그컴퍼니 대표님과 인간관계, 결핍에 대한 이야기 나누어봤습니다. 세상의 모든 감동과 지식을 전합니다. 구독과 좋아요 꾸욱 눌러주시면 더욱 열심히 좋은 영상으로 보답하겠습니다. 📖 나태주의 [일인분의 삶] 현명한 질문, 그리고…",
+     "also": []
+    },
+    {
+     "id": "40ca0fd4435c",
+     "title": "연상호 감독이 영화 속 숨겨둔 진짜 의도?",
+     "link": "https://www.youtube.com/watch?v=wf0SLdqcNhM",
+     "source": "YouTube · 조승연의 탐구생활 (인문학)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-24T09:00+09:00",
+     "preview": "안녕하세요! 과거 지옥 리뷰 콘텐츠를 만들면서 연상호 감독님께 여쭤보고 싶은 것들이 많았는데 오늘! 감독님과 함께 제 머릿속에만 있던 궁금증들을 다 여쭤봤습니다! 궁그미분들은 장르물 영화를 좋아하시나요? 채널에 가입하여 혜택을 누려보세요. 배우는 즐거움이 있는 본격 취미 탐구 라이프 채…",
+     "also": []
+    },
+    {
+     "id": "1b3d3eadf6fd",
+     "title": "어색할때, 나도 모르게 나오는 최악의 멘트 TOP3",
+     "link": "https://www.youtube.com/watch?v=-3aoQ6p2xbI",
+     "source": "YouTube · 희렌최널 Hirenze (말 잘하는 법)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-23T22:00+09:00",
+     "preview": "상대에게 잘 보이려 했던 말이 분위기를 싸늘하게 만든 적이 있나요? 오늘은 어색한 상황, 분위기를 좋게 하려 했던 칭찬이 오히려 분위기를 싸하게 만드는 3가지 사례를 들고 왔습니다. 나는 솔로 보시다가 뜨악 했던 희릿들 들어오세요! 오늘도 최널고정해주신 희릿 내일도 최고길만 걸으세요!",
+     "also": []
+    },
+    {
+     "id": "eb34680bad5d",
+     "title": "\"칼을 뽑았으면 휘둘러야죠\" 김재현의 승부의 감각",
+     "link": "https://www.youtube.com/watch?v=4CyW5ZxbfCQ",
+     "source": "YouTube · 폴인 fol:in (전문가 인터뷰)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-23T18:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "d9a152d2c3c6",
+     "title": "\"외국인 관광객만 400만 명\" 요즘 부산이 뜨는 이유 싹다공개 (노희영 부산 여행, 부산 맛집)",
+     "link": "https://www.youtube.com/watch?v=2mHP-Ru08zM",
+     "source": "YouTube · 큰손 노희영 (트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-22T18:15+09:00",
+     "preview": "안녕하세요 깍지님들👋🏻 오늘은 저에게 제2의 고향 같은 부산에서의 1박 2일 여행을 보여드리려 합니다 매일 똑같은 일상을 반복하며 살잖아요 가끔은 새로운 공간과 맛으로 신선한 자극과 영감을 채워줘야 한다고 생각해요 100년 된 가옥이 주는 위로, 40년 단골집의 정겨움, 젊은 부산 로컬…",
+     "also": []
+    }
+   ]
+  }
+ ],
+ "problems": []
+}
