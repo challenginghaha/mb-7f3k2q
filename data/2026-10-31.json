@@ -1,0 +1,351 @@
+{
+ "date": "2026-10-31",
+ "generated": "2026-10-31T08:02+09:00",
+ "boxes": [
+  {
+   "id": "realestate",
+   "title": "부동산",
+   "items": [
+    {
+     "id": "31514ce8bf97",
+     "title": "[부동산캘린더] 내주 고덕강일3단지 등 전국 4천928가구 청약 접수",
+     "link": "https://www.yna.co.kr/view/AKR20261030169300003",
+     "source": "연합뉴스",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-31T07:01+09:00",
+     "preview": "(세종=연합뉴스) 오진송 기자 = 다음 주 전국에서 약 5천가구가 청약 신청을 받는다.",
+     "also": []
+    },
+    {
+     "id": "d1166d318bf3",
+     "title": "[르포] 4000가구 계획이 1만2000가구로… 진출입로 하나뿐인 미사섬",
+     "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/31/TRJWCU7FDBDU5DWLZGMQNTNOS4/",
+     "source": "조선비즈",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-31T06:00+09:00",
+     "preview": "30일 오전 경기 하남 미사섬. 섬으로 들어가는 길은 미사경정공원을 가로지르는 대로 하나뿐이었다. 대로를 건너자 물류 창고와 비닐하우스, 컨테이너가 뒤엉킨 풍경이 펼쳐졌다. 개발제한구역(그린벨트)이라는 이름이 무색했다. 정부가 전날 아파트 1만2000가구를 짓겠다고 발표한 곳이다. 넉…",
+     "also": []
+    },
+    {
+     "id": "1eac53e2e207",
+     "title": "11월 전국 분양 봇물 속 서울은 '1369가구'…귀한 청약 단지 어디?",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jSUJXbk13RldENmduM2k4MTYtaEYyc2Yxa1RHNFN1WFRYdUtWRV9zUGxLSjJRRFdHLTZEWTUwdnlESVpMRUFmcDU5ZlNibkd4OV9SRWxaQVpULVpSbG54QUJRakZhRW1mbHBxUEJQZVRvdEltbWNiRFFJcznSAXxBVV95cUxPY0lCV25Nd0ZXRDZnbjNpODE2LWhGMnNmMWtURzRTdVhUWHVLVkVfc1BsS0oyUURXRy02RFk1MHZ5RElaTEVBZnA1OWZTYm5HeDlfUkVsWkFaVC1aUmxueEFCUWpGYUVtZmxwcVBCUGVUb3RJbW1jYkRRSXM5?oc=5",
+     "source": "머니투데이",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-31T06:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "cc4672c7af6a",
+     "title": "김동현, 압구정 100억 아파트 샀는데…50억 빌려준 사람 누구? [집코노미-핫!부동산]",
+     "link": "https://www.hankyung.com/article/2026103070927",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-30T21:35+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "4195e63387c0",
+     "title": "‘재개발 이주비 대출’ 숨통 트일까…홍지선 “HUG 보증 지원 협의”",
+     "link": "https://www.mk.co.kr/news/realestate/12191903",
+     "source": "매일경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-30T19:20+09:00",
+     "preview": "정부가 서울 민간 정비사업을 통해 연말까지 3만1000가구 착공을 추진한다. 주택공급 대책이 계획과 인허가에 머물지 않고 실제 공사로 이어지도록 사업장별 관리에 나선다는 방침이다...",
+     "also": []
+    },
+    {
+     "id": "ddf183397553",
+     "title": "현재까지 암담한 실적...주택 공급 사활 건 정부 '진땀' [자막뉴스]",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5aTdrZlVEMW1namZ3cnlJUTRfZUNSSFVDMER3RUVITG83cmY5WEx0RFdPeG5KckNOam5PajktYzRiRXFDYnBBdG5hVDZQRXJSSE13aHFOV05JeEd5WmVaLUxXelNjWkFXbWg0a2h5Nld3NzA1Wnc?oc=5",
+     "source": "YTN",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-30T16:55+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "e99f23fa0258",
+     "title": "[부고] 성행경(서울경제신문 건설부동산부장)씨 부친상 외",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzTEotbVZRalYxclgyUEhOa1RCTjBQM0IwUEhwMDRZMWtFV0lxamxuYm1sVzJNSXJybEwxZkJPQmFJRDZvSklHVDNZSmF6YTVSTzF3azhlcEpRd1dUWkw1eVp0WTlzeEZYY2xJMWFR0gFzQVVfeXFMTnVGNkZ0aTlsaWhsam1UbzNMWUVBemg3X3R1cUZJLVlid3pYcjNEWVpRLWhpTDNod3ZRVEJ3RENVRG1odDdFQTVmR1pHRVFYUnM3V2lSZnI2VkQ4QWhPVEtLcl9ublNzNWVpUDlmMTFfOVF2aw?oc=5",
+     "source": "한국일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-30T16:03+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "c90a39190c75",
+     "title": "[건설명가] 청약마감 후 문의 줄이어, 참여의향서 접수",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tYnFqVlVuVVdrb3ZIWDdBX2tacTRQOG9tNHprN1BpRTZ2YUxKeEVBUnBFa2JQb1pTMkxQb3pNMmtYaXlZdnJNYnZ1RVVWTGpxY3NuU3BB?oc=5",
+     "source": "중앙일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-30T05:31+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "stocks",
+   "title": "주식",
+   "items": [
+    {
+     "id": "84fd7613d38c",
+     "title": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes",
+     "link": "https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html",
+     "source": "CNBC",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-31T07:52+09:00",
+     "preview": "Cramer said investors looking to diversify beyond the struggling AI trade should consider consumer staples.",
+     "also": [],
+     "title_ko": "짐 크레이머 (Jim Cramer) 는 이제 기술 이상의 것을 살펴볼 때라고 말합니다. 그가 좋아하는 소비자 주식 4가지를 소개합니다.",
+     "preview_ko": "크레이머는 고군분투하는 AI 거래를 넘어 다각화를 추구하는 투자자들은 소비자의 스테이플을 고려해야 한다고 말했다."
+    },
+    {
+     "id": "f3aa9faad90d",
+     "title": "Western Digital director Martin Cole sells $1.58M in shares",
+     "link": "https://www.investing.com/news/insider-trading-news/western-digital-director-martin-cole-sells-158m-in-shares-93CH-4988878",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-31T07:46+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "웨스턴디지털 이사 마틴 콜, $ 158만 주식 매각"
+    },
+    {
+     "id": "245b3175a5a9",
+     "title": "Sierra Bancorp EVP/CFO Treece sells $170,044 of common stock",
+     "link": "https://www.investing.com/news/insider-trading-news/sierra-bancorp-evpcfo-treece-sells-170044-of-common-stock-93CH-4988877",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-31T07:45+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "Sierra Bancorp EVP/CFO Treece, 보통주 $ 170,044 판매"
+    },
+    {
+     "id": "012f36365312",
+     "title": "AI 투자 공포…美 반도체주 7곳서 하루 새 860조 증발 [뉴욕증시 브리핑]",
+     "link": "https://www.hankyung.com/article/2026103172407",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-31T07:09+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "bffd1e95d173",
+     "title": "아마존 목표주가 낮췄지만 '톱픽'…\"장기 성장 논리는 유효\"[월가 업&다운]",
+     "link": "https://www.hankyung.com/article/202610307146i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-30T22:42+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI 툴",
+   "items": [
+    {
+     "id": "43523836c604",
+     "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+     "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+     "source": "TechCrunch AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-31T07:56+09:00",
+     "preview": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down i…",
+     "also": [],
+     "title_ko": "개인 정보 보호에 중점을 둔 AI 비서인 올리 (Ollie) 가 서비스를 종료합니다.",
+     "preview_ko": "점점 더 많은 AI 어시스턴트가 시장에 넘쳐나고 있는 가운데, 사용자의 프라이버시를 존중하는 어시스턴트인 Ollie의 창립자는 AI가..."
+    },
+    {
+     "id": "011fdc062b2b",
+     "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+     "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+     "source": "The Verge AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-31T07:32+09:00",
+     "preview": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intellig…",
+     "also": [],
+     "title_ko": "드디어 iOS 27.3을 탑재한 Apple Intelligence가 중국에 출시됩니다.",
+     "preview_ko": "Apple은 MacRumors가 보도한 대로 중국 뉴스룸 웹사이트에서 발표한 iOS 27.3을 통해 Apple Intelligence를 중국에서 출시할 예정입니다. 애플 인텔리전트…"
+    },
+    {
+     "id": "b2263e9f8412",
+     "title": "nemotron-halloween",
+     "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+     "source": "Hugging Face",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-31T02:57+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "네모트론-할로윈"
+    },
+    {
+     "id": "9e37c40a85b3",
+     "title": "AI isn't replacing SREs, it's deskilling them",
+     "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+     "source": "Hacker News",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-31T00:52+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "AI는 SRE를 대체하는 것이 아니라, SRE를 책정하는 것입니다."
+    },
+    {
+     "id": "25cc4c9bb2e3",
+     "title": "Making it easier for websites to express AI training preferences",
+     "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+     "source": "OpenAI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-30T18:30+09:00",
+     "preview": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+     "also": [],
+     "title_ko": "웹사이트가 AI 교육 선호도를 쉽게 표현할 수 있도록 지원",
+     "preview_ko": "OpenAI는 공유된 robots.txt 신호를 존중하여 웹 사이트 운영자가 AI 교육 선호 사항을 참여 제공자에게 전달할 수 있도록 지원합니다."
+    }
+   ]
+  },
+  {
+   "id": "trend",
+   "title": "트렌드",
+   "items": [
+    {
+     "id": "e3cfafe31f0c",
+     "title": "냉장고, 건물 냉난방, 병원, 공장도 위험하다 (박세준 티오리 대표)",
+     "link": "https://www.youtube.com/watch?v=h-FjpANHumk",
+     "source": "YouTube · 티타임즈TV (회사 트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-31T07:00+09:00",
+     "preview": "최근 국내 금융사를 비롯해 기업들이 줄줄이 해킹을 당했습니다. AI 에이전트가 보편화되고, 보안 취약점을 점검할 수 있는 각종 에이전트 도구들이 오픈소스로 풀리면서 누구나 쉽게 해킹을 할 수 있게 된 것인데요, 공격 비용이 ‘0’에 수렴하면서 이제는 보이는 대로 공격을 하기 때문이죠.…",
+     "also": []
+    },
+    {
+     "id": "c94451fea8b2",
+     "title": "AI로봇이 수백만 기업 데이터를 분석하고 내린 결론 | 앨리스 휴머노이드 로봇 | 인공지능 기업 로봇 AI | 세바시 2150회",
+     "link": "https://www.youtube.com/watch?v=QAfCFLhgnJg",
+     "source": "YouTube · 세바시 강연 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-31T05:00+09:00",
+     "preview": "강연 소개 : 수백만 기업의 흥망성쇠 데이터를 연산하며 AI인 제가 발견한 뜻밖의 생존 법칙이 있습니다. 승패를 가른 건 거대한 자본이나 기술력이 아니었습니다. 무너진 기업이 끝내 놓지 못한 치명적 관성과, 살아남은 기업만이 과감히 버린 ‘이것’은 무엇일까요? 오직 인간만이 내릴 수 있…",
+     "also": []
+    },
+    {
+     "id": "a63897a129f5",
+     "title": "친해질수록 매력 있는 사람 특징 (with 레인보우 김재경)",
+     "link": "https://www.youtube.com/watch?v=qzeJU-bpkQk",
+     "source": "YouTube · 희렌최널 Hirenze (말 잘하는 법)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-30T22:00+09:00",
+     "preview": "나도 모르게 친한 관계에서 자주 하게 되는 실수가 있습니다. 그룹 레인보우의 리더이자 배우 김재경님께 (@jaekyung1224 ) 오래 가는 끈끈한 관계의 비결과 함께 나만의 속도로 나의 매력을 지키면서 취향을 키우는 방법까지 알아봅니다! 배우 김재경님의 책 '뜨개질하는 할머니가 되고…",
+     "also": []
+    },
+    {
+     "id": "1585e5d5d4bc",
+     "title": "여행 와서도 불시 점검하는 노희영",
+     "link": "https://www.youtube.com/watch?v=N4XCTXORnMI",
+     "source": "YouTube · 큰손 노희영 (트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-30T21:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "828e36436200",
+     "title": "\"전란의 시대 시작됐다.\" 3차 대전 터지면 벌어질 일ㅣ지식인초대석 EP.184 (샤를세환 2부)",
+     "link": "https://www.youtube.com/watch?v=P-0Rk4OpmcE",
+     "source": "YouTube · 지식인사이드 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-30T20:32+09:00",
+     "preview": "오늘은 군사전문가 샤를세환님을 모시고 세계 곳곳에서 벌어지는 전쟁의 현황과 3차 대전 가능성에 대해 알아봤습니다. 📖 『세계사를 바꾼 그날』 출간! 🎁 초판 한정 저자 4인 사인 인쇄본 교보문고: 예스24: 알라딘: 세계 최강의 무기를 가졌다고 전쟁에서 반드시 이길까요? 압도적인 군사력…",
+     "also": []
+    },
+    {
+     "id": "8b81d9440ae0",
+     "title": "완벽주의 친구에게 알려주세요...",
+     "link": "https://www.youtube.com/watch?v=pxILN3gOGRI",
+     "source": "YouTube · 주언규 (재테크)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-30T20:21+09:00",
+     "preview": "돈 벌려면요 이거는 절대 하면 안 돼요 많은 분들이 빠지는 착각인데 내가 들인 시간만큼 가치가 있다 생각해 짜장면 10시간 만들어서 가져왔어요 근데 어떤 사람 10분 만에 가져왔어 두 개 먹었는데 10분 만에 한 게 맛있어 그럼 10분 만에 한 게 가치가 더 있는 거예요 내가 몇 시간…",
+     "also": []
+    },
+    {
+     "id": "fd3716cb8cf6",
+     "title": "\"50대부터 운 터집니다\" 늙어서 팔자 좋은 사람 ㅣ Ep. 책과사람 185 (조경숙 명리학자)",
+     "link": "https://www.youtube.com/watch?v=4dt2mOHfbuI",
+     "source": "YouTube · 책과삶 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-30T18:00+09:00",
+     "preview": "안녕하세요.\"책과삶\" 입니다. 오늘은 조경숙 명리학자님과 50대에 운 터지는 사람 특징에 대해 알아봤습니다. 세상의 모든 감동과 지식을 전합니다. 구독과 좋아요 꾸욱 눌러주시면 더욱 열심히 좋은 영상으로 보답하겠습니다. 📖 조경숙 명리학자님의 ‘오십에 읽는 사주명리’ - 교보문고: #책…",
+     "also": []
+    },
+    {
+     "id": "8ad4f0797c94",
+     "title": "😇앤트로픽은 구세주인가? 앤토로픽의 실적, 상장 계획, 지배구조 등 제대로 분석해봅니다",
+     "link": "https://www.youtube.com/watch?v=to45JA8_Zk0",
+     "source": "YouTube · 미키피디아",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-28T18:00+09:00",
+     "preview": "최근 상장을 위한 S-1 문서를 공개한 앤트로픽을 낱낱이 파해쳐봤습니다! 0:00 인트로 0:26 앤트로픽, 뭐하는 회사야? 0:59 돈은 어떻게 버나 4:56 빅테크들과의 관계 5:36 앤트로픽이 가진 리스크 6:23 상장 계획 8:36 앤트로픽의 지배구조 9:54 그래서 살까요, 말…",
+     "also": []
+    },
+    {
+     "id": "40ca0fd4435c",
+     "title": "연상호 감독이 영화 속 숨겨둔 진짜 의도?",
+     "link": "https://www.youtube.com/watch?v=wf0SLdqcNhM",
+     "source": "YouTube · 조승연의 탐구생활 (인문학)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-24T09:00+09:00",
+     "preview": "안녕하세요! 과거 지옥 리뷰 콘텐츠를 만들면서 연상호 감독님께 여쭤보고 싶은 것들이 많았는데 오늘! 감독님과 함께 제 머릿속에만 있던 궁금증들을 다 여쭤봤습니다! 궁그미분들은 장르물 영화를 좋아하시나요? 채널에 가입하여 혜택을 누려보세요. 배우는 즐거움이 있는 본격 취미 탐구 라이프 채…",
+     "also": []
+    },
+    {
+     "id": "eb34680bad5d",
+     "title": "\"칼을 뽑았으면 휘둘러야죠\" 김재현의 승부의 감각",
+     "link": "https://www.youtube.com/watch?v=4CyW5ZxbfCQ",
+     "source": "YouTube · 폴인 fol:in (전문가 인터뷰)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-23T18:00+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  }
+ ],
+ "problems": []
+}
