@@ -1,0 +1,351 @@
+{
+ "date": "2026-11-01",
+ "generated": "2026-11-01T07:59+09:00",
+ "boxes": [
+  {
+   "id": "realestate",
+   "title": "부동산",
+   "items": [
+    {
+     "id": "fe74b88e052a",
+     "title": "건설사 해킹에 부각된 입주민 정보보안…아파트 첨단화의 그늘",
+     "link": "https://www.yna.co.kr/view/AKR20261031047400003",
+     "source": "연합뉴스",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-01T06:03+09:00",
+     "preview": "(세종=연합뉴스) 오진송 기자 = GS건설의 아파트 커뮤니티 시설 예약관리 시스템이 해킹 피해를 보면서 건설업계의 입주민 개인정보 보안 문제가 ...",
+     "also": []
+    },
+    {
+     "id": "36f9e77462c4",
+     "title": "이주 앞둔 은마 전세 석 달 새 3억 뚝… 대치우성은 1억5000 올라",
+     "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/01/GT2PFIFLTBG2DFPIA3GHO7L6DU/",
+     "source": "조선비즈",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-01T06:00+09:00",
+     "preview": "재건축 이주를 앞둔 서울 강남구 대치동 은마아파트의 전월세 가격이 내리고 있다. 석 달이 채 안 돼 전세 보증금이 3억원 빠진 거래가 나왔고, 계약기간 1년 미만 단기 전세도 등장했다. 반면 대치우성·대치현대 등 인근 단지 전셋값은 올랐다. 내년 은마 이주가 본격화하면 대치동 일대 전월…",
+     "also": []
+    },
+    {
+     "id": "4006fe2828e8",
+     "title": "산과 들을 지나 만난 그곳 … 오래된 건물보다 오래된 인연이 보였다",
+     "link": "https://www.mk.co.kr/news/realestate/12191450",
+     "source": "매일경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-01T05:00+09:00",
+     "preview": "경남 의령 일붕실버랜드실버타운을 오래 다니다 보면 어느 순간 건물보다 먼저 보이는 것이 있다. 그곳에서 살아가는 사람들의 표정과 그곳에 쌓인 세월이다. 일붕실버랜드를 찾았을 때도 ..",
+     "also": []
+    },
+    {
+     "id": "312644e4d308",
+     "title": "집주인 호가 안 낮춰서 집값 오르나?...\"그런 요인도 있지만...\" [Y녹취록]",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50bFJuOWZmS2RQeUJwejh1SDAzSV80WDl3VzlMbEdJZGRTTzF5M0VHZWpNZXh2akFTbm5FWDM4bXFhamNKMDc2Y0tLSGM3czhSUUI1d2k1RjVKWHBYekNTbjNzUDJWRWhUckpUTU5XN2FJek5ZT1E?oc=5",
+     "source": "YTN",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-31T19:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "04044098fd07",
+     "title": "'애 넷 아빠' 김동현, 100억 아파트 샀다...\"집주인이 50억 대출\"",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tY3lJS0RXTWtoVWxEdWcyalNzSkZpRjRlWnA5T1JvVzBuMU04NjBOdWY0ZW54SU1MbzhUNDkwbHhjUENPM2EzeVF5RXhxbm40cW5xeTJRT1JmUmVlT3ZjejZfRlJZckw0OXFaV3dWNWbSAXBBVV95cUxObWN5SUtEV01raFVsRHVnMmpTc0pGaUY0ZVpwOU9Sb1cwbjFNODYwTnVmNGVueElNTG84VDQ5MGx4Y1BDTzNhM3lReUV4cW5uNHFucXkyUU9SZlJlZU92Y3o2X0ZSWXJMNDlxWld3VjVm?oc=5",
+     "source": "머니투데이",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-31T15:06+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "cd83a8774772",
+     "title": "\"집 내놔도 안 팔려요\"…서울 아파트 매물 8만건 쌓였다",
+     "link": "https://www.hankyung.com/article/2026103174997",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-31T13:21+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "2d63c21c5a8f",
+     "title": "[부고] 성행경(서울경제신문 건설부동산부장)씨 부친상 외",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51RjZGdGk5bGlobGptVG8zTFlFQXpoN190dXFGSS1ZYnd6WHIzRFlaUS1oaUwzaHd2UVRCd0RDVURtaHQ3RUE1ZkdaR0VRWFJzN1dpUmZyNlZEOEFoT1RLS3Jfbm5TczVlaVA5ZjExXzlRdmvSAXNBVV95cUxOdUY2RnRpOWxpaGxqbVRvM0xZRUF6aDdfdHVxRkktWWJ3elhyM0RZWlEtaGlMM2h3dlFUQndEQ1VEbWh0N0VBNWZHWkdFUVhSczdXaVJmcjZWRDhBaE9US0tyX25uU3M1ZWlQOWYxMV85UXZr?oc=5",
+     "source": "한국일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-30T16:03+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "c90a39190c75",
+     "title": "[건설명가] 청약마감 후 문의 줄이어, 참여의향서 접수",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tYnFqVlVuVVdrb3ZIWDdBX2tacTRQOG9tNHprN1BpRTZ2YUxKeEVBUnBFa2JQb1pTMkxQb3pNMmtYaXlZdnJNYnZ1RVVWTGpxY3NuU3BB?oc=5",
+     "source": "중앙일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-30T05:31+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "stocks",
+   "title": "주식",
+   "items": [
+    {
+     "id": "1c4a17ba333f",
+     "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+     "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989336",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-01T06:20+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "러시아 주식은 교역 마감 시점보다 낮습니다. MOEX 러시아 지수는 변동이 없습니다."
+    },
+    {
+     "id": "73bd43592309",
+     "title": "Judge ends Trump’s attempts to sue Wall Street Journal over Epstein reporting",
+     "link": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-01T05:48+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "판사는 엡스타인 보도를 통해 월스트리트 저널을 고소하려는 트럼프의 시도를 종식시킨다."
+    },
+    {
+     "id": "2030cb32bb3e",
+     "title": "Binance, crypto and hacks: What to know about keeping coin safe as cyber criminals advance",
+     "link": "https://www.cnbc.com/2026/10/31/binance-crypto-hack-safety.html",
+     "source": "CNBC",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-01T01:13+09:00",
+     "preview": "The Binance hack of $6.3 billion, the largest crypto theft ever, is a wake-up call for investors to understand how coin is guarded and the risk of losing it.",
+     "also": [],
+     "title_ko": "바이낸스, 암호화 및 해킹: 사이버 범죄자가 발전함에 따라 코인을 안전하게 유지하는 방법에 대해 알아야 할 사항",
+     "preview_ko": "사상 최대의 암호화폐 절도인 $ 63억의 바이낸스 해킹은 투자자들이 코인이 어떻게 보호되고 손실될 위험이 있는지 이해하기 위한 모닝콜입니다."
+    },
+    {
+     "id": "3a95719f45b1",
+     "title": "\"주식은 무서워서 못 사겠다\"…한 달 새 4.2조 몰린 '피난처' [투자톡]",
+     "link": "https://www.hankyung.com/article/2026103064936",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-31T19:07+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "8ecaa34e8ee8",
+     "title": "코스피 힘 못 쓰는데 2.8조 몰렸다…개미들 꽂힌 '이 상품' [이수의 ETF줌인]",
+     "link": "https://www.hankyung.com/article/2026103061976",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-10-31T15:00+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI 툴",
+   "items": [
+    {
+     "id": "89c6cb6d2971",
+     "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+     "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+     "source": "TechCrunch AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-01T06:41+09:00",
+     "preview": "Apple's new CEO defended the company's current position in the AI landscape.",
+     "also": [],
+     "title_ko": "애플 CEO는 회사가 ‘AI를 위해 AI를 배송하고 싶지 않다’ 고 말합니다.",
+     "preview_ko": "애플의 새로운 CEO는 AI 환경에서 회사의 현재 위치를 방어했다."
+    },
+    {
+     "id": "e07ec5d69c95",
+     "title": "Anthropic blocks users for anything touching training larger models",
+     "link": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+     "source": "Hacker News",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-01T04:39+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "Anthropic은 사용자에게 감동적인 모든 것을 차단하여 더 큰 모델을 교육합니다."
+    },
+    {
+     "id": "ed0268fa6e32",
+     "title": "I built an AI Tamagotchi before Meta could",
+     "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+     "source": "The Verge AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-01T01:09+09:00",
+     "preview": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can…",
+     "also": [],
+     "title_ko": "메타가 나오기 전에 인공지능 다마고치를 만들었어요",
+     "preview_ko": "마크 주커버그 (Mark Zuckerberg) 의 메타 (Meta) 는 인공지능을 짜임새 있는 작은 얼굴로 만들어 매우 악취가 나는 것처럼 보이게 했습니다. 그리고 이번 홀리데이 시즌에 그는 당신에게 뮤즈 참 (Muse Charm) 을 팔고 싶어합니다."
+    },
+    {
+     "id": "b02474419168",
+     "title": "AC Bridge",
+     "link": "https://www.producthunt.com/products/ac-bridge",
+     "source": "Product Hunt",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-31T13:20+09:00",
+     "preview": "Your smart lights show when Claude Code or Codex needs you. Discussion | Link",
+     "also": [],
+     "title_ko": "AC 브리지",
+     "preview_ko": "스마트 라이트는 Claude Code 또는 Codex가 필요할 때 표시됩니다. 토론 | 링크"
+    },
+    {
+     "id": "b2263e9f8412",
+     "title": "nemotron-halloween",
+     "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+     "source": "Hugging Face",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-10-31T02:57+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "네모트론-할로윈"
+    }
+   ]
+  },
+  {
+   "id": "trend",
+   "title": "트렌드",
+   "items": [
+    {
+     "id": "204a4ca8ee41",
+     "title": "VC와 빅테크가 학교 만들어 AI시대 인재 직접 배출한다",
+     "link": "https://www.youtube.com/watch?v=06k8hYNkTHs",
+     "source": "YouTube · 티타임즈TV (회사 트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-01T07:00+09:00",
+     "preview": "AI 시대에는 대학이 의미를 상실할 것이라는 주장이 많습니다. 지식의 전수는 AI가 더 잘할 수 있으니까요. 그래서 최근 실리콘밸리가 고등학생들을 대상으로 대학을 대체하는 2년제 학교를 만들었습니다. 세계적 벤처캐피털인 앤드리슨 호로위츠가 돈을 대고 앤트로픽, 구글, 메타, 팔란티어 등…",
+     "also": []
+    },
+    {
+     "id": "ca556c0cae74",
+     "title": "아직도 나를 모르겠어요",
+     "link": "https://www.youtube.com/watch?v=hkrZMiVLoHk",
+     "source": "YouTube · 세바시 강연 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-31T20:00+09:00",
+     "preview": "\"누구나 자기만의 사금파리가 있을 거예요\" 깨진 그릇 조각 하나가 서울대 교수의 가장 아끼는 단어가 된 이유는 무엇일까요?✒️ 오늘 세바시45에서는, 100년 문학 속 142명의 작가에게서 단어를 건져 올린 서울대 나민애 교수와 함께 잊혀진 우리말로 나의 이야기를 쓰는 법을 이야기합니다…",
+     "also": []
+    },
+    {
+     "id": "a50c4a8a1572",
+     "title": "동료에게만 전할수 있는 말",
+     "link": "https://www.youtube.com/watch?v=FR8rfOIzlBs",
+     "source": "YouTube · 주언규 (재테크)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-31T14:01+09:00",
+     "preview": "동료에게만 전할수 있는 말 저는 아 저건 내가 못해 이런 생각을 안 해요 대신 저걸 쟤가 했어...? 그럼 우리 팀이 하려면 어떻게 해야 될까? 안 되는 이유부터 찾는 게 아니라 제약 전부 무시하고 이렇게 하면 된다 그다음에 현실적 제약을 붙이는 거예요 그러면 언제 시작해요 그 제약 다…",
+     "also": []
+    },
+    {
+     "id": "ebb14bea4702",
+     "title": "명품 관리 비결",
+     "link": "https://www.youtube.com/watch?v=9gHS0lhzQwQ",
+     "source": "YouTube · 큰손 노희영 (트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-31T11:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "3e49bcb4a7e6",
+     "title": "방송 40년하고 느낀 인맥관리가 하나도 쓸모 없는 이유ㅣ지식인초대석 EP.185 (이경실 1부)",
+     "link": "https://www.youtube.com/watch?v=4iOT7LDyUuA",
+     "source": "YouTube · 지식인사이드 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-31T10:00+09:00",
+     "preview": "오늘은 이경실 씨와 함께 40년 방송 인생에서 겪은 수많은 시련을 통해 깨달은 인간관계의 지혜와 힘든 순간을 이겨내는 삶의 태도에 대한 이야기를 나눠봤습니다. 영상이 유익 했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요! #이경실 #지식인사이드 #인간관계 #인생 #개그우먼…",
+     "also": []
+    },
+    {
+     "id": "d8ef3af39aad",
+     "title": "유독 한국 사람들이 부자를 싫어하는 진짜 이유 ㅣ Ep. 북적북적 토크쇼 04",
+     "link": "https://www.youtube.com/watch?v=9CSKjeW8z5M",
+     "source": "YouTube · 책과삶 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-31T10:00+09:00",
+     "preview": "안녕하세요.\"책과삶\" 입니다. 오늘은 돈의 심리학 도서에 대해 알아봤습니다. 세상의 모든 감동과 지식을 전합니다. 구독과 좋아요 꾸욱 눌러주시면 더욱 열심히 좋은 영상으로 보답하겠습니다. 📖모건 하우절의 '돈의 심리학' 00:00 오프닝 01:06 친구한테 돈 빌려주면 안 되는 이유 0…",
+     "also": []
+    },
+    {
+     "id": "b75cc0b816ed",
+     "title": "우주선? 금융? 돈이 모이는 도시들의 특징 | MMM ‪‪‪@MickeyPedia‬",
+     "link": "https://www.youtube.com/watch?v=vTFwdR1RYqY",
+     "source": "YouTube · 조승연의 탐구생활 (인문학)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-31T09:00+09:00",
+     "preview": "오늘 MMM에서는 청라에 새로 생긴 하나금융그룹 청라HQ에서 대기업 캠퍼스가 어떻게 변해왔는지 이야기해보고 하나로 쭉 연결된 보행자 램프도 산책하며 구경해보았습니다 ㅎㅎ *이 영상에는 하나금융그룹의 유료광고가 포함되어 있습니다 채널에 가입하여 혜택을 누려보세요. 배우는 즐거움이 있는 본…",
+     "also": []
+    },
+    {
+     "id": "a63897a129f5",
+     "title": "친해질수록 매력 있는 사람 특징 (with 레인보우 김재경)",
+     "link": "https://www.youtube.com/watch?v=qzeJU-bpkQk",
+     "source": "YouTube · 희렌최널 Hirenze (말 잘하는 법)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-30T22:00+09:00",
+     "preview": "나도 모르게 친한 관계에서 자주 하게 되는 실수가 있습니다. 그룹 레인보우의 리더이자 배우 김재경님께 (@jaekyung1224 ) 오래 가는 끈끈한 관계의 비결과 함께 나만의 속도로 나의 매력을 지키면서 취향을 키우는 방법까지 알아봅니다! 배우 김재경님의 책 '뜨개질하는 할머니가 되고…",
+     "also": []
+    },
+    {
+     "id": "8ad4f0797c94",
+     "title": "😇앤트로픽은 구세주인가? 앤토로픽의 실적, 상장 계획, 지배구조 등 제대로 분석해봅니다",
+     "link": "https://www.youtube.com/watch?v=to45JA8_Zk0",
+     "source": "YouTube · 미키피디아",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-28T18:00+09:00",
+     "preview": "최근 상장을 위한 S-1 문서를 공개한 앤트로픽을 낱낱이 파해쳐봤습니다! 0:00 인트로 0:26 앤트로픽, 뭐하는 회사야? 0:59 돈은 어떻게 버나 4:56 빅테크들과의 관계 5:36 앤트로픽이 가진 리스크 6:23 상장 계획 8:36 앤트로픽의 지배구조 9:54 그래서 살까요, 말…",
+     "also": []
+    },
+    {
+     "id": "eb34680bad5d",
+     "title": "\"칼을 뽑았으면 휘둘러야죠\" 김재현의 승부의 감각",
+     "link": "https://www.youtube.com/watch?v=4CyW5ZxbfCQ",
+     "source": "YouTube · 폴인 fol:in (전문가 인터뷰)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-23T18:00+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  }
+ ],
+ "problems": []
+}
