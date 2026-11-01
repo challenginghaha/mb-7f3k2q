@@ -1,0 +1,347 @@
+{
+ "date": "2026-11-02",
+ "generated": "2026-11-02T08:00+09:00",
+ "boxes": [
+  {
+   "id": "realestate",
+   "title": "부동산",
+   "items": [
+    {
+     "id": "d81a4e143c35",
+     "title": "[11/2, 매경부동산 추천매물] 종로구 역 출구 앞 6%대 대로변 코너 빌딩 급매가 320억원 등",
+     "link": "https://www.mk.co.kr/news/realestate/12193063",
+     "source": "매일경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-02T07:25+09:00",
+     "preview": "[사진]◇하남시청역 출구 앞 수익·투자용 빌딩 155억원 ‘하남대로변의 대지 854㎡, 연면적 2676㎡인 총 6층 건물이 자동차전시장과 병원, 신한금융,LG유플러스 등 이 임차 ..",
+     "also": []
+    },
+    {
+     "id": "9b9ee2c65f2e",
+     "title": "\"집값 평탄화 무색\"…강남 매매 2건 중 1건 지역 거주자였다 [시장톡]",
+     "link": "https://www.hankyung.com/article/2026103053846",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-02T06:46+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "5f257a23a83c",
+     "title": "[전문가 10인 진단]① 정부 연말 안정론과 달리… 하락 예상 0명, 서울 집값 더 오른다",
+     "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/02/K27BZQCGBBAONMXIGHXVD7RLVM/",
+     "source": "조선비즈",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-02T06:00+09:00",
+     "preview": "정부와 LH 수장이 연말 집값 안정과 급락 가능성을 잇따라 언급했지만, 부동산 전문가 10명 가운데 수도권 집값의 본격 하락을 예상한 사람은 한 명도 없었다. 10명 전원은 향후 6개월간 서울 집값이 오를 것으로 봤다. 공급 부족과 전월세 상승 압력이 집값을 떠받칠 것이란 분석이다. 다…",
+     "also": []
+    },
+    {
+     "id": "63f2d26bf1d7",
+     "title": "규제 풀었는데 4억→8억…강남에 퍼지는 재초환 ‘먹구름’[안장원의 부동산 노트]",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yRVlobi1KWDU5emdncFlfcjVTQUZGS1c4QTNQcFFFQlNRbUh6NnhFdTRKVVhKOGluWk1LYk9EVGhOTDhDajRDWm1QY1ZBZ01oS3poeDdn?oc=5",
+     "source": "중앙일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-02T06:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "98fdada230f9",
+     "title": "내년 공시가 상승 강북이 주도하나…현실화율·세제개편안 변수",
+     "link": "https://www.yna.co.kr/view/AKR20261101044700003",
+     "source": "연합뉴스",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-02T05:55+09:00",
+     "preview": "(서울=연합뉴스) 서미숙 기자 = 올해 주택시장이 정부 정책 변화로 크게 요동친 가운데 국토교통부와 한국부동산원이 내년도 보유세 산정의 근간이 ...",
+     "also": []
+    },
+    {
+     "id": "b7e002005954",
+     "title": "부동산 정책과 '정치·경제의 악순환' [헌법학자의 눈으로 본 대한민국]",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5djZkM1pMdW1UaVlNVS0wbEY4Ym9hdUJjVEQ2MlhUMTRTT1FFSEhtTHRZbFduaENWdU9SMTR6RUFILTQweXotNVBCdWpOYzNWSHlWeGhRVzQ5amZ4cFRXekNxcVJYSWdvSVhmZlRR0gFzQVVfeXFMTmJ6ZFFWLVFCcktPUFZYeTQ0Zm1PUG15aXEtZVBuN0Q1WjRSOHg5S01EWTNjaFdJb1ZzQjhXWXpoNEFMYmRmUHlBd0Z1Z3Nrb1J4cHQ5R252TXQzTDlHZ0pyTW9obmxzWDA1bl9jNmw3ZG9ZNA?oc=5",
+     "source": "한국일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-02T04:30+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "8f1aff856a0a",
+     "title": "이형일 부총리, 경제현안간담회 개최…주택공급·국민일자리 대책 논의",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03142246645641456",
+     "source": "이데일리",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-01T19:37+09:00",
+     "preview": "정부가 주거와 일자리 분야의 민생 대책을 구체화하기 위해 관계부처와 청와대 간 정책 조율에 나섰다.1일 재정경제부에 따르면 이형일 부총리 겸 재경부 장관은 이날 오후 5시 경제현안간담회를 열고 주택공급 추진방안과 3대 민생프로젝트 중 ‘국민일자리 프로젝트’ 추진방안을 논의했다. 이형일…",
+     "also": []
+    },
+    {
+     "id": "a7a7150446aa",
+     "title": "서울 아파트 평균 월셋값 1년 새 15%↑...'노도강' 가팔라",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JeGUtUXpHb09Bei1pWjN1OWRfSERxUFBCQWthVVJoTlN2N1h2ZTFCb0treDZlYmh5OF9QbWhPbnY4S2I4MThrWFJfbHlGZHdJMU4tUE40eTJJdXBrN0gyNGhoWXNnYUIyaURjWXVpMlQ2dXBHQVE?oc=5",
+     "source": "YTN",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-01T16:12+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "stocks",
+   "title": "주식",
+   "items": [
+    {
+     "id": "c0f8e6dd6f4a",
+     "title": "\"에이피알, 원화 강세에 실적 부진…목표가↓\"-한국",
+     "link": "https://www.hankyung.com/article/2026110289606",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-02T07:33+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "47a9f5b84254",
+     "title": "Everything changed for the oil, AI and bond trades over the past month",
+     "link": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
+     "source": "CNBC",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-02T07:27+09:00",
+     "preview": "The market expects oil to keep rising, but treasury yields have declined, a warning traders and investors may be more worried about an AI crash than inflation.",
+     "also": [],
+     "title_ko": "지난 한 달 동안 석유, AI 및 채권 거래에 대한 모든 것이 변경되었습니다."
+    },
+    {
+     "id": "814605980386",
+     "title": "“연말까지 빅 이벤트 줄줄이…소비·헬스케어·코스닥 분산할 만”",
+     "link": "https://www.hankyung.com/article/202611018418i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-02T07:20+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "daa7b5b68de1",
+     "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+     "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989779",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-02T06:20+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "러시아 주식은 교역 마감 시점보다 낮습니다. MOEX 러시아 지수는 변동이 없습니다."
+    },
+    {
+     "id": "85d19f32a859",
+     "title": "Bitcoin faces further downside risks as fear surges, Binance hack rattles markets",
+     "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-faces-further-downside-risks-as-fear-surges-binance-hack-rattles-markets-4989389",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-02T04:04+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "Bitcoin은 두려움이 급증함에 따라 더 많은 하방 위험에 직면 해 있으며 Binance 해킹은 시장을 뒤흔들고 있습니다."
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI 툴",
+   "items": [
+    {
+     "id": "33c086ca1438",
+     "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+     "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+     "source": "TechCrunch AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-02T06:55+09:00",
+     "preview": "Data centers are deeply unpopular. But what if we called them something else?",
+     "also": [],
+     "title_ko": "OpenAI는 데이터 센터를 ‘AI 컴퓨팅 캠퍼스‘ 로 리브랜딩할 수 있습니다."
+    },
+    {
+     "id": "fe548f549737",
+     "title": "The AI cost of JavaScript frameworks",
+     "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+     "source": "Hacker News",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-01T15:06+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "자바스크립트 프레임워크의 AI 비용"
+    },
+    {
+     "id": "0def4a2fca6b",
+     "title": "How We Took Over ChatGPT Accounts",
+     "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+     "source": "Simon Willison",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-01T08:15+09:00",
+     "preview": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call t…",
+     "also": [],
+     "title_ko": "ChatGPT 계정을 인수한 방법"
+    },
+    {
+     "id": "640ea6dd5d0f",
+     "title": "agentmash",
+     "link": "https://www.producthunt.com/products/agentmash",
+     "source": "Product Hunt",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-01T03:08+09:00",
+     "preview": "open-source multiplayer AI for teams' coding agents Discussion | Link",
+     "also": []
+    },
+    {
+     "id": "ed0268fa6e32",
+     "title": "I built an AI Tamagotchi before Meta could",
+     "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+     "source": "The Verge AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-01T01:09+09:00",
+     "preview": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can…",
+     "also": [],
+     "title_ko": "메타가 나오기 전에 인공지능 다마고치를 만들었어요",
+     "preview_ko": "마크 주커버그 (Mark Zuckerberg) 의 메타 (Meta) 는 인공지능을 짜임새 있는 작은 얼굴로 만들어 매우 악취가 나는 것처럼 보이게 했습니다. 그리고 이번 홀리데이 시즌에 그는 당신에게 뮤즈 참 (Muse Charm) 을 팔고 싶어합니다."
+    }
+   ]
+  },
+  {
+   "id": "trend",
+   "title": "트렌드",
+   "items": [
+    {
+     "id": "a900363c6410",
+     "title": "충청도 모녀가 화해하는 법",
+     "link": "https://www.youtube.com/watch?v=ApXmqMwtBes",
+     "source": "YouTube · 세바시 강연 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-01T20:00+09:00",
+     "preview": "\"누구나 자기만의 사금파리가 있을 거예요\" 깨진 그릇 조각 하나가 서울대 교수의 가장 아끼는 단어가 된 이유는 무엇일까요?✒️ 오늘 세바시45에서는, 100년 문학 속 142명의 작가에게서 단어를 건져 올린 서울대 나민애 교수와 함께 잊혀진 우리말로 나의 이야기를 쓰는 법을 이야기합니다…",
+     "also": []
+    },
+    {
+     "id": "4a63c35700d8",
+     "title": "바쁜데 돈 못 버는 친구에게 알려주세요",
+     "link": "https://www.youtube.com/watch?v=CFIOh0ImmhM",
+     "source": "YouTube · 주언규 (재테크)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-01T17:00+09:00",
+     "preview": "바쁜데 돈 못 버는 친구에게 알려주세요 바로바로 시작한 게 쌓이잖아요 그러면 하면 안 되는 게 있어요 좋아 보인다고 다 하지 않는 거예요 돈 된다는 방법 너무 많잖아요 근데 인생은 안타깝지만 정해져 있어요 20살부터 60살까지 여름이 40개밖에 안 돼요 그게 지나가면 경쟁할 수 있는 시…",
+     "also": []
+    },
+    {
+     "id": "f7ebe7dacf69",
+     "title": "⚖️미래를 위해 일하기 vs 현재를 즐기기. 돈과 시간을 최적화하는 인생 전략은?",
+     "link": "https://www.youtube.com/watch?v=liC0Gekuubs",
+     "source": "YouTube · 미키피디아",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-01T12:00+09:00",
+     "preview": "미래를 위해 돈을 벌고 모으는 것과 나의 행복한 인생을 위해 현재를 즐기는 것의 균형에 대해 풀어보았습니다. ⚠️이 영상에는 [필로틱]의 유료 프로모션이 포함되어 있습니다. 📕 『우리는 서로의 전부이자 지옥이었다』 소피 엘름허스트 지음 | 필로틱 🏆 버락 오바마 · 뉴욕타임스 '2025…",
+     "also": []
+    },
+    {
+     "id": "9d2b647edc51",
+     "title": "명품 코트 관리법",
+     "link": "https://www.youtube.com/watch?v=QqgnZaymjtY",
+     "source": "YouTube · 큰손 노희영 (트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-01T11:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "33a36e43704e",
+     "title": "\"딸같은 며느리는 환상이다.\" 고부가 굳이 친할 필요 없는 이유ㅣ지식인초대석 EP.186 (이경실 2부)",
+     "link": "https://www.youtube.com/watch?v=Fy9NsZDeXn4",
+     "source": "YouTube · 지식인사이드 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-01T10:00+09:00",
+     "preview": "오늘은 이경실 씨와 함께 가족을 사랑하면서도 나 자신을 잃지 않는 법과 행복한 관계를 오래 유지하는 지혜에 대한 이야기를 나눠봤습니다. 영상이 유익 했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요! #이경실 #지식인사이드 #가족 #결혼 #배우자 #성격 ㅡ 00:00 인트로…",
+     "also": []
+    },
+    {
+     "id": "7d21c3d0a426",
+     "title": "퇴사하는 에이스, 더 이상 회사가 붙잡지 않는 이유 ㅣ Ep. 책과사람 186 (송길영 작가 2부)",
+     "link": "https://www.youtube.com/watch?v=LtBLw3eQwak",
+     "source": "YouTube · 책과삶 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-01T10:00+09:00",
+     "preview": "안녕하세요.\"책과삶\" 입니다. 오늘은 송길영 작가님과 앞으로 인류가 어떻게 변화해갈지 알아봤습니다. 세상의 모든 감동과 지식을 전합니다. 구독과 좋아요 꾸욱 눌러주시면 더욱 열심히 좋은 영상으로 보답하겠습니다. 📖송길영 작가님의 '시대예보 - 수고인류의 시간' 교보 : yes24 : 알…",
+     "also": []
+    },
+    {
+     "id": "204a4ca8ee41",
+     "title": "VC와 빅테크가 학교 만들어 AI시대 인재 직접 배출한다",
+     "link": "https://www.youtube.com/watch?v=06k8hYNkTHs",
+     "source": "YouTube · 티타임즈TV (회사 트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-01T07:00+09:00",
+     "preview": "AI 시대에는 대학이 의미를 상실할 것이라는 주장이 많습니다. 지식의 전수는 AI가 더 잘할 수 있으니까요. 그래서 최근 실리콘밸리가 고등학생들을 대상으로 대학을 대체하는 2년제 학교를 만들었습니다. 세계적 벤처캐피털인 앤드리슨 호로위츠가 돈을 대고 앤트로픽, 구글, 메타, 팔란티어 등…",
+     "also": []
+    },
+    {
+     "id": "b75cc0b816ed",
+     "title": "우주선? 금융? 돈이 모이는 도시들의 특징 | MMM ‪‪‪@MickeyPedia‬",
+     "link": "https://www.youtube.com/watch?v=vTFwdR1RYqY",
+     "source": "YouTube · 조승연의 탐구생활 (인문학)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-31T09:00+09:00",
+     "preview": "오늘 MMM에서는 청라에 새로 생긴 하나금융그룹 청라HQ에서 대기업 캠퍼스가 어떻게 변해왔는지 이야기해보고 하나로 쭉 연결된 보행자 램프도 산책하며 구경해보았습니다 ㅎㅎ *이 영상에는 하나금융그룹의 유료광고가 포함되어 있습니다 채널에 가입하여 혜택을 누려보세요. 배우는 즐거움이 있는 본…",
+     "also": []
+    },
+    {
+     "id": "a63897a129f5",
+     "title": "친해질수록 매력 있는 사람 특징 (with 레인보우 김재경)",
+     "link": "https://www.youtube.com/watch?v=qzeJU-bpkQk",
+     "source": "YouTube · 희렌최널 Hirenze (말 잘하는 법)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-30T22:00+09:00",
+     "preview": "나도 모르게 친한 관계에서 자주 하게 되는 실수가 있습니다. 그룹 레인보우의 리더이자 배우 김재경님께 (@jaekyung1224 ) 오래 가는 끈끈한 관계의 비결과 함께 나만의 속도로 나의 매력을 지키면서 취향을 키우는 방법까지 알아봅니다! 배우 김재경님의 책 '뜨개질하는 할머니가 되고…",
+     "also": []
+    },
+    {
+     "id": "eb34680bad5d",
+     "title": "\"칼을 뽑았으면 휘둘러야죠\" 김재현의 승부의 감각",
+     "link": "https://www.youtube.com/watch?v=4CyW5ZxbfCQ",
+     "source": "YouTube · 폴인 fol:in (전문가 인터뷰)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-23T18:00+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  }
+ ],
+ "problems": []
+}
