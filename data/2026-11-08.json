@@ -1,0 +1,351 @@
+{
+ "date": "2026-11-08",
+ "generated": "2026-11-08T08:02+09:00",
+ "boxes": [
+  {
+   "id": "realestate",
+   "title": "부동산",
+   "items": [
+    {
+     "id": "dfde573be033",
+     "title": "일주일에 집한채 뚝딱…도깨비 같은 공장형 주택사업",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YMkRwZnZ2Ri01RG5nMER6SWxXMFVnMmJMbDJteFdfY2ZlSDJOVzkxWTIyRXF1bmtyZDA0UTdOeXBFRkRXT0tJdmRTNE1udjR4UXJTN0FzSC1VYW13MV83TjlDZno2elFU0gFuQVVfeXFMTmRBelZDSWViZ19mWmVaXzhIbGhvNGRPbGVKNjFmcXRIRmIyTHk0ZW9TaUJaTDJpNUl1ajVFTnpFZ01BeWlidGVYSnB5S3E1ZzRJQzZtNnBiNUd2Mi15cG02SFMtSDF5WU10U2ZiRUE?oc=5",
+     "source": "머니투데이",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-08T07:24+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "be969cbb7aa2",
+     "title": "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
+     "link": "https://www.yna.co.kr/view/AKR20261107050300003",
+     "source": "연합뉴스",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-08T06:05+09:00",
+     "preview": "(세종=연합뉴스) 오진송 기자 = 8·3 세제개편안 발표 이후 서울 아파트 매물이 33% 늘었지만 매물 증가가 지속적인 집값 안정으로 이어질지가...",
+     "also": []
+    },
+    {
+     "id": "673f0cd10d98",
+     "title": "189억 깎아도 안 팔린다… 방배동 ‘두레마을’ 땅, 9번째 유찰",
+     "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/08/DHOYEEZNVJGHVPHJ3P3DLFXT7Q/",
+     "source": "조선비즈",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-08T06:00+09:00",
+     "preview": "서울 서초구 방배동 무허가 비닐하우스촌 ‘두레마을’ 땅이 아홉 번째 입찰에서도 팔리지 않았다. 최저입찰가를 처음보다 30%(약 189억원) 낮췄지만 또 유찰됐다. 낙찰자가 무허가주택 27가구의 이주와 공원 조성까지 떠안아야 하는 조건이 발목을 잡고 있다는 분석이다. 8일 서초구에 따르면…",
+     "also": []
+    },
+    {
+     "id": "7eaa15cc5e83",
+     "title": "李가 말한 ‘강남 3구’ 빼니…나머지 22개구 집값 17.2% 뛰었다",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzU1pJYnRvbXVnV2lTN1JIRGRnc1hNWGRIaUpwWTlXZjdlRE96NVlKblJPajEzU1l4dG5sN1dpUHN0NzRtMFFoekdpcFpzUGVLdV96aU53?oc=5",
+     "source": "중앙일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-08T06:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "f67036c95947",
+     "title": "“앞날이 캄캄”…당첨 기쁨은 잠깐, 대출 금리에 한숨만",
+     "link": "https://www.mk.co.kr/news/realestate/12201523",
+     "source": "매일경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-07T20:05+09:00",
+     "preview": "최근 공급 분양사업장 중도금대출 금리 5% 턱밑 대출 완화 요구 나오지만 정부 규제 유지 입장중도금 대출 금리가 5%를 목전에 두면서 수분양자들이 이자 부담에 밤잠을 설치고 있다...",
+     "also": []
+    },
+    {
+     "id": "097b41597dec",
+     "title": "같은 3억 대출인데 이자는 왜 다를까…대출금리 낮추는 5가지 전략",
+     "link": "https://www.hankyung.com/article/202611045024i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-07T15:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "18cf8e9201c7",
+     "title": "가계대출 증가폭 다시 커졌나…금통위 의사록도 공개[한은 미리보기]",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01453046645643424",
+     "source": "이데일리",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-07T06:00+09:00",
+     "preview": "지난 9월 은행권 가계대출 증가 폭이 크게 축소된 가운데 다음 주 한국은행이 10월 금융시장 동향을 발표한다. 최근 5대 시중은행의 가계대출이 다시 증가세로 돌아선 만큼 은행권 전체의 증가 폭도 확대됐을지 관심이다. 오는 26일 기준금리 결정을 앞두고 지난달 기준금리를 만장일치로 동결한…",
+     "also": []
+    },
+    {
+     "id": "8e5a1d98f819",
+     "title": "'전세사기 해외 도피' 검찰 수사관, 첫 재판에서 혐의 부인",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKZGFRbHZrU2xQOEQyazdNOG93bHdQWGZRbkZ1LS1aeWN1VUFUMWhEMmVULUtJUEk2bUpibWtGS1hkZEZxeDhfLWZZVURfWVZQSGRYakJoSUZic2pjaHpQRkR3bXBGS1JtSWQzMXVhLVlUNmExV3c?oc=5",
+     "source": "YTN",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-06T18:51+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "stocks",
+   "title": "주식",
+   "items": [
+    {
+     "id": "46ec4daf33d5",
+     "title": "World Acceptance director Benjamin Robinson sells $14,878 in shares",
+     "link": "https://www.investing.com/news/insider-trading-news/world-acceptance-director-benjamin-robinson-sells-14878-in-shares-93CH-5010063",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-08T06:46+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "World Acceptance 이사 Benjamin Robinson은 $ 14,878의 주식을 매각합니다."
+    },
+    {
+     "id": "b3b1d69b7d7a",
+     "title": "Dropbox chief accounting officer sells $74,884 in stock",
+     "link": "https://www.investing.com/news/insider-trading-news/dropbox-chief-accounting-officer-sells-74884-in-stock-93CH-5010062",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-08T06:45+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "Dropbox 최고 회계 책임자가 재고 $ 74,884를 판매합니다"
+    },
+    {
+     "id": "256f825c458c",
+     "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
+     "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-08T05:36+09:00",
+     "preview": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+     "also": [],
+     "title_ko": "내 조언자를 두 번째로 추측: 이 시장에서 연금이 올바른 움직임입니까?",
+     "preview_ko": "\"저는 아직 이 전략에 전념하지 않았으며 독립적인 관점을 가져주시면 감사하겠습니다.\""
+    },
+    {
+     "id": "ed2e4c303c74",
+     "title": "\"평생 모은 5억 주식에 몰빵, 4억 넘게 날렸다\"…직장인 절규",
+     "link": "https://www.hankyung.com/article/2026110723527",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-07T19:38+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "1ffcb5fde1be",
+     "title": "'계좌 박살 났다' 현타 온 개미들…주가 폭락에 몰려든 곳이 [투자톡]",
+     "link": "https://www.hankyung.com/article/2026110609146",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-07T17:22+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI 툴",
+   "items": [
+    {
+     "id": "ed263cbbe1a4",
+     "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+     "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+     "source": "TechCrunch AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-08T07:07+09:00",
+     "preview": "On Equity, we unpacked what the midterms mean for the tech industry.",
+     "also": [],
+     "title_ko": "중간고사 이후, 일론 머스크 (Elon Musk) 와 데이터 센터에 대한 관심이 높아지고 있습니다.",
+     "preview_ko": "Equity에서 우리는 중간고사가 기술 업계에 의미하는 바를 풀었습니다."
+    },
+    {
+     "id": "1eeaf5457cb1",
+     "title": "The end of Microsoft Research's AI Frontiers group",
+     "link": "https://hunch.net/?p=13764006",
+     "source": "Hacker News",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-08T03:02+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "Microsoft Research의 AI Frontiers 그룹의 끝"
+    },
+    {
+     "id": "fa06ff8fdc83",
+     "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+     "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+     "source": "The Verge AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-08T00:47+09:00",
+     "preview": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken…",
+     "also": [],
+     "title_ko": "NYT Cooking의 AI 비서가 주중 치킨을 구해줬지만 케이크를 망칠 뻔 했어요",
+     "preview_ko": "매주 평일 오후 7시쯤, 나는 냉장고 앞에 서서 남편이 불평하지 않을 저녁 식사를 위해 무언가를 결정하려고합니다. \"치킨..."
+    },
+    {
+     "id": "b77a26dbd472",
+     "title": "The Writer's Quarter",
+     "link": "https://www.producthunt.com/products/the-writer-s-quarter",
+     "source": "Product Hunt",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-07T01:06+09:00",
+     "preview": "AI-Free Writing & Novel Planning Software Discussion | Link",
+     "also": [],
+     "title_ko": "더 라이터스 쿼터",
+     "preview_ko": "AI-Free Writing & Novel Planning 소프트웨어 토론 | 링크"
+    },
+    {
+     "id": "be1ba71e55b7",
+     "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+     "link": "https://huggingface.co/blog/allenai/toyblocks",
+     "source": "Hugging Face",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-06T23:00+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "ToyBlocks: 로봇 학습 및 평가를 위한 통제된 세계"
+    }
+   ]
+  },
+  {
+   "id": "trend",
+   "title": "트렌드",
+   "items": [
+    {
+     "id": "045cda388145",
+     "title": "“공부만 잘하는 친구는 앞으로 좀 힘들 겁니다” (공경철 카이스트 기계공학과 교수)",
+     "link": "https://www.youtube.com/watch?v=pzP0O0n5uzU",
+     "source": "YouTube · 티타임즈TV (회사 트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-08T07:00+09:00",
+     "preview": "마징가제트와 아톰의 나라, 일본은 왜 로보틱스에서 밀리게 되었을까요? 굉장히 정교한 액츄에이터를 만들고는 있지만 로봇 소재나 부품에 대한 주도권을 가지고 있지는 못합니다. 그 이유는 무엇일까요? 엔젤로보틱스 대표인 공경철 카이스트 교수에게 들어봅니다. 편집 : 강채은 영상디자이너 촬영…",
+     "also": []
+    },
+    {
+     "id": "8496f7f66594",
+     "title": "그럴싸한 답에 안심될 때",
+     "link": "https://www.youtube.com/watch?v=Tyeq9Kp_qGs",
+     "source": "YouTube · 세바시 강연 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-08T06:00+09:00",
+     "preview": "\"질문의 횟수가 곧 성과의 횟수는 아니구나\" AI가 회의록도, 기획서도, 보고서도 써주는데 왜 사람들 얼굴은 더 피곤해 보일까요? 💡 오늘 세바시45에서는, 4년 만에 다시 찾아온 리더십 어드바이저 문성후 대표와 함께 AI를 제대로 '부리는' 리더의 힘을 이야기합니다. 🎙️ 문성후 |…",
+     "also": []
+    },
+    {
+     "id": "838a7ed80404",
+     "title": "주언규PD 밑에서 알게 된 진짜 돈 버는 방법",
+     "link": "https://www.youtube.com/watch?v=OqSZ1v3DA90",
+     "source": "YouTube · 주언규 (재테크)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-07T18:06+09:00",
+     "preview": "회사 채널을 구독자 0명에서 100만 명까지 키웠습니다. 그런데 100만을 달성하고 나서 든 생각은 \"내 인생 망했다\"였어요. 혼자서는 그걸 다시 만들 수 없었거든요. 그때 제가 놓치고 있던 게 바로 USP였습니다. 남들이 아니라 꼭 '나'여야 하는 이유요. 직장 다니면서 FC온라인 한…",
+     "also": []
+    },
+    {
+     "id": "8efb5d1c601a",
+     "title": "고금리 시대, 내 계좌 든든하게 지켜줄 ’3가지‘ 자산ㅣ지식인초대석 EP.187 (박종훈 소장 1부)",
+     "link": "https://www.youtube.com/watch?v=vjHv7EyRmlA",
+     "source": "YouTube · 지식인사이드 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-07T10:00+09:00",
+     "preview": "오늘은 박종훈 소장님을 모시고 중금리 시대 내 자산을 지키는 포트폴리오에 대해 알아봤습니다. 영상이 유익했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요! #박종훈 #지식인사이드 #투자전략 #금리 #달러 #국채 #금 ㅡ 💰박종훈 소장님의 ‘가짜 돈 진짜 부’ 책 이벤트를 진행…",
+     "also": []
+    },
+    {
+     "id": "a32bb9aa2687",
+     "title": "미국 수출 1등 하고도 K-뷰티가 불안한 이유",
+     "link": "https://www.youtube.com/watch?v=WIPbTSbNVaE",
+     "source": "YouTube · 큰손 노희영 (트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-07T10:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "a3acea3e02b1",
+     "title": "\"바로 옆에 있어도 몰랐다\" 전설의 천재 간첩으로 본 북한 간첩의 진짜 현실 ㅣEp. 책과사람 192 (차병직 변호사)",
+     "link": "https://www.youtube.com/watch?v=6h7NfV5iSK8",
+     "source": "YouTube · 책과삶 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-07T10:00+09:00",
+     "preview": "📗일곱개의 이름: 정수일 평전 일곱개의 이름, 다섯개의 국적 그러나 책상 앞의 그는 평생 한 사람이었다. 증언과 자료를 바탕으로 인간 정수일의 삶을 조명한 걸작 논픽션 소설처럼 살다가 전설처럼 남겨진 한 인간의 이야기 교보문고: 예스24: 알라딘: 안녕하세요.\"책과삶\" 입니다. 오늘은…",
+     "also": []
+    },
+    {
+     "id": "7ec7051bf2e3",
+     "title": "학벌과 연봉이 상관없어진다? AI시대에 대학 가는 게 중요해지지 않는 이유 대토론 | BBB @CuriousBrainLab",
+     "link": "https://www.youtube.com/watch?v=tSRRRgAjxsE",
+     "source": "YouTube · 조승연의 탐구생활 (인문학)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-07T09:00+09:00",
+     "preview": "오늘은 뇌과학자 장동선 박사님과 함께 AI시대 대학교 얘기를 해봤습니다 인문학, 이공계 졸업생들의 미래 대학교 대토론! 궁그미 여러분은 어떻게 생각하세요? 채널에 가입하여 혜택을 누려보세요. 배우는 즐거움이 있는 본격 취미 탐구 라이프 채널! 조승연의 탐구생활 🕵🏻‍♂️ 조승연 inst…",
+     "also": []
+    },
+    {
+     "id": "389552e616e9",
+     "title": "\"50대 커리어?\" 이제 시작인 이유",
+     "link": "https://www.youtube.com/watch?v=kOzL_eOajPc",
+     "source": "YouTube · 폴인 fol:in (전문가 인터뷰)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-06T18:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "9247e5afdd8b",
+     "title": "🤔잘나가던 구글 주가는 어디로? 실적과 사업 심층 분석!",
+     "link": "https://www.youtube.com/watch?v=l5iP-iwNmKU",
+     "source": "YouTube · 미키피디아",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-04T18:00+09:00",
+     "preview": "최근 큰 폭으로 떨어진 구글의 주가를 보면서 구글은 진짜 위기인지 깊게 분석해 보았습니다. 0:00 인트로 1:00 실적은 어땠나 2:14 그럼 문제는? 5:04 다른 기업들은 어땠나 5:43 현금을 까먹는 구글 9:02 다른 흐름을 보인 기업들 11:54 앞으로 구글 주가는? 14:3…",
+     "also": []
+    },
+    {
+     "id": "a63897a129f5",
+     "title": "친해질수록 매력 있는 사람 특징 (with 레인보우 김재경)",
+     "link": "https://www.youtube.com/watch?v=qzeJU-bpkQk",
+     "source": "YouTube · 희렌최널 Hirenze (말 잘하는 법)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-30T22:00+09:00",
+     "preview": "나도 모르게 친한 관계에서 자주 하게 되는 실수가 있습니다. 그룹 레인보우의 리더이자 배우 김재경님께 (@jaekyung1224 ) 오래 가는 끈끈한 관계의 비결과 함께 나만의 속도로 나의 매력을 지키면서 취향을 키우는 방법까지 알아봅니다! 배우 김재경님의 책 '뜨개질하는 할머니가 되고…",
+     "also": []
+    }
+   ]
+  }
+ ],
+ "problems": []
+}
