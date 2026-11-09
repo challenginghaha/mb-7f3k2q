@@ -1,0 +1,352 @@
+{
+ "date": "2026-11-10",
+ "generated": "2026-11-10T08:11+09:00",
+ "boxes": [
+  {
+   "id": "realestate",
+   "title": "부동산",
+   "items": [
+    {
+     "id": "b19818a664c9",
+     "title": "은마 재초환 부담금 총 2조, 평균 4억6천만원…\"확정액 아냐\"",
+     "link": "https://www.yna.co.kr/view/AKR20261110023200004",
+     "source": "연합뉴스",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-10T08:04+09:00",
+     "preview": "(서울=연합뉴스) 정준영 기자 = 서울 강남구(구청장 김현기)는 최근 은마아파트 재건축정비사업조합에 통지한 1인당 평균 4억6천334만원의 재건...",
+     "also": []
+    },
+    {
+     "id": "65546fd98f01",
+     "title": "삼성전자 평택캠퍼스 배우 '평택고덕 우미린 더 프리미어' 1순위 청약",
+     "link": "https://www.hankyung.com/article/202611106318i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-10T08:01+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "4f2cabceceb1",
+     "title": "고정형 내리고 변동형 오르고…주담대 금리 역전",
+     "link": "https://biz.chosun.com/stock/stock_general/2026/11/10/MM3WEN3BMM4TSZTGGEYDQMLCHA/",
+     "source": "조선비즈",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-10T07:44+09:00",
+     "preview": "주택담보대출 변동금리가 고정금리보다 높아지는 금리 역전 현상이 은행권에서 나타나고 있다. 예금 금리 상승으로 변동형 대출의 기준인 코픽스가 오른 반면, 국채 금리 하락으로 고정형 대출의 기준이 되는 금융채 금리는 내린 영향이다. 통상 고정형 금리가 더 높게 형성되는 흐름이 뒤집히면서 대…",
+     "also": []
+    },
+    {
+     "id": "81bb0144f16b",
+     "title": "은마, 1인당 4.6억 ‘공포의 재초환’ … 압구정 국평은 한번에 15억 ‘뚝’",
+     "link": "https://www.mk.co.kr/news/realestate/12202476",
+     "source": "매일경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-10T05:30+09:00",
+     "preview": "매주 화요일, 손품 브리핑강남·서초구 아파트값이 13주 연속 내리는 사이 용인 기흥구·군포시는 상승률이 서울 평균의 8배 안팎에 달했다. 강남3구에선 일주일 새 직전 거래보다 5%..",
+     "also": []
+    },
+    {
+     "id": "dd7f1ba27052",
+     "title": "부자감세 때리던 여당 균열…부동산·증시 감세론 분출",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vOTdLekQyTXNYUTNDcDZSbmtrbFhFTGRLRFcxNjZZQTZMdGpwc2RYMW1GLVk4Z2ZrUGNVVE9vM2hxNG1LeU9tb3NHV0Y2SW5FQmJtSmZn?oc=5",
+     "source": "중앙일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-10T05:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "52c9e0344f92",
+     "title": "與, 종부세 공제액 상향 요구… 강남 집값 분위기 바꿀까",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lY1VtbUVxdjdteVh0eTIyeW1BeEsyaFlPLXU4dnJmbTQ3V2dTVHBldFdoanhjSnJDWHRLTXFEYXBTWHY0TTJIbjlQM2pPQ0o1bm44TjVlRzBrTnF6N0U1bmt3RWVfRVVYaTc1VlA2VdIBb0FVX3lxTE1lY1VtbUVxdjdteVh0eTIyeW1BeEsyaFlPLXU4dnJmbTQ3V2dTVHBldFdoanhjSnJDWHRLTXFEYXBTWHY0TTJIbjlQM2pPQ0o1bm44TjVlRzBrTnF6N0U1bmt3RWVfRVVYaTc1VlA2VQ?oc=5",
+     "source": "머니투데이",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-10T04:10+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "02a9c1ccd151",
+     "title": "[사설] 여당도 수긍하지 못하는 정부의 부동산 세제 개편",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNRTRjSnhmRkdrcG5jSTVvcXprbzRET01wSmZSdFMyV0xPZUFGY3REY3RLX0FUdlhQeEc5WTFSZndLT3FvbFdBS0U4c0JUQ0RhWm5BZ0NvUWNSVVlFOXUyeE5PR0VOczNfcVU3RlNn0gFzQVVfeXFMUFhjbzhCMGFlTVp6LVNOVGd3SlRFQ3Y4X05EZGhFQUVqelZpYUQxeGJsYmdkTElfdzR2Z0dWQWFTUk5GcDJfNGpoQnRIV2RKTVZUaXprVFE1SXBFcUJTb0NITkRGSHZxUEVnOU1xUkVBV2VGOA?oc=5",
+     "source": "한국일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-10T00:10+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "82d3ee0713a5",
+     "title": "대출 규제 막히자 집주인에게 '우르르'…강남 부동산에 대체 무슨 일이 [지금이뉴스]",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55RnU0SXhFWnNIMWhkMDlRZzloM2J0bzdNSDk1QzBWVlJRcHpHcFNlclN2U0FrdkNITkFYcG9zRWhsaV9paG1WWnpINWZCTWRTQkpic3gyYWNmTUpKRGl1M0h2UFBiN3Q3M2JpOEMySndub19Ycnc?oc=5",
+     "source": "YTN",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-09T09:02+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "stocks",
+   "title": "주식",
+   "items": [
+    {
+     "id": "ffbf3e965da6",
+     "title": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
+     "link": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
+     "source": "CNBC",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-10T08:05+09:00",
+     "preview": "The quarterly results are the first since Lucid CEO Silvio Napoli, who started leading the company in June, announced a restructuring plan.",
+     "also": [],
+     "title_ko": "Lucid는 월스트리트의 수익 기대치를 놓치고 사우디아라비아 펀드에서 대출을 확대합니다.",
+     "preview_ko": "분기별 실적은 지난 6월 회사를 이끌기 시작한 루시드 CEO 실비오 나폴리가 구조조정 계획을 발표한 이후 처음이다."
+    },
+    {
+     "id": "95cb151933f7",
+     "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
+     "link": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+     "source": "CNBC",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-10T07:55+09:00",
+     "preview": "The updates came alongside a third-quarter earnings report for the legacy Paramount Skydance.",
+     "also": [],
+     "title_ko": "Skydance는 계획된 비용 절감으로 $ 60억을 설명합니다. 상세 내역은 다음과 같습니다.",
+     "preview_ko": "이번 업데이트는 기존 Paramount Skydance의 3분기 수입 보고서와 함께 진행되었습니다."
+    },
+    {
+     "id": "4222195d091c",
+     "title": "Earnings call transcript: American Public Education tops Q3 2026 estimates",
+     "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-american-public-education-tops-q3-2026-estimates-93CH-5013639",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-10T07:55+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "수입 통화 내역: 미국 공립 교육이 2026년 3분기 예상치를 상회함"
+    },
+    {
+     "id": "6666a2b6a9c6",
+     "title": "반도체주 일제히 반등…엔비디아 홀로 4%대 급락 [뉴욕증시 브리핑]",
+     "link": "https://www.hankyung.com/article/2026111062276",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-10T07:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "75908ebb0638",
+     "title": "개미들 절규 속 나홀로 상승…코스피 폭락 버틴 뜻밖의 회사 [종목+]",
+     "link": "https://www.hankyung.com/article/2026110955146",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-10T06:30+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI 툴",
+   "items": [
+    {
+     "id": "f469998b0ebd",
+     "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+     "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+     "source": "TechCrunch AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-10T07:46+09:00",
+     "preview": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+     "also": [],
+     "title_ko": "스캔들이 일어나기 6개월 전에 공매도가 엔비디아 CEO와 중국 스파이가 연관이 있다고 신고했습니다.",
+     "preview_ko": "엔비디아의 스파이 스캔들이 터지기 6개월 전, 컬퍼 리서치는 이미 젠슨 황과 중국 간부의 이례적으로 가까운 관계에 대해 의문을 제기하고 있었다."
+    },
+    {
+     "id": "055d8b97090d",
+     "title": "A year after the 100% AI mandate nobody understands our code",
+     "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+     "source": "Hacker News",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-10T07:19+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "100% AI 의무가 시행된 지 1년이 지나면 아무도 우리의 코드를 이해하지 못합니다."
+    },
+    {
+     "id": "4a7141713ab5",
+     "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+     "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+     "source": "The Verge AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-10T04:09+09:00",
+     "preview": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an opt…",
+     "also": [],
+     "title_ko": "Apple의 $ 50 인텔리전스 사용 팩은 일부 AI 기능에 대한 액세스를 확장합니다",
+     "preview_ko": "Apple Intelligence 기능의 사용 한도를 설명하는 지원 기사를 9월 초에 게시한 후, Logic Pro에 OPT를 업데이트했습니다..."
+    },
+    {
+     "id": "9c331579e229",
+     "title": "ChatGPT Enterprise now available in AWS Marketplace",
+     "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+     "source": "OpenAI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-10T04:00+09:00",
+     "preview": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationship…",
+     "also": [],
+     "title_ko": "이제 AWS Marketplace에서 ChatGPT Enterprise를 사용할 수 있습니다",
+     "preview_ko": "이제 AWS Marketplace를 통해 ChatGPT Enterprise를 사용할 수 있으며, 조직은 기존 AWS 구매 및 청구 관계를 통해 조달을 간소화할 수 있습니다."
+    },
+    {
+     "id": "057e22ab69c0",
+     "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+     "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+     "source": "Hugging Face",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-10T00:05+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "Nemotron-Personas-Finance-Japan: 일본의 인구 통계 및 재무 상황을 캡처하는 합성 데이터 세트"
+    }
+   ]
+  },
+  {
+   "id": "trend",
+   "title": "트렌드",
+   "items": [
+    {
+     "id": "a72f0dafb8a8",
+     "title": "넷플릭스의 경쟁자는 누구일까",
+     "link": "https://www.youtube.com/watch?v=EML-jU9u4a0",
+     "source": "YouTube · 세바시 강연 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-10T08:00+09:00",
+     "preview": "\"질문의 횟수가 곧 성과의 횟수는 아니구나\" AI가 회의록도, 기획서도, 보고서도 써주는데 왜 사람들 얼굴은 더 피곤해 보일까요? 💡 오늘 세바시45에서는, 4년 만에 다시 찾아온 리더십 어드바이저 문성후 대표와 함께 AI를 제대로 '부리는' 리더의 힘을 이야기합니다. 🎙️ 문성후 |…",
+     "also": []
+    },
+    {
+     "id": "8b2434584fa9",
+     "title": "미국 선거가 불러온 뜻밖의 악재, 앞으로 코스피 '이렇게' 됩니다ㅣ지식인초대석 EP.189 (김효진 박사 1부)",
+     "link": "https://www.youtube.com/watch?v=xXPFM_PAnFk",
+     "source": "YouTube · 지식인사이드 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-09T22:30+09:00",
+     "preview": "오늘은 김효진 박사님을 모시고 미국 중산선거에 따른 세계 경제의 향방에 대해 알아봤습니다. 영상이 유익했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요! #김효진 #지식인사이드 #트럼프 #미국 #채권 #주식 #삼전닉스 ㅡ 00:00 인트로 00:24 구독자 인사 01:34 ‘…",
+     "also": []
+    },
+    {
+     "id": "3e2b55bb15d6",
+     "title": "1초 만에 후킹하는 법 🔥",
+     "link": "https://www.youtube.com/watch?v=m0seo7LnwR8",
+     "source": "YouTube · 주언규 (재테크)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-09T18:16+09:00",
+     "preview": "영상은 첫 1초에서 승부가 납니다. 비주얼, 사운드, 텍스트 후킹 이 세 가지를 같이 쓸수록 시청자가 영상을 끝까지 봐요. 근데 후킹만 잘한다고 전부는 아니죠. 결국 목표는 유튜브를 잘하는 것! 나에게 맞는 방법이 궁금하다면 프로필 링크에서 확인해보세요 🙋🏻 #후킹 #쇼츠 #숏폼 #유튜…",
+     "also": []
+    },
+    {
+     "id": "d43c9bce3dd3",
+     "title": "한국인이 유독 비교에 집착할 수밖에 없는 진짜 이유 ㅣEp. 책과사람 193 (김훈종 SBS PD)",
+     "link": "https://www.youtube.com/watch?v=dEKntk3NWCw",
+     "source": "YouTube · 책과삶 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-09T18:00+09:00",
+     "preview": "[파도를 타는 사람] 교보문고: 예스24: 알라딘: 안녕하세요.\"책과삶\" 입니다. 오늘은 김훈종 PD님과 함께 2030이 더 쉽게 무너지는 이유에 대해 알아봤습니다. 세상의 모든 감동과 지식을 전합니다. 구독과 좋아요 꾸욱 눌러주시면 더욱 열심히 좋은 영상으로 보답하겠습니다. 00:00…",
+     "also": []
+    },
+    {
+     "id": "4766c04a1f9a",
+     "title": "벼랑 끝 간절함으로 만든 에이전트 조직이 회사 살렸다 (송인혁 유니크굿컴퍼니 대표)",
+     "link": "https://www.youtube.com/watch?v=6RVgHIAmx9Y",
+     "source": "YouTube · 티타임즈TV (회사 트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-09T18:00+09:00",
+     "preview": "한때 58명이 일하던 체험 콘텐츠 회사 유니크굿컴퍼니는 직원이 늘어날 수록 오히려 적자가 증가하는 굴레 속에서 20억원의 적자를 떠안게 됐습니다. CEO의 솔직한 고백 후, 직원 80%가 퇴사하는 사태가 벌어졌고, 결국 12명 만이 남게 됐습니다. 개발팀도 디자인팀도 전원 퇴사한 상황에…",
+     "also": []
+    },
+    {
+     "id": "0595288f62ec",
+     "title": "드라마 보다가 화장품까지 사게 되는 이유",
+     "link": "https://www.youtube.com/watch?v=zZ-RZjjklBU",
+     "source": "YouTube · 큰손 노희영 (트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-09T11:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "5853206d69c8",
+     "title": "🏃30-40대 부터 시작해야 하는 커리어 2막 준비. 이젠 2막은 필수인 시대입니다!",
+     "link": "https://www.youtube.com/watch?v=0Vvs1q-N8OY",
+     "source": "YouTube · 미키피디아",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-08T12:00+09:00",
+     "preview": "행복한 인생을 오랫동안 살기 위해 꼭 필요하다고 생각하는 커리어 2막과 2막 준비법에 대해 정리해 보았습니다. ⚠️영상에는 [비즈니스북스]의 유료 프로모션이 포함되어 있습니다. 📖 《시추에이티드》 | 앤절라 더크워스 “그냥 더 열심히 하라는 말에 지친 이들이 딱 한 권만 읽는다면 바로…",
+     "also": []
+    },
+    {
+     "id": "a7fe786beec6",
+     "title": "퇴사 유발자, 만나는 사람마다 퇴사?",
+     "link": "https://www.youtube.com/watch?v=1NIkcnuazpM",
+     "source": "YouTube · 폴인 fol:in (전문가 인터뷰)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-08T10:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "7ec7051bf2e3",
+     "title": "학벌과 연봉이 상관없어진다? AI시대에 대학 가는 게 중요해지지 않는 이유 대토론 | BBB @CuriousBrainLab",
+     "link": "https://www.youtube.com/watch?v=tSRRRgAjxsE",
+     "source": "YouTube · 조승연의 탐구생활 (인문학)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-07T09:00+09:00",
+     "preview": "오늘은 뇌과학자 장동선 박사님과 함께 AI시대 대학교 얘기를 해봤습니다 인문학, 이공계 졸업생들의 미래 대학교 대토론! 궁그미 여러분은 어떻게 생각하세요? 채널에 가입하여 혜택을 누려보세요. 배우는 즐거움이 있는 본격 취미 탐구 라이프 채널! 조승연의 탐구생활 🕵🏻‍♂️ 조승연 inst…",
+     "also": []
+    },
+    {
+     "id": "a63897a129f5",
+     "title": "친해질수록 매력 있는 사람 특징 (with 레인보우 김재경)",
+     "link": "https://www.youtube.com/watch?v=qzeJU-bpkQk",
+     "source": "YouTube · 희렌최널 Hirenze (말 잘하는 법)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-10-30T22:00+09:00",
+     "preview": "나도 모르게 친한 관계에서 자주 하게 되는 실수가 있습니다. 그룹 레인보우의 리더이자 배우 김재경님께 (@jaekyung1224 ) 오래 가는 끈끈한 관계의 비결과 함께 나만의 속도로 나의 매력을 지키면서 취향을 키우는 방법까지 알아봅니다! 배우 김재경님의 책 '뜨개질하는 할머니가 되고…",
+     "also": []
+    }
+   ]
+  }
+ ],
+ "problems": []
+}
