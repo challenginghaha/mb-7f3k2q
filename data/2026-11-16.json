@@ -1,0 +1,351 @@
+{
+ "date": "2026-11-16",
+ "generated": "2026-11-16T11:19+09:00",
+ "boxes": [
+  {
+   "id": "realestate",
+   "title": "부동산",
+   "items": [
+    {
+     "id": "ca16757732be",
+     "title": "이도에스테이트, 애비슨영과 맞손… 상업용 부동산 시장 본격 공략",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WM3laZlUxaElWS3N2ajRHUWxiQTNjRkhXaUVzUS1UT3dhLWdqYWVvUFBFSDA5eW10YUpQeXFacGUwbWMyRFA2QlZEVU5jaEZvamFkd3ZqUnhHMGJ0eDcxVmpfOWRKSlI3Y2fSAW9BVV95cUxOVXAyRHJ5QjFHTEh1Sk1EUjJaek52M0FQcG1vNExjMElfdUF0cmRSYl9JMTZ1Y2RkNU9ISWNveGptV28waDZCdEg5MC1ERjZwejBzTmtHaXdEVE9HQUpnbW9ySXFRM3psbzM5OFhNTms?oc=5",
+     "source": "머니투데이",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-16T11:17+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "2eb131bceeee",
+     "title": "LH, 왕숙·창릉 등 10개 블록 9065가구 민참 공모…2.5조 규모",
+     "link": "https://www.mk.co.kr/news/realestate/12209763",
+     "source": "매일경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-16T11:04+09:00",
+     "preview": "11월 왕숙2·창릉·시흥거모 등 5782가구 공모 연말까지 위례·왕숙·포천송우2 등 3283가구 추가 올해 전체 31개 블록 2만4000가구…7조4000억원 규모한국토지주택공사(L..",
+     "also": []
+    },
+    {
+     "id": "f817d4b1a895",
+     "title": "HJ중공업, 부산 ‘대신 해모로 클래시움’ 12월 분양 예정",
+     "link": "https://biz.chosun.com/industry/business_info/2026/11/16/RIZ4U55D2BDZROCBUT64KJTUF4/",
+     "source": "조선비즈",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-16T10:52+09:00",
+     "preview": "HJ중공업이 오는 12월 부산 서구 대신동에서 ‘대신 해모로 클래시움’을 분양할 예정이다. 앞서 공급한 ‘대신 해모로 센트럴’에 이어 대신동에서 두 번째로 선보이는 해모로 브랜드 단지다. 대신 해모로 클래시움은 부산 서구 서대신동3가 일원에 서대신4구역 주택재개발정비사업을 통해 조성된다…",
+     "also": []
+    },
+    {
+     "id": "93d817d0ea01",
+     "title": "호반그룹, 로봇기술 활용 화물운송·무인경비 서비스 실증",
+     "link": "https://www.yna.co.kr/view/AKR20261116046300003",
+     "source": "연합뉴스",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-16T10:10+09:00",
+     "preview": "(서울=연합뉴스) 임기창 기자 = 호반그룹은 스타트업과 협력해 공동주택과 사옥에서 로봇 기술을 활용한 미래형 주거 서비스를 실증하고 있다고 16...",
+     "also": []
+    },
+    {
+     "id": "8ce67e302ec6",
+     "title": "[마켓인]HUG 보증 AAA급 허브리츠 4곳, 공모채 2500억 발행",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01758086645646376",
+     "source": "이데일리",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-16T10:09+09:00",
+     "preview": "민간임대주택 공급 활성화를 위해 설립된 허브리츠 4곳이 총 2500억원 규모의 공모 회사채 발행에 나선다. 주택도시보증공사(HUG)의 지급보증을 바탕으로 최고 신용등급인 AAA급을 확보한 가운데, 연말 회사채 시장에서 우량채에 대한 투자 수요를 얼마나 끌어모을지 주목된다.16일 투자은행…",
+     "also": []
+    },
+    {
+     "id": "4258e7cadea8",
+     "title": "[한경 매물마당] 경기 광주 대단지 슈퍼마켓 상가 등 6건",
+     "link": "https://www.hankyung.com/article/2026111574151",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-16T09:51+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "38a10d3993ca",
+     "title": "[단독] 앤트로픽 IPO, 중국·홍콩 기관투자자 청약 배제｜Global Money Club",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zT3Q2QXktcWItcG00aTFORzFwMUNvTDZ1NW5mRTlMdENaWGdDaWFlTmlkWmFQSHRvdXRnVFZUMllzQ0xqS3FHZUdmaElkWkc5d2FWNF9GTGJSR0k?oc=5",
+     "source": "중앙일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-16T07:49+09:00",
+     "preview": "",
+     "also": [
+      {
+       "source": "조선비즈",
+       "title": "앤트로픽 IPO에 中 자본 제동… “중국·홍콩 기관투자자 청약 배제”",
+       "link": "https://biz.chosun.com/it-science/ict/2026/11/16/6C3DU53DHVDBHKGSXPIIKVP6WI/"
+      }
+     ]
+    },
+    {
+     "id": "52e408867c6f",
+     "title": "정부, 전월세 매물 늘었다지만… 수도권 전세수급 여전히 '공급 부족'",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hYW9xTmJubEFnZG1YN282NF8yY0V5ODFOWFp5elNQZkVsZVRoVlh5NGE5QXhYN3BTY3EydklkSEVxS2piYUlieHE0VFpyaFBOaVNUREFGbkpXVDVVcjBBcnBDV2o0UG11S1ZCU1FB0gFzQVVfeXFMTVFwZUZoSXdUTklXNTNCb3IxM0dRZDhyOWVaaFNqcDBlYjVlZFZwMlV0SlBhNEZPd3VzTUJ0NDJOX2k3Q2NpS0U4a1FKT0YwZFNJYTRwMHAzR0RtT0UwOFYtMng5a2dKWGY0M2pXZjRzdnl3dw?oc=5",
+     "source": "한국일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-15T15:00+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "stocks",
+   "title": "주식",
+   "items": [
+    {
+     "id": "1822d018c565",
+     "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+     "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+     "source": "CNBC",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-16T11:14+09:00",
+     "preview": "The investment slump deepened and retail sales again lagged industrial output, with the property market downturn eroding household wealth for a fifth year.",
+     "also": [],
+     "title_ko": "중국의 경기 침체가 10월에 심화되며 산업 생산, 소매 판매, 투자 실적이 예상치를 하회함"
+    },
+    {
+     "id": "1011ee2873f4",
+     "title": "+24%, +16%, +14%: our AI called these stocks and they surged in just two weeks",
+     "link": "https://www.investing.com/news/stock-market-news/24-16-14-our-ai-called-these-stocks-and-they-surged-in-just-two-weeks-5028311",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-16T11:01+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "+24%, +16%, +14%: 당사의 AI가 이 주식을 예측했고, 이 주식은 단 2주 만에 급등했습니다."
+    },
+    {
+     "id": "e2ae411827ec",
+     "title": "Nvidia results, Anthropic IPO pose tests for tumultuous AI trade",
+     "link": "https://www.investing.com/news/stock-market-news/nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade-5028310",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-16T11:00+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "엔비디아 실적, 앤트로픽 IPO가 AI 거래의 격변을 시험대에 올리다"
+    },
+    {
+     "id": "9c5f860a8d40",
+     "title": "에스에프씨, 올해 두 번째 코스피 IPO 도전…유캐스트는 5G 특화망 승부수",
+     "link": "https://www.hankyung.com/article/202611134631i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-16T09:30+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "cf92084e9925",
+     "title": "[마켓라이브] 외국인·기관 매도에 코스피 강보합…삼성SDI·태양광주 강세",
+     "link": "https://www.hankyung.com/article/202611168242i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-16T09:18+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI 툴",
+   "items": [
+    {
+     "id": "f7214e14d1e1",
+     "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+     "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+     "source": "The Verge AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-16T10:47+09:00",
+     "preview": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses a…",
+     "also": [],
+     "title_ko": "Apple의 새로운 연구는 AI 건강 도구의 효과를 개선하는 것을 목표로 합니다."
+    },
+    {
+     "id": "a58bd1a86d99",
+     "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+     "link": "https://www.hntrends.com/2026/november.html",
+     "source": "Hacker News",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-16T10:31+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "\"어디에서 채용 중인가요?\" AI가 모든 일자리의 절반에 도달하면서 채용 공고가 12년 만에 최저 수준에 머물고 있습니다."
+    },
+    {
+     "id": "77828770ffb5",
+     "title": "Apple launches new app to study how people use AI for health",
+     "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+     "source": "TechCrunch AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-16T10:30+09:00",
+     "preview": "Apple's new app for a study will answer everyday medical questions",
+     "also": [],
+     "title_ko": "Apple, 사람들이 건강을 위해 AI를 사용하는 방법을 연구하기 위한 새로운 앱 출시"
+    },
+    {
+     "id": "67eb98ac1cd8",
+     "title": "datasette 1.0a43",
+     "link": "https://simonwillison.net/2026/Nov/15/datasette/",
+     "source": "Simon Willison",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-16T08:20+09:00",
+     "preview": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 i…",
+     "also": []
+    },
+    {
+     "id": "87d7014c15ee",
+     "title": "A step toward defining the Standard Model on a lattice",
+     "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+     "source": "OpenAI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-16T07:00+09:00",
+     "preview": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "trend",
+   "title": "트렌드",
+   "items": [
+    {
+     "id": "9b2417899e17",
+     "title": "강아지에게는 가치를 증명하라고 하지 않잖아요 #자존감 #자기가치 #심리학",
+     "link": "https://www.youtube.com/watch?v=JvMna9cs5XE",
+     "source": "YouTube · 세바시 강연 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-16T05:00+09:00",
+     "preview": "일을 못하면 못난 사람이라고 믿으며 평생 제 가치를 증명해 온 심리상담가 이혜진입니다. 아무 일을 안 해도 무한히 사랑받는 강아지에 빗대어, 존재의 가치는 증명할 필요가 없다는 이야기를 전합니다. 이혜진 | 잇셀프컴퍼니 공동대표, 심리상담가 | 세바시 2159회 ❊ 이 강연회는 온라인여…",
+     "also": []
+    },
+    {
+     "id": "6809c8c9c67a",
+     "title": "유튜브와 리얼리티, 성공 공식은 같다?",
+     "link": "https://www.youtube.com/watch?v=8sh8iTbMw6s",
+     "source": "YouTube · 폴인 fol:in (전문가 인터뷰)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-15T18:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "3811e987f850",
+     "title": "잠수 타는 사람 특징",
+     "link": "https://www.youtube.com/watch?v=FEmwAKy9FJo",
+     "source": "YouTube · 주언규 (재테크)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-15T17:04+09:00",
+     "preview": "잠수 타는 사람 특징",
+     "also": []
+    },
+    {
+     "id": "ce5443a1f381",
+     "title": "💍 커리어, 관계, 인생, 육아 모두 부부가 함께 성장하는 방법 | 22년 차 부부 스토리",
+     "link": "https://www.youtube.com/watch?v=sYHg34qOvyk",
+     "source": "YouTube · 미키피디아",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-15T12:00+09:00",
+     "preview": "두번째로 출연하는 아내와 함께 부부가 함께 성장하는 법에 대해 이야기해봤습니다! ⚠️이 영상에는 [오우라링]의 유료 프로모션이 포함되어 있습니다. ⭐️오우라링5 세계 최초 블랙프라이데이 오픈!⭐️ 11/20(금)~11/30(월) 단 11일 동안 진행된다고 하니 런칭 이후 고민하셨던 분들…",
+     "also": []
+    },
+    {
+     "id": "4320cc1b5081",
+     "title": "1등 커피",
+     "link": "https://www.youtube.com/watch?v=QUnRFhX_XWM",
+     "source": "YouTube · 큰손 노희영 (트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-15T11:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "ef0b179888b0",
+     "title": "프랑스와 독일을 무너뜨린 유럽의 치명적인 고질병 '1가지'ㅣ지식인초대석 EP.190 (최준영 박사)",
+     "link": "https://www.youtube.com/watch?v=sVxE3yA5G3A",
+     "source": "YouTube · 지식인사이드 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-15T10:00+09:00",
+     "preview": "오늘은 최준영 박사님을 모시고 최근 유럽 전역에서 벌어지는 시위와 유럽의 경제 위기에 대해 알아봤습니다. 영상이 유익했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요! #최준영 #지식인사이드 #유럽 #프랑스 #독일 #영국 #시위 #브렉시트 ㅡ 00:00 인트로 02:29 프랑…",
+     "also": []
+    },
+    {
+     "id": "5d167e50b6f1",
+     "title": "\"살 쉽게 빠져 짜증난다\" 운동, 식단 말고 몸 속 지방 싹 태우는 법ㅣEp. 책과사람 197 (장형우 교수 1부)",
+     "link": "https://www.youtube.com/watch?v=EK40-DTylUc",
+     "source": "YouTube · 책과삶 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-15T10:00+09:00",
+     "preview": "안녕하세요.\"책과삶\" 입니다. 오늘은 장형우 교수님과 비만과 다이어트에 대해 알아봤습니다. 세상의 모든 감동과 지식을 전합니다. 구독과 좋아요 꾸욱 눌러주시면 더욱 열심히 좋은 영상으로 보답하겠습니다. 📖 장형우 교수님 저서 「비만록-나는 마운자로를 맞는 의사다」 - 교보문고 : - 예…",
+     "also": []
+    },
+    {
+     "id": "32dc6d5bd3c7",
+     "title": "물 끊기고, 짓지도 않은 데이터센터 전기요금까지 내야하는 주민들의 고민",
+     "link": "https://www.youtube.com/watch?v=AC9_A_hhy10",
+     "source": "YouTube · 티타임즈TV (회사 트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-15T07:00+09:00",
+     "preview": "미국 중간선거와 함께 치러진 41건의 데이터센터 관련 주민투표에서 40건이 데이터센터에 불리한 쪽으로 결론 났습니다. 대부분 작은 지역의 투표였지만, 민주당 압승과 맞물리며 AI 관련주가 일제히 흔들렸고 코스피까지 영향을 받았죠. 데이터센터가 가장 많은 버지니아에서조차 찬성 여론이 크게…",
+     "also": []
+    },
+    {
+     "id": "6947fc6b5145",
+     "title": "무기력? 절망? 밀턴의 [실낙원]으로 보는 삶에 의욕이 없을 때 필요한 것들",
+     "link": "https://www.youtube.com/watch?v=y6BNpHjg0ms",
+     "source": "YouTube · 조승연의 탐구생활 (인문학)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-14T09:00+09:00",
+     "preview": "오늘은 영문학의 양대 산맥 중 하나인 존 밀턴의 ‘실낙원’을 같이 읽어 보며 삶에 의욕이 없더라도 살아가야 하는 이유를 생각해 보았습니다 채널에 가입하여 혜택을 누려보세요. 배우는 즐거움이 있는 본격 취미 탐구 라이프 채널! 조승연의 탐구생활 🕵🏻‍♂️ 조승연 insta / totali…",
+     "also": []
+    },
+    {
+     "id": "d5500d1821ba",
+     "title": "상대에게 맞춰주지 않아도 인기 많은 사람 특징 TOP3",
+     "link": "https://www.youtube.com/watch?v=-neuFGS0jjI",
+     "source": "YouTube · 희렌최널 Hirenze (말 잘하는 법)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-13T22:00+09:00",
+     "preview": "안 맞는다고 느꼈던 사람, 사실은 만나는 이유가 달랐던 걸지도 몰라요. 상대에게 다 맞춰주지 않는데도 이상하게 인기 많은 사람들의 공통점 3가지 애덤 그랜트 신간 《바이브》와 함께 알아봅니다. 애덤 그랜트 『바이브』 📌 이런 분들께 추천합니다 다 맞춰주는데 이상하게 관계가 안 깊어지는…",
+     "also": []
+    }
+   ]
+  }
+ ],
+ "problems": []
+}
