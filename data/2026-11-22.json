@@ -1,0 +1,352 @@
+{
+ "date": "2026-11-22",
+ "generated": "2026-11-22T11:30+09:00",
+ "boxes": [
+  {
+   "id": "realestate",
+   "title": "부동산",
+   "items": [
+    {
+     "id": "614655ecbf3d",
+     "title": "서울 옥인동에 140억원 투입…주차장·돌봄시설 확충",
+     "link": "https://www.hankyung.com/article/202611221938i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-22T11:15+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "1d5622607a1c",
+     "title": "인왕산 자락 서울 옥인동 공영주차장 등 주택기반시설 확충",
+     "link": "https://www.yna.co.kr/view/AKR20261122014300004",
+     "source": "연합뉴스",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-22T11:15+09:00",
+     "preview": "(서울=연합뉴스) 김동규 기자 = 서울시 종로구 옥인동 인왕산 자락 노후 저층 주거지에 공영주차장과 어린이 돌봄시설, 노인복지시설 등이 설치된다...",
+     "also": []
+    },
+    {
+     "id": "76f4c82e96ba",
+     "title": "“나만 빼고 다들 돈 벌었던 거야?”…서울 ‘내 집 마련 기간’ 2년 빨라진 이유가",
+     "link": "https://www.mk.co.kr/news/economy/12215444",
+     "source": "매일경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-22T11:07+09:00",
+     "preview": "서울 집값은 오르는데 내 집 마련에 필요한 기간은 오히려 2년 줄었다는 통계조사가 나왔다. 지난해 서울 자가가구의 소득 대비 주택가격 비율(PIR)이 전년보다 크게 낮아졌다는 정부..",
+     "also": []
+    },
+    {
+     "id": "09933502e747",
+     "title": "삼성물산, 한양건설 아파트에 '홈닉' 적용…분양계약 때부터 쓴다",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxT0Npbkc2LTAyTUVTQ0E0S1NwT2hyQ1Y5WUdHMjlybmxKckx4NnpUOVJaODJ5WXN6Q1hGMDVJejdQdV9EWkNhUWNOT0JrRlo1QlZHVGFva25LU3N5X2dVTFJuMWV6eXFwV1HSAW9BVV95cUxNVUwzRjBpR2NTVkgwaFJtbncxWFZsVG1QQnF4LXc3Wll1RWRSQWlmcUdZeFliZTlKay0xOUFsVXh3ekxJeklYMUhhT2twd0YzeUJMOUVZdi1mMG9ub2xnZDc5Ym00MVN4X0xmU3NwWGc?oc=5",
+     "source": "머니투데이",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-22T10:54+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "0e91fa7fc27a",
+     "title": "삼성물산, 한양건설 ‘립스’에 홈닉 공급… 입주 전후 주거서비스 연계",
+     "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/22/NHM7VTC2I5CBDI6HIRAXQVESTE/",
+     "source": "조선비즈",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-22T09:25+09:00",
+     "preview": "삼성물산 건설부문의 주거서비스 플랫폼 ‘홈닉(Homeniq)’이 한양건설 아파트 브랜드 ‘립스(LEEPS)’에 적용된다. 입주 예정 단계부터 입주 이후 스마트홈 관리까지 하나의 앱으로 이용할 수 있도록 서비스를 연계한다. 삼성물산 건설부문은 지난 20일 서울 송파구 한양건설 서울사무소에…",
+     "also": []
+    },
+    {
+     "id": "9f8f7c872ac4",
+     "title": "전세 사기 걱정되면 '안심부동산' 스티커 확인...온라인서도 가능",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSaXdfX1ZfUmlQMTUwaGtrbzlsT2FpSTMtbVZuSEVBWWdXeUlJU2ZydTc5YTNncVk4QUF1czMyMHMzbkF0Wm9RMnJyRTZITk0wUm13a3FxRW9aOXBQSHRVdXFBb1Y4QU1jWXdqLUFn0gFzQVVfeXFMTzFXYkVzWnpBQi00TXhOQmN6a0lYRWQyVWNpQVBKZm9hWWVmdm12OC1RSzN4cVpsRW9xWGtUY2lvWXBIY2ZDWE5oSU1sRER2ZnU3MjA0SW1rV2hCbE1NdXA3OEI3RTI3SDNuYUtBa1JtMExiTQ?oc=5",
+     "source": "한국일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-22T09:01+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "3a3bab7f8327",
+     "title": "반도체 호황에 성장률 전망 상향…한은, 금리도 올릴까[한은 미리보기]",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01249686645648016",
+     "source": "이데일리",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-21T06:00+09:00",
+     "preview": "반도체 호황으로 한국 경제의 성장률 전망이 잇따라 높아지는 가운데 한국은행이 다음 주 올해 마지막 기준금리를 결정한다. 시장에서는 추가 금리 인상 전망이 우세하지만 최근 주식시장 조정과 민간소비 둔화는 변수로 꼽힌다. 같은 날 발표되는 수정 경제전망에서 성장률과 물가 전망이 얼마나 높아…",
+     "also": []
+    },
+    {
+     "id": "ca6da3ee409a",
+     "title": "내년 공시가 현실화율 69%…2023년 이후 5년 연속 동결",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12UTlpRGpLQk9kT0dCVTlTRUtWeWExVktmY3MyazhGVlluRWItd1c2S2l5bjR2UkMyMm14Y0p1OHVDRVl4TFJZNVdfRExKYWZVT1IzTUlB?oc=5",
+     "source": "중앙일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-21T01:10+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "stocks",
+   "title": "주식",
+   "items": [
+    {
+     "id": "c20725341b6e",
+     "title": "Wabtec evp operations Gregory Sbrocco sells $280,782 in shares",
+     "link": "https://www.investing.com/news/insider-trading-news/wabtec-evp-operations-gregory-sbrocco-sells-280782-in-shares-93CH-5043688",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-22T10:45+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "Wabtec EVP 운영 담당 그레고리 스브로코, 280,782달러 상당의 주식 매도"
+    },
+    {
+     "id": "cc859b561be3",
+     "title": "C&F Financial evp John Seaman sells $46,800 in company shares",
+     "link": "https://www.investing.com/news/insider-trading-news/cf-financial-evp-john-seaman-sells-46800-in-company-shares-93CH-5043687",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-22T10:45+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "C&F Financial의 EVP인 John Seaman, 회사 주식 46,800달러어치 매도"
+    },
+    {
+     "id": "10530935fab6",
+     "title": "반도체 소재 승부수 던진 미쓰이화학…주가 회복할수 있을까",
+     "link": "https://www.hankyung.com/article/202611211239i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-22T09:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "1c65bb324d0c",
+     "title": "AI 불확실성 vs 美 블랙프라이데이 기대…코스피 변동성 장세 [주간전망]",
+     "link": "https://www.hankyung.com/article/2026112098626",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-22T08:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "70723a2bbabc",
+     "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+     "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-22T04:45+09:00",
+     "preview": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+     "also": [],
+     "title_ko": "‘구매자들이 유리한 조건을 요구하고 있습니다’: 주택 판매가 사상 최저치를 기록하면서 구매자들이 주도권을 쥐고 있습니다.",
+     "preview_ko": "부동산 중개인들은 사상 최고치를 기록한 주택 가격과 7%의 모기지 금리를 감수하고 시장에 남은 소수의 구매자들이 주도권을 쥐기 시작했다고 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI 툴",
+   "items": [
+    {
+     "id": "8d54d4add32f",
+     "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+     "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+     "source": "TechCrunch AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-22T06:37+09:00",
+     "preview": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+     "also": [],
+     "title_ko": "Signal, AI 감시의 '존재 위협'에 맞서 모바일 스크린샷 제한",
+     "preview_ko": "Signal은 Android 및 iOS 앱 모두에서 사용자의 스크린샷 촬영 기능을 제한하고 있습니다."
+    },
+    {
+     "id": "187dad26ad22",
+     "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+     "link": "https://tasklet.ai/careers",
+     "source": "Hacker News",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-22T06:11+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "Tasklet(YC P26)에서 제품 및 에이전트 인프라 엔지니어를 채용합니다."
+    },
+    {
+     "id": "234da3fc1867",
+     "title": "The UN fails to agree on rules regulating ‘killer robots’",
+     "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+     "source": "The Verge AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-22T05:03+09:00",
+     "preview": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"kil…",
+     "also": [],
+     "title_ko": "UN, '킬러 로봇'을 규제하는 규칙에 합의하지 못함",
+     "preview_ko": "이번 주 제네바에서 열린 유엔 외교관 회의의 안건 중 하나는 자율 무기, 이른바 '킬러 로봇'의 사용에 관한 규정을 마련하는 것이었습니다."
+    },
+    {
+     "id": "782f0adac108",
+     "title": "WaitFeed",
+     "link": "https://www.producthunt.com/products/waitfeed-2",
+     "source": "Product Hunt",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-21T05:01+09:00",
+     "preview": "Tech feed inside agent wait time Discussion | Link",
+     "also": [],
+     "title_ko": "대기 피드",
+     "preview_ko": "상담원 대기 시간 관련 기술 피드 논의 | 링크"
+    },
+    {
+     "id": "9e188d65b5ac",
+     "title": "Quoting Levent Alpöge",
+     "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+     "source": "Simon Willison",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-21T01:30+09:00",
+     "preview": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Ge…",
+     "also": [],
+     "title_ko": "레벤트 알푀게(Levent Alpöge)의 말 인용",
+     "preview_ko": "저는 클로드와 함께 리만 가설의 증명을 발견했다고 생각합니다. 사실 이 방법은 훨씬 더 확장되어 소위 게...를 해결할 수 있습니다."
+    }
+   ]
+  },
+  {
+   "id": "trend",
+   "title": "트렌드",
+   "items": [
+    {
+     "id": "615193077a67",
+     "title": "AI석학: \"27년부터 통제 불능이다.\" 인류에게 닥칠 3가지 결말 | 글로벌초대석 EP.14 『켄터키 촬영』",
+     "link": "https://www.youtube.com/watch?v=C9cUg4g30b8",
+     "source": "YouTube · 지식인사이드 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-22T10:00+09:00",
+     "preview": "오늘은 로만 얌폴스키 교수 님을 모시고 초지능 AI의 위협과 인류가 살아남기 위해 던져야 할 질문에 대해 들어봤습니다. 영상이 유익 했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요! #지식인사이드 #로만얌폴스키 #AI위협 #초지능 #인공지능 00:00 인트로 00:42 구독…",
+     "also": []
+    },
+    {
+     "id": "1f72904c2572",
+     "title": "우리나라의 도시 미관이 무너진 결정적인 계기ㅣEp. 책과사람 203 (임우진 건축가)",
+     "link": "https://www.youtube.com/watch?v=z_pjv4h1p9s",
+     "source": "YouTube · 책과삶 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-22T10:00+09:00",
+     "preview": "안녕하세요.\"책과삶\" 입니다. 오늘은 임우진 건축가님과 아파트 공화국, 용산공원 개발 문제에 대해 알아봤습니다. 세상의 모든 감동과 지식을 전합니다. 구독과 좋아요 꾸욱 눌러주시면 더욱 열심히 좋은 영상으로 보답하겠습니다. 📖 도시가 말하지 않는 것들 교보문고: 예스24: 알라딘: 00…",
+     "also": []
+    },
+    {
+     "id": "88bf4f8375bf",
+     "title": "스페이스X 우주데이터센터가 되면 삼전닉스도 간다 (이강수 컴퍼니케이 대표)",
+     "link": "https://www.youtube.com/watch?v=UB1e9uzumd4",
+     "source": "YouTube · 티타임즈TV (회사 트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-22T07:00+09:00",
+     "preview": "AI 데이터센터가 우주로 올라가면 우주에서도 전력을 안정적으로 공급하고 열을 빼내야 하며, 장비가 고장 나면 수리하거나 교체해야 합니다. 무엇보다 그 안에 들어갈 반도체는 누가 만들까요? 삼성전자와 SK하이닉스일 확률이 높습니다. 그래서 이강수 컴퍼니케이파트너스 대표는 우주 데이터센터는…",
+     "also": []
+    },
+    {
+     "id": "fb50d0f30d06",
+     "title": "좋은 보고만 올라올 때",
+     "link": "https://www.youtube.com/watch?v=ZSNr-bM_h-U",
+     "source": "YouTube · 세바시 강연 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-21T20:00+09:00",
+     "preview": "\"질문의 횟수가 곧 성과의 횟수는 아니구나\" AI가 회의록도, 기획서도, 보고서도 써주는데 왜 사람들 얼굴은 더 피곤해 보일까요? 💡 오늘 세바시45에서는, 4년 만에 다시 찾아온 리더십 어드바이저 문성후 대표와 함께 AI를 제대로 '부리는' 리더의 힘을 이야기합니다. 🎙️ 문성후 |…",
+     "also": []
+    },
+    {
+     "id": "2a313c414088",
+     "title": "요즘 자영업이 살아남을 수 있는 유일한 방법",
+     "link": "https://www.youtube.com/watch?v=-uXndSXaQDA",
+     "source": "YouTube · 주언규 (재테크)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-21T16:06+09:00",
+     "preview": "바로 앞에 같은 업종 가게가 생기면 어떻게 하시겠어요? 대부분 제일 쉬운 방법, 가격부터 내립니다. 근데 가격을 내린다는 건 적자를 본다는 얘기예요. 그 싸움은 결국 돈 많은 쪽이 이깁니다. 옆집이 절대 따라 할 수 없는 게 있습니다. ① 사장님의 진정성 있는 모습 ② 몇 년 동안 쌓아…",
+     "also": []
+    },
+    {
+     "id": "b3a78b4fa64f",
+     "title": "전원생활 6년 차가 말하는 시골 사는 이유",
+     "link": "https://www.youtube.com/watch?v=YtTFpgzdo7A",
+     "source": "YouTube · 큰손 노희영 (트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-21T14:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "871d13e62024",
+     "title": "고전 문학 [이방인]으로 보는 삶의 목표를 잃었을 때 의미를 찾는 법 | 알베르 카뮈",
+     "link": "https://www.youtube.com/watch?v=lXkgTvUnVyA",
+     "source": "YouTube · 조승연의 탐구생활 (인문학)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-21T09:00+09:00",
+     "preview": "오늘은 가장 유명한 소설 첫 문장 중 하나로 알려진 알베르 카뮈의 '이방인'을 읽어보았습니다. 고전 문학을 지금 다시 읽어보며 삶의 목표에 대해서 다시 생각해 보았습니다 채널에 가입하여 혜택을 누려보세요. 배우는 즐거움이 있는 본격 취미 탐구 라이프 채널! 조승연의 탐구생활 🕵🏻‍♂️…",
+     "also": []
+    },
+    {
+     "id": "92c2cb8bb4a8",
+     "title": "가벼워 보이는데, 이상하게 인기 많은 사람 특징 3가지",
+     "link": "https://www.youtube.com/watch?v=RyZq-7yB-xc",
+     "source": "YouTube · 희렌최널 Hirenze (말 잘하는 법)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-20T22:00+09:00",
+     "preview": "숨쉬듯 자기 비하를 하고, 심지어 회피형인데 주변 사람들이 그를 다 좋아합니다. 대체 무슨 매력일까요? 오늘은 전설의 미드 '프렌즈'속 인기 캐릭터 챈들러의 매력 분석과 그의 화법을 배워봅니다.",
+     "also": []
+    },
+    {
+     "id": "bdba57141072",
+     "title": "폴인이 말아주는 업사이드다운 챌린지📘",
+     "link": "https://www.youtube.com/watch?v=Y2jC76F0_MQ",
+     "source": "YouTube · 폴인 fol:in (전문가 인터뷰)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-18T17:00+09:00",
+     "preview": "1년에 단 한 번! 폴인 Plus 연간 구독 43% 할인✨ ❛어떤 일이 주어져도 결국 답을 찾아 해줄 내 일의 무기❜ 2027년에도 더 잘 일하고 싶은 당신을 위해 폴인이 특별한 연간 구독 혜택을 준비했어요! 폴인 Plus 연간 구독하고 43% 할인부터 인사이트북 2027, 폴인 커뮤니…",
+     "also": []
+    },
+    {
+     "id": "ce5443a1f381",
+     "title": "💍 커리어, 관계, 인생, 육아 모두 부부가 함께 성장하는 방법 | 22년 차 부부 스토리",
+     "link": "https://www.youtube.com/watch?v=sYHg34qOvyk",
+     "source": "YouTube · 미키피디아",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-15T12:00+09:00",
+     "preview": "두번째로 출연하는 아내와 함께 부부가 함께 성장하는 법에 대해 이야기해봤습니다! ⚠️이 영상에는 [오우라링]의 유료 프로모션이 포함되어 있습니다. ⭐️오우라링5 세계 최초 블랙프라이데이 오픈!⭐️ 11/20(금)~11/30(월) 단 11일 동안 진행된다고 하니 런칭 이후 고민하셨던 분들…",
+     "also": []
+    }
+   ]
+  }
+ ],
+ "problems": []
+}
