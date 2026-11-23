@@ -1,0 +1,352 @@
+{
+ "date": "2026-11-23",
+ "generated": "2026-11-23T11:58+09:00",
+ "boxes": [
+  {
+   "id": "realestate",
+   "title": "부동산",
+   "items": [
+    {
+     "id": "bf69715d2814",
+     "title": "대구 재건축·재개발 일조 기준 완화…100%서 80%로",
+     "link": "https://www.yna.co.kr/view/AKR20261123084600053",
+     "source": "연합뉴스",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-23T11:48+09:00",
+     "preview": "(대구=연합뉴스) 박세진 기자 = 대구시가 재건축·재개발 사업의 걸림돌로 작용해 온 일조 심의 기준을 완화해 주택 공급 확대에 나섰다.",
+     "also": []
+    },
+    {
+     "id": "c607d90254c6",
+     "title": "'건립 100년' 서울도서관 리모델링…내일부터 설계공모",
+     "link": "https://www.hankyung.com/article/202611233910i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-23T11:41+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "07cbcdf0d710",
+     "title": "집값 부담 커지자 개발 호재 갖춘 ‘저평가 지역’ 눈길",
+     "link": "https://www.mk.co.kr/news/realestate/12215906",
+     "source": "매일경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-23T10:53+09:00",
+     "preview": "2만5000가구 신흥 주거타운 조성 예정인 천안 성성호수공원 일대에선 두자릿수 경쟁률 DL이앤씨·포스코이앤씨 등도 지방서 분양 준비분양가 상승과 대출 규제로 내 집 마련 문턱이 높..",
+     "also": []
+    },
+    {
+     "id": "cffb9fa2e41d",
+     "title": "전월세 물가 상승 속 ‘더샵 일산센트로’ 장기민간임대 229가구 공급",
+     "link": "https://biz.chosun.com/industry/business_info/2026/11/23/EN6OLTE5OVA3FAFDSIJM2TSYJY/",
+     "source": "조선비즈",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-23T10:38+09:00",
+     "preview": "최근 전월세 물가가 오르면서 임차 가구의 주거비 부담이 커지고 있다. 서울 외곽에서도 월세 300만원대 거래 사례가 나오는 가운데, 경기 고양시에서 장기간 임대보증금 동결 조건을 적용하는 신축 민간임대아파트가 공급될 예정이다. 국가데이터처 국가통계포털(KOSIS)에 따르면 올해 10월…",
+     "also": []
+    },
+    {
+     "id": "ee6a776114dd",
+     "title": "\"전세 매물 늘었는데 왜 이래\" 집값 주춤해도 전셋값은 오른다",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DVFdpZm0zMG9Ma3BlR2JFQlJ6eUt3QlViMHg2a2cwYU4wcEpabi10RnVzbWdqZllyUy12QnZPWlpDVGJVVUJWUTF2cHRZNEctdHg3d1phYVEzSTVFbmxnbmhYTVZ1RUxmYmfSAW9BVV95cUxNcXRRZGZsaXR4eVBLdXdIQUl2bTQxMFJ6SVh6UmduNGRuSER1YkE0LUxGbVZMOFQ5U1V3UjNXelRZdkJMeWcwYmF1NmdXOU1mQmN5d1F5bVNmdnNmRzB3MEgzeEkwSFNFMUN5SXNQdk0?oc=5",
+     "source": "머니투데이",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-23T10:34+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "58a910372263",
+     "title": "집 가진 1인 가구 역대 최대…주택 부자 30대 1년 새 70% 급증",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kby10ZW9iMTBZNFhGcDRzM1Z6QWFfcjQzV1hfQlRrSGYzLUFLSnNIcXlTal9lckZCQS1JNDFuTTR3S1ktbXpkV0hXUm0tZ0RsMVBxUzJlYUtYMXVXNHZweXRXWFM2aDNkU19NQUdzQXIwSW_SAXNBVV95cUxOZG8tdGVvYjEwWTRYRnA0czNWekFhX3I0M1dYX0JUa0hmMy1BS0pzSHF5U2pfZXJGQkEtSTQxbk00d0tZLW16ZFdIV1JtLWdEbDFQcVMyZWFLWDF1VzR2cHl0V1hTNmgzZFNfTUFHc0FyMElv?oc=5",
+     "source": "한국일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-22T16:18+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "5af668c28d71",
+     "title": "공시가 12억 넘는 집 가진 30대, 1년 새 70% 늘었다",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40SmpfUWNsb1lJYjRPLW5PLWVPTzFIRVJlb0tJVVhkeUtiRkhHUkhWaTF3SGZjTE81MWp0VVZsbjJoRzc3QVdRek9MNzAwZU9jN0FVU0F3?oc=5",
+     "source": "중앙일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-22T14:13+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "3a3bab7f8327",
+     "title": "반도체 호황에 성장률 전망 상향…한은, 금리도 올릴까[한은 미리보기]",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01249686645648016",
+     "source": "이데일리",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-21T06:00+09:00",
+     "preview": "반도체 호황으로 한국 경제의 성장률 전망이 잇따라 높아지는 가운데 한국은행이 다음 주 올해 마지막 기준금리를 결정한다. 시장에서는 추가 금리 인상 전망이 우세하지만 최근 주식시장 조정과 민간소비 둔화는 변수로 꼽힌다. 같은 날 발표되는 수정 경제전망에서 성장률과 물가 전망이 얼마나 높아…",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "stocks",
+   "title": "주식",
+   "items": [
+    {
+     "id": "be824d35f3bd",
+     "title": "Exclusive-Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
+     "link": "https://www.investing.com/news/stock-market-news/exclusivelike-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-5043898",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-23T11:42+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "독점 - SpaceX와 마찬가지로 Anthropic은 이례적인 IPO 절차를 진행하여 일부 은행가들의 반발을 샀습니다."
+    },
+    {
+     "id": "f5a3bebbad2a",
+     "title": "Earnings call transcript: Zepp Health posts mixed Q3 2026 results as stock falls",
+     "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-zepp-health-posts-mixed-q3-2026-results-as-stock-falls-93CH-5044238",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-23T11:18+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "실적 발표 컨퍼런스 콜 녹취록: Zepp Health, 주가 하락 속 2026년 3분기 실적은 엇갈려"
+    },
+    {
+     "id": "dfe95e026beb",
+     "title": "코스피, 장중 3%대 하락 흐름…코스닥은 연중 최저치 추락",
+     "link": "https://www.hankyung.com/article/2026112337206",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-23T11:03+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "8d1328429385",
+     "title": "증시 무너져도 끄떡없네…미국서 대박 나더니 '급등'",
+     "link": "https://www.hankyung.com/article/202611233655i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-23T10:39+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "7c73b0120f69",
+     "title": "3 big things we're watching in the market this Thanksgiving week",
+     "link": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html",
+     "source": "CNBC",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-23T09:42+09:00",
+     "preview": "Can the AI trade rebound? Plus, a big week for retail activity and Fed policy discussion.",
+     "also": [],
+     "title_ko": "이번 추수감사절 주에 시장에서 주목하고 있는 3가지 주요 사항",
+     "preview_ko": "AI 관련 주식이 반등할 수 있을까요? 또한, 소매 활동과 연준 정책 논의에 있어 중요한 한 주입니다."
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI 툴",
+   "items": [
+    {
+     "id": "e7090200216e",
+     "title": "We haven’t seen the last of the major tech outages",
+     "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+     "source": "The Verge AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-23T11:41+09:00",
+     "preview": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking out…",
+     "also": [],
+     "title_ko": "아직 주요 기술 서비스 중단 사태가 끝난 것이 아닙니다.",
+     "preview_ko": "지난주쯤에 미국 전역에서 FAA 지상 정지, 여러 회사 전체의 업무를 중단시킨 며칠간의 Outlook 서비스 중단, 은행 서비스 중단 등이 있었습니다."
+    },
+    {
+     "id": "04504f1c4726",
+     "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+     "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+     "source": "TechCrunch AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-23T10:25+09:00",
+     "preview": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+     "also": [],
+     "title_ko": "Notable Capital, GIC, Baillie Gifford가 IPO 전에 Anthropic에 대규모 투자를 한 방법",
+     "preview_ko": "세 명의 주요 후원자가 Anthropic에 수십억 달러를 투자하게 된 이유를 이야기합니다."
+    },
+    {
+     "id": "d7b15f2f905f",
+     "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+     "link": "https://0rwx.com/",
+     "source": "Hacker News",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-23T08:53+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "0rwx – Unix 권한에서 영감을 얻은 간단한 AI 사용 모델"
+    },
+    {
+     "id": "de5cd1a6d51d",
+     "title": "Perplexity and Intelligence",
+     "link": "https://openai.com/index/perplexity-and-intelligence",
+     "source": "OpenAI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-22T09:00+09:00",
+     "preview": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+     "also": [],
+     "title_ko": "퍼플렉시티와 지능",
+     "preview_ko": "퍼플렉시티가 AI 모델의 발전을 어떻게 측정하는지, 그리고 퍼플렉시티가 개발자들이 새로운 기능을 평가하는 데 있어 공통적인 접근 방식을 정립하는 데 어떻게 도움이 될 수 있는지 알아보세요."
+    },
+    {
+     "id": "aa247165c663",
+     "title": "oovi",
+     "link": "https://www.producthunt.com/products/oovi",
+     "source": "Product Hunt",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-22T05:02+09:00",
+     "preview": "Your own team of AI on your desktop Discussion | Link",
+     "also": [],
+     "title_ko": "오오비(oovi)",
+     "preview_ko": "데스크톱에서 나만의 AI 팀 활용하기 토론 | 링크"
+    }
+   ]
+  },
+  {
+   "id": "trend",
+   "title": "트렌드",
+   "items": [
+    {
+     "id": "a752473c7ec7",
+     "title": "[LIVE] 2026 세바시 진로콘서트 | 이준석 테크볼 국가대표, 최영태 넥서스 대표",
+     "link": "https://www.youtube.com/watch?v=tLYq_XL1nl4",
+     "source": "YouTube · 세바시 강연 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-23T08:38+09:00",
+     "preview": "2026 세바시 진로콘서트 – 아직 열지 않은 문 너머의 나를 보다 한 해의 끝, 불안과 기대가 교차하는 지금. \"나는 정말 해볼 만큼 해봤을까?\" 그 질문에 두 명의 강연자가 진심을 담아 답합니다. 이준석 선수(대한민국 테크볼 국가대표) : 실패가 두려워 '가능성' 뒤에 숨었던 축구선…",
+     "also": []
+    },
+    {
+     "id": "690ce4ed0fd5",
+     "title": "부자되면 돈 안써도 행복한 이유",
+     "link": "https://www.youtube.com/watch?v=oHJI5MciZHU",
+     "source": "YouTube · 주언규 (재테크)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-22T22:00+09:00",
+     "preview": "부자되면 돈 안써도 행복한 이유 돈의 진짜 힘은요 아무런 허락이 필요가 없어진다는 거예요 거절할 수 있고 남의 눈을 신경 쓸 필요가 없어집니다 돈으로 행복을 살 수 있나요? 아, 그건 안 돼요 자유, 선택지, 통제권 이런 건 바로 생겨요 뭘 사야지 생기는 것도 아니에요 이거는 돈이 생기…",
+     "also": []
+    },
+    {
+     "id": "8df9b0c3f76f",
+     "title": "70년 된 의자가 새 가구보다 비싼 이유",
+     "link": "https://www.youtube.com/watch?v=9vDvdqurb5s",
+     "source": "YouTube · 큰손 노희영 (트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-22T14:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "e8aa49cdec54",
+     "title": "📖꼭 알아야 할 금리와 채권 필수 지식 완벽 정리! (하락장 대비에도 필요)",
+     "link": "https://www.youtube.com/watch?v=U-nntaIe2eE",
+     "source": "YouTube · 미키피디아",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-22T12:00+09:00",
+     "preview": "알듯 모를듯 하지만 꼭 알아야 하는 금리와 채권에 대해 이야기해봤습니다! ⚠️이 영상에는 [하나자산운용]의 유료 프로모션이 포함되어 있습니다. 🎉1Q 미국대표지수 4종 연말 매수 이벤트(~12/31) 👉 0:00 인트로 0:31 기본 개념과 미국채 8:21 기준금리 vs 실질금리 10:…",
+     "also": []
+    },
+    {
+     "id": "615193077a67",
+     "title": "AI석학: \"27년부터 통제 불능이다.\" 인류에게 닥칠 3가지 결말 | 글로벌초대석 EP.14 『켄터키 촬영』",
+     "link": "https://www.youtube.com/watch?v=C9cUg4g30b8",
+     "source": "YouTube · 지식인사이드 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-22T10:00+09:00",
+     "preview": "오늘은 로만 얌폴스키 교수 님을 모시고 초지능 AI의 위협과 인류가 살아남기 위해 던져야 할 질문에 대해 들어봤습니다. 영상이 유익 했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요! #지식인사이드 #로만얌폴스키 #AI위협 #초지능 #인공지능 00:00 인트로 00:42 구독…",
+     "also": []
+    },
+    {
+     "id": "1f72904c2572",
+     "title": "우리나라의 도시 미관이 무너진 결정적인 계기ㅣEp. 책과사람 203 (임우진 건축가)",
+     "link": "https://www.youtube.com/watch?v=z_pjv4h1p9s",
+     "source": "YouTube · 책과삶 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-22T10:00+09:00",
+     "preview": "안녕하세요.\"책과삶\" 입니다. 오늘은 임우진 건축가님과 아파트 공화국, 용산공원 개발 문제에 대해 알아봤습니다. 세상의 모든 감동과 지식을 전합니다. 구독과 좋아요 꾸욱 눌러주시면 더욱 열심히 좋은 영상으로 보답하겠습니다. 📖 도시가 말하지 않는 것들 교보문고: 예스24: 알라딘: 00…",
+     "also": []
+    },
+    {
+     "id": "88bf4f8375bf",
+     "title": "스페이스X 우주데이터센터가 되면 삼전닉스도 간다 (이강수 컴퍼니케이 대표)",
+     "link": "https://www.youtube.com/watch?v=UB1e9uzumd4",
+     "source": "YouTube · 티타임즈TV (회사 트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-22T07:00+09:00",
+     "preview": "AI 데이터센터가 우주로 올라가면 우주에서도 전력을 안정적으로 공급하고 열을 빼내야 하며, 장비가 고장 나면 수리하거나 교체해야 합니다. 무엇보다 그 안에 들어갈 반도체는 누가 만들까요? 삼성전자와 SK하이닉스일 확률이 높습니다. 그래서 이강수 컴퍼니케이파트너스 대표는 우주 데이터센터는…",
+     "also": []
+    },
+    {
+     "id": "871d13e62024",
+     "title": "고전 문학 [이방인]으로 보는 삶의 목표를 잃었을 때 의미를 찾는 법 | 알베르 카뮈",
+     "link": "https://www.youtube.com/watch?v=lXkgTvUnVyA",
+     "source": "YouTube · 조승연의 탐구생활 (인문학)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-21T09:00+09:00",
+     "preview": "오늘은 가장 유명한 소설 첫 문장 중 하나로 알려진 알베르 카뮈의 '이방인'을 읽어보았습니다. 고전 문학을 지금 다시 읽어보며 삶의 목표에 대해서 다시 생각해 보았습니다 채널에 가입하여 혜택을 누려보세요. 배우는 즐거움이 있는 본격 취미 탐구 라이프 채널! 조승연의 탐구생활 🕵🏻‍♂️…",
+     "also": []
+    },
+    {
+     "id": "92c2cb8bb4a8",
+     "title": "가벼워 보이는데, 이상하게 인기 많은 사람 특징 3가지",
+     "link": "https://www.youtube.com/watch?v=RyZq-7yB-xc",
+     "source": "YouTube · 희렌최널 Hirenze (말 잘하는 법)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-20T22:00+09:00",
+     "preview": "숨쉬듯 자기 비하를 하고, 심지어 회피형인데 주변 사람들이 그를 다 좋아합니다. 대체 무슨 매력일까요? 오늘은 전설의 미드 '프렌즈'속 인기 캐릭터 챈들러의 매력 분석과 그의 화법을 배워봅니다.",
+     "also": []
+    },
+    {
+     "id": "bdba57141072",
+     "title": "폴인이 말아주는 업사이드다운 챌린지📘",
+     "link": "https://www.youtube.com/watch?v=Y2jC76F0_MQ",
+     "source": "YouTube · 폴인 fol:in (전문가 인터뷰)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-18T17:00+09:00",
+     "preview": "1년에 단 한 번! 폴인 Plus 연간 구독 43% 할인✨ ❛어떤 일이 주어져도 결국 답을 찾아 해줄 내 일의 무기❜ 2027년에도 더 잘 일하고 싶은 당신을 위해 폴인이 특별한 연간 구독 혜택을 준비했어요! 폴인 Plus 연간 구독하고 43% 할인부터 인사이트북 2027, 폴인 커뮤니…",
+     "also": []
+    }
+   ]
+  }
+ ],
+ "problems": []
+}
