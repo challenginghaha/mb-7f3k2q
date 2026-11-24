@@ -1,0 +1,342 @@
+{
+ "date": "2026-11-24",
+ "generated": "2026-11-24T15:16+09:00",
+ "boxes": [
+  {
+   "id": "realestate",
+   "title": "부동산",
+   "items": [
+    {
+     "id": "7d51da8e0387",
+     "title": "오세훈, 국토장관에 조기 회동 제안…재초환 등 3대 규제 완화 촉구",
+     "link": "https://www.mk.co.kr/news/realestate/12217111",
+     "source": "매일경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-24T15:15+09:00",
+     "preview": "이주비 대출·조합원 지위 양도 제한도 완화 요구 홍 장관에 “실무협의 마무리 전에 만나자”오세훈 서울시장이 홍지선 국토교통부 장관을 만나 “실무협의가 마무리되기 전에 한 번 보자”..",
+     "also": []
+    },
+    {
+     "id": "aff351cc6e38",
+     "title": "'월세살이' 5년새 104만 가구 늘어…'비혼 동거' 17만 가구(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20261124092351002",
+     "source": "연합뉴스",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-24T15:07+09:00",
+     "preview": "(세종=연합뉴스) 안채원 송정은 기자 = 작년 전체 가구의 4분의 1은 '월세살이'를 한 것으로 나타났다.",
+     "also": []
+    },
+    {
+     "id": "b6e35edb55fc",
+     "title": "[아파트, 생활을 분양하다] 집이 답하고 로봇이 배달… 건설사 ‘사는 법’ 승부",
+     "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/24/VL2Y7EF2KNAI5CZVGCZWC2UNJQ/",
+     "source": "조선비즈",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-24T15:02+09:00",
+     "preview": "“헤이 자이.” 입주민이 부르면 집이 대답한다. 말 한마디로 조명과 냉난방을 바꾸고, 천장 센서가 사람의 움직임을 읽어 환기 시스템을 알아서 돌린다. GS건설이 지난 16일 자이 미래전략발표회에서 공개한 ‘AI 홈’이다. LG전자와 함께 개발해 2027년 하반기 분양 단지부터 적용한다.…",
+     "also": []
+    },
+    {
+     "id": "ce1e96a58d3d",
+     "title": "\"30년 다니던 길인데\"…아파트 현수막에 주민들 '부글부글' [시장톡]",
+     "link": "https://www.hankyung.com/article/2026112331746",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-24T13:30+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "9c337dab1955",
+     "title": "17만 4000가구가 결혼 없이 동거…정부 첫 집계",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02883126645649000",
+     "source": "이데일리",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-24T12:00+09:00",
+     "preview": "결혼하지 않고 연인 등과 함께 사는 비혼동거 가구가 우리나라에 17만 4000가구에 달하는 것으로 나타났다. 정부가 인구주택총조사에서 비혼동거 가구 규모를 별도로 집계한 것은 이번이 처음이다. 결혼에 대한 사회적 인식이 바뀌면서 가구 형태도 다양해지는 모습이다.'2025년 제주시 동거부…",
+     "also": []
+    },
+    {
+     "id": "a526c1e88a6c",
+     "title": "2025년 자화상... 가구 4분의 1 월세 살고, 대졸자 2000만 명 시대",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3djFJQ3BId3JhbXVNMWdBNnNIQm14WTBOR0J6LWQ0dkluRWpYYWtoYUFuMmZDOWlJUm5jNi0wakpsQ3NpdkxVb0NSY1N6aUdKMmVXa21QNGZxdEluLXdscVJaZWtNMFl3R19sYW1OY0UzQzTSAXNBVV95cUxQd3YxSUNwSHdyYW11TTFnQTZzSEJteFkwTkdCei1kNHZJbkVqWGFraGFBbjJmQzlpSVJuYzYtMGpKbENzaXZMVW9DUmNTemlHSjJlV2ttUDRmcXRJbi13bHFSWmVrTTBZd0dfbGFtTmNFM0M0?oc=5",
+     "source": "한국일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-24T12:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "bcca970de79f",
+     "title": "빅뱅 대성, 알고 보니 1000억 부동산 보유…10년 만에 자산가치↑",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DOERKVkw4elhwcTRZVGpHLWxVOWM3Vjd2VVRsbTZtZ0FUZFRXSEZvV0YtOENNOWlkYkRHajZ2VGJoQ1UzdjZUOW1lVkhRTWE1Y3U3Qi1RczFvcEdIRTk1dnozd0dVdUx2WlJZ0gFwQVVfeXFMUGpzM3BZcTFaVWhoeUtjWFN2MVFRWFp2MGtLVFFSUWdJbUlIZ3N5TXlRYnA0VnNqNEFiSjdxVWNUVHkyRk1ja1p5UG5iN0JiNHNzZGNwQl9NQ1o5YUxYUGV5ZHRqYWRjSGFwaEh5cWd2Qw?oc=5",
+     "source": "머니투데이",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-24T11:13+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "faa1d6b87f4b",
+     "title": "내년부터 주택조합·리모델링도 공사비 검증 의무",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1X3U0Qk53eDZMdllrZ0h4Z0lEQ3pwUDY0MVJqeDA1R3ZJZ1cxZ1hNMXk5WVE4QTlibnJ2Q2c4SnFiU01TMkc3S2ZoMUJqd2tTNmZoS2pESWE0OENCZ3NScVJueXF1cExiVV9ObndYVHA5VWVYY3c?oc=5",
+     "source": "YTN",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-24T09:27+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "stocks",
+   "title": "주식",
+   "items": [
+    {
+     "id": "5e2aa382a0f7",
+     "title": "Europe’s earnings boom challenges Wall Street, but may prove fleeting",
+     "link": "https://www.investing.com/news/stock-market-news/europes-earnings-boom-challengeswall-street-but-may-prove-fleeting-5047123",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-24T15:12+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "유럽의 실적 호황이 월스트리트에 도전장을 내밀었지만, 일시적인 현상에 그칠 수 있습니다."
+    },
+    {
+     "id": "a9505a46c0b2",
+     "title": "Rubrik stock maintained at Buy by Goldman on growth outlook",
+     "link": "https://www.investing.com/news/analyst-ratings/rubrik-stock-maintained-at-buy-by-goldman-on-growth-outlook-93CH-5047112",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-24T15:02+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "Goldman, 성장 전망을 이유로 Rubrik 주식 '매수' 등급 유지"
+    },
+    {
+     "id": "a6ff8bd592ef",
+     "title": "\"불법 공매도 감시 강화\"…금감원·거래소 합동 TF 가동",
+     "link": "https://www.hankyung.com/article/2026112469336",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-24T14:22+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "22f3ac245acd",
+     "title": "올해 남은 한달… 주식 투자자들에게 중요한 것은 '이것'",
+     "link": "https://www.hankyung.com/article/202611234417i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-24T13:23+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "e3c164de68be",
+     "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+     "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+     "source": "CNBC",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-24T11:20+09:00",
+     "preview": "Investors piled back into the tech market, following the reinstatement of Nvidia CEO Jensen Huang by its board.",
+     "also": [],
+     "title_ko": "황 CEO의 복귀 후 아시아 엔비디아 관련주 급등, 대만은 가격 한계치에 근접"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI 툴",
+   "items": [
+    {
+     "id": "dea2f8e3c06e",
+     "title": "datasette-charts 0.2a0",
+     "link": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+     "source": "Simon Willison",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-24T13:24+09:00",
+     "preview": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you…",
+     "also": []
+    },
+    {
+     "id": "ef3b75a98f6d",
+     "title": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
+     "link": "https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26",
+     "source": "Hacker News",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-24T12:16+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "de36b121eed6",
+     "title": "Tech leaders are celebrating Jensen Huang’s return",
+     "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+     "source": "The Verge AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-24T07:35+09:00",
+     "preview": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and…",
+     "also": []
+    },
+    {
+     "id": "27065c561fbc",
+     "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+     "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+     "source": "TechCrunch AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-24T07:05+09:00",
+     "preview": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+     "also": []
+    },
+    {
+     "id": "1d0c151fefed",
+     "title": "OpenAI and Cisco introduce Shirudo",
+     "link": "https://openai.com/index/introducing-shirudo",
+     "source": "OpenAI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-24T06:20+09:00",
+     "preview": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "trend",
+   "title": "트렌드",
+   "items": [
+    {
+     "id": "a11484b54a98",
+     "title": "3개월만에 영어 실력을 키울 수 있었던 방법",
+     "link": "https://www.youtube.com/watch?v=TQ6-EhjTk80",
+     "source": "YouTube · 세바시 강연 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-24T05:00+09:00",
+     "preview": "변주영 인천글로벌캠퍼스운영재단 대표이사 | 세바시 2165회 ✻ 이 강연은 IGC 인천글로벌캠퍼스재단과 함께 합니다.",
+     "also": []
+    },
+    {
+     "id": "cf98d0ea1cde",
+     "title": "평범한 50대 부부가 은퇴 후 ‘월 500’ 만드는 법ㅣ지식인 클래스 EP.39 (이영주 박사 2부)",
+     "link": "https://www.youtube.com/watch?v=c0Z0ti5QZjU",
+     "source": "YouTube · 지식인사이드 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-23T20:22+09:00",
+     "preview": "오늘은 연금 전문가 이영주 대표님을 모시고 국민연금 수령액을 늘리는 방법부터 평생 안정적인 노후 소득을 만드는 연금 활용법까지 알아봤습니다. 영상이 유익했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요! #이영주 #지식인사이드 #지식인클래스 #국민연금 #연금수령 #추후납부 #…",
+     "also": []
+    },
+    {
+     "id": "4429ca064faf",
+     "title": "안녕하세요, 주언규입니다.",
+     "link": "https://www.youtube.com/watch?v=8EB9SbW1qV0",
+     "source": "YouTube · 주언규 (재테크)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-23T20:01+09:00",
+     "preview": "이 영상은 클로드 + 힉스필드로 얼굴만 바꿔서 만들었어요. 얼굴 공개가 부담스러워서, 모델이 없어서, 같이 찍을 사람이 없어서 미뤘다면 이제는 핑계가 안 돼요.",
+     "also": []
+    },
+    {
+     "id": "edece66988ce",
+     "title": "'고객과 경쟁하지 않는다'던 TSMC가 메모리회사 목줄을 잡게된 이유",
+     "link": "https://www.youtube.com/watch?v=eB7klZSrJQ4",
+     "source": "YouTube · 티타임즈TV (회사 트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-23T18:00+09:00",
+     "preview": "'고객과 경쟁하지 않는다'는 모토로 반도체 업계의 슈퍼 을이 된 TSMC. 그런데 이 TSMC가 메모리 반도체 업계의 목줄을 쥐고 흔들고 있습니다. 바로 HBM 때문이죠. HBM이 고도화하면서 HBM에 들어가는 부품 중 하나인 '베이스 다이'에 요구되는 성능도 점차 복잡해지고 있는데요.…",
+     "also": []
+    },
+    {
+     "id": "39a4fe00d691",
+     "title": "러시아가 한국을 절대 포기 못하는 결정적 이유 3가지 | Ep 책과사람 (이문영 교수 통합본)",
+     "link": "https://www.youtube.com/watch?v=Up3MDkREHko",
+     "source": "YouTube · 책과삶 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-23T18:00+09:00",
+     "preview": "안녕하세요.\"책과삶\" 입니다. 오늘은 이문영 교수님과 러시아 우크라이나 전쟁에 대해 알아봤습니다. 세상의 모든 감동과 지식을 전합니다. 구독과 좋아요 꾸욱 눌러주시면 더욱 열심히 좋은 영상으로 보답하겠습니다. 📖러시아-우크라이나 전쟁: 우아한 위선에서 정직한 야만의 시대로 00:00 오…",
+     "also": []
+    },
+    {
+     "id": "8df9b0c3f76f",
+     "title": "70년 된 의자가 새 가구보다 비싼 이유",
+     "link": "https://www.youtube.com/watch?v=9vDvdqurb5s",
+     "source": "YouTube · 큰손 노희영 (트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-22T14:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "e8aa49cdec54",
+     "title": "📖꼭 알아야 할 금리와 채권 필수 지식 완벽 정리! (하락장 대비에도 필요)",
+     "link": "https://www.youtube.com/watch?v=U-nntaIe2eE",
+     "source": "YouTube · 미키피디아",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-22T12:00+09:00",
+     "preview": "알듯 모를듯 하지만 꼭 알아야 하는 금리와 채권에 대해 이야기해봤습니다! ⚠️이 영상에는 [하나자산운용]의 유료 프로모션이 포함되어 있습니다. 🎉1Q 미국대표지수 4종 연말 매수 이벤트(~12/31) 👉 0:00 인트로 0:31 기본 개념과 미국채 8:21 기준금리 vs 실질금리 10:…",
+     "also": []
+    },
+    {
+     "id": "871d13e62024",
+     "title": "고전 문학 [이방인]으로 보는 삶의 목표를 잃었을 때 의미를 찾는 법 | 알베르 카뮈",
+     "link": "https://www.youtube.com/watch?v=lXkgTvUnVyA",
+     "source": "YouTube · 조승연의 탐구생활 (인문학)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-21T09:00+09:00",
+     "preview": "오늘은 가장 유명한 소설 첫 문장 중 하나로 알려진 알베르 카뮈의 '이방인'을 읽어보았습니다. 고전 문학을 지금 다시 읽어보며 삶의 목표에 대해서 다시 생각해 보았습니다 채널에 가입하여 혜택을 누려보세요. 배우는 즐거움이 있는 본격 취미 탐구 라이프 채널! 조승연의 탐구생활 🕵🏻‍♂️…",
+     "also": []
+    },
+    {
+     "id": "92c2cb8bb4a8",
+     "title": "자기 깎아내리는데 은근 매력있는 사람 특징 3가지",
+     "link": "https://www.youtube.com/watch?v=RyZq-7yB-xc",
+     "source": "YouTube · 희렌최널 Hirenze (말 잘하는 법)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-20T22:00+09:00",
+     "preview": "숨쉬듯 자기 비하를 하고, 심지어 회피형인데 주변 사람들이 그를 다 좋아합니다. 대체 무슨 매력일까요? 오늘은 전설의 미드 '프렌즈'속 인기 캐릭터 챈들러의 매력 분석과 그의 화법을 배워봅니다.",
+     "also": []
+    },
+    {
+     "id": "bdba57141072",
+     "title": "폴인이 말아주는 업사이드다운 챌린지📘",
+     "link": "https://www.youtube.com/watch?v=Y2jC76F0_MQ",
+     "source": "YouTube · 폴인 fol:in (전문가 인터뷰)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-18T17:00+09:00",
+     "preview": "1년에 단 한 번! 폴인 Plus 연간 구독 43% 할인✨ ❛어떤 일이 주어져도 결국 답을 찾아 해줄 내 일의 무기❜ 2027년에도 더 잘 일하고 싶은 당신을 위해 폴인이 특별한 연간 구독 혜택을 준비했어요! 폴인 Plus 연간 구독하고 43% 할인부터 인사이트북 2027, 폴인 커뮤니…",
+     "also": []
+    }
+   ]
+  }
+ ],
+ "problems": []
+}
