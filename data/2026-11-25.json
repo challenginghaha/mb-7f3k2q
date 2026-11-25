@@ -1,0 +1,357 @@
+{
+ "date": "2026-11-25",
+ "generated": "2026-11-25T13:58+09:00",
+ "boxes": [
+  {
+   "id": "realestate",
+   "title": "부동산",
+   "items": [
+    {
+     "id": "3eb01923e969",
+     "title": "“1억 받을 거 1억3천 드릴게요”…철거 빠른 토지주에 보상 인센티브 30% ‘척’",
+     "link": "https://www.mk.co.kr/news/realestate/12218004",
+     "source": "매일경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-25T13:41+09:00",
+     "preview": "정부, 공공주택 특별법 개정안 입법예고 3기 신도시 등 공급 속도 내려는 취지 이르면 내년 3월 9일부터 시행 예정 지장물 기본조사 협조 계약 체결 익일부터 4개월 이내 지장물 인..",
+     "also": []
+    },
+    {
+     "id": "755be4afa53f",
+     "title": "은행 가계대출 금리 3년 만에 5% 돌파…고정형 주담대 역대 최장 상승",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02630566645649328",
+     "source": "이데일리",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-25T12:00+09:00",
+     "preview": "지난달 은행 가계대출 금리(신규 취급액 기준)가 2년 11개월 만에 연 5%를 넘어섰다. 고정형 주택담보대출 금리는 역대 최장 기간인 13개월째 상승세를 이어갔다. 한국은행의 추가 기준금리 인상이 예상되는 가운데 가계의 이자 부담은 갈수록 커지고 있다.25일 한은이 발표한 ‘10월 금융…",
+     "also": []
+    },
+    {
+     "id": "b832e1e01584",
+     "title": "가계대출 금리 35개월 만에 5% 돌파… 주담대 14년 7개월 만에 최고",
+     "link": "https://biz.chosun.com/policy/policy_sub/2026/11/25/B4L23TAWOFFLTKCILNGYKGGPDM/",
+     "source": "조선비즈",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-25T12:00+09:00",
+     "preview": "10월 은행이 내준 가계 대출 금리가 5.02%로 전월보다 0.06%포인트 상승했다고 한국은행이 25일 밝혔다. 2023년 11월 이후 2년 11개월 만에 처음으로 5%를 돌파한 것이다. 7월과 8월 연속으로 기준금리가 오르면서 시장 금리와 함께 대출 금리도 상승하고 있는 것이다. 한국…",
+     "also": [
+      {
+       "source": "연합뉴스",
+       "title": "10월 가계대출 금리 5% 돌파…주담대 14년 7개월만에 최고",
+       "link": "https://www.yna.co.kr/view/AKR20261125080800002"
+      }
+     ]
+    },
+    {
+     "id": "822a8a49399d",
+     "title": "민형배 전남광주시장 \"반도체 팹 건설인력 1만호 공공임대 필요\"",
+     "link": "https://www.yna.co.kr/view/AKR20261125083400054",
+     "source": "연합뉴스",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-25T11:46+09:00",
+     "preview": "(전남광주=연합뉴스) 장덕종 기자 = 전남광주통합특별시가 1만명 이상으로 추산되는 호남 반도체 클러스터 건설인력 유입에 대비해 정주 여건 마련에...",
+     "also": []
+    },
+    {
+     "id": "5dc84b588b4d",
+     "title": "불광역 앞에 최고 45층·4092가구…재개발 정비구역 지정",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zSkZscWhQNGNGTTcycE82U3N5eXpRUmtvUGhNLUFON2k0Y1ZiUW00RWo3Wi03b2VZZ2otVGFNQ0k1dUc2NVh1QUJIb1dGQURGUF9oemYxSWFfUXdYT0NSUk04X0Y3dFFnY1l6SHprd9IBb0FVX3lxTE5zSkZscWhQNGNGTTcycE82U3N5eXpRUmtvUGhNLUFON2k0Y1ZiUW00RWo3Wi03b2VZZ2otVGFNQ0k1dUc2NVh1QUJIb1dGQURGUF9oemYxSWFfUXdYT0NSUk04X0Y3dFFnY1l6SHprdw?oc=5",
+     "source": "머니투데이",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-25T11:26+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "a976dc1e3fbd",
+     "title": "로봇이 현장 순찰하고 AI가 낙상 감지…LH, 스마트기술 선봬",
+     "link": "https://www.hankyung.com/article/2026112590406",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-25T11:15+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "8f4ef11df2c5",
+     "title": "이 대통령 \"부동산 시장, 이제 막바지... 강남 엄청 떨어져\"",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DbDJmUkVfc3pQMndFamVQSkF0TThzWWpFclJ2akZYNkk1MjZaQ0FQbjRoZEhqU2FibWFiVzJINjI0dHp1ZFhhT1hnbU9HQU4wZ3IyQXVTN2FFUVJqZ2FrRl9PQkNsTzl2UmRhSnBn0gFzQVVfeXFMTTRaRDcyS2JObnFlWENnU19yQzhjYlhuQjUxbFFsZV9JTnpmQUlEbFExSUtKcDFNYWVoRURhZXhyWnQ5UTBqdmdoVkNJM2YtRTNyMzNoSHMyQUh4OTNXY0ZFZGlpNVhRUG02T3h0akdZelAwRQ?oc=5",
+     "source": "한국일보",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-24T16:19+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "5234a1592d3f",
+     "title": "이 대통령 \"부동산시장 조정 예측...'미분양' 불안 해소해야\"",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wVTNfSW8tdk5aMFdxb2V3UHMzRG1jM0Vrb3kxUHV5RTJFMGEzSVM2UVllQUw3UXZWZU5BakJyTmZzM2NVTUZMOVB0aUdpRzRJbmZNa1BlX1FNQ2dPYzlnSm5Xa216THVLY242NDBJRXpua2toWlE?oc=5",
+     "source": "YTN",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-24T14:24+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "stocks",
+   "title": "주식",
+   "items": [
+    {
+     "id": "3d792ef3ede3",
+     "title": "Commerce Bancshares SVP sells $69,049 in company stock",
+     "link": "https://www.investing.com/news/insider-trading-news/commerce-bancshares-svp-sells-69049-in-company-stock-93CH-5049693",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-25T13:31+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "Commerce Bancshares SVP, 회사 주식 69,049달러어치 매도"
+    },
+    {
+     "id": "f70b357c027f",
+     "title": "RingCentral accounting chief sells $75,292 in common stock",
+     "link": "https://www.investing.com/news/insider-trading-news/ringcentral-accounting-chief-sells-75292-in-common-stock-93CH-5049692",
+     "source": "Investing.com",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-25T13:30+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "RingCentral 회계 책임자, 보통주 75,292달러어치 매각"
+    },
+    {
+     "id": "06b931fd4c68",
+     "title": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
+     "link": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+     "source": "CNBC",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-25T12:52+09:00",
+     "preview": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled in…",
+     "also": [],
+     "title_ko": "월스트리트 AI 매도 여파가 아시아 기술주 전반에 미치면서 소프트뱅크 주가 15% 하락",
+     "preview_ko": "일본 반도체주가 폭락하면서 아시아 기술주가 수요일에 급락했습니다. 인공지능(AI) 관련 거래에 대한 우려가 다시 고조되면서…"
+    },
+    {
+     "id": "c5933bb4feb6",
+     "title": "\"외국인 통장에 15.8조 꽂힌다\"…삼전닉스 특별배당에 '긴장'",
+     "link": "https://www.hankyung.com/article/202611258879i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-25T10:44+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "1d5a20104b5a",
+     "title": "[개장시황] 젠슨황 복귀發 랠리 하루만에… 코스피 '매도 사이드카' 발동",
+     "link": "https://www.hankyung.com/article/202611258688i",
+     "source": "한국경제",
+     "lang": "ko",
+     "kind": "article",
+     "published": "2026-11-25T09:37+09:00",
+     "preview": "",
+     "also": []
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI 툴",
+   "items": [
+    {
+     "id": "dd3a17fb7bd1",
+     "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+     "link": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+     "source": "Hacker News",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-25T13:03+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "제미니가 '반짝반짝 작은 별' 가사를 알려주지 않았어요."
+    },
+    {
+     "id": "05f887d0221c",
+     "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+     "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+     "source": "TechCrunch AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-25T09:12+09:00",
+     "preview": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a gi…",
+     "also": [],
+     "title_ko": "예일대 손넨펠드 교수: 엔비디아는 미국의 산업적 위력에 '해를 끼치는' 존재이지 챔피언이 아니다",
+     "preview_ko": "예일 대학교의 제프리 존넨펠트 교수는 월요일 시장이 환영했던 젠슨 황의 백악관이 지지하는 엔비디아 CEO 및 이사회 멤버 복귀가 큰..."
+    },
+    {
+     "id": "8caf92805426",
+     "title": "Three LLM inflection points in twelve months",
+     "link": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+     "source": "Simon Willison",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-25T08:02+09:00",
+     "preview": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in t…",
+     "also": [],
+     "title_ko": "12개월 만에 LLM의 3가지 전환점",
+     "preview_ko": "저는 몇 주 전 AI 엔지니어 코드 서밋에서 기조연설을 했습니다. 이 기조연설은 AI의 역사에서 세 가지 중요한 전환점이 있었다는 생각에 기반을 두고 있었습니다."
+    },
+    {
+     "id": "32af257829de",
+     "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+     "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+     "source": "The Verge AI",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-25T05:52+09:00",
+     "preview": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative t…",
+     "also": [],
+     "title_ko": "젠슨 황, 엔비디아 직원들에게 트럼프가 자신을 다시 고용했다는 것은 '사실이 아니다'라고 말했다고 전해짐",
+     "preview_ko": "Nvidia의 CEO인 젠슨 황(Jensen Huang)은 회사로 복귀한 후 첫 전사 회의에서 직원들에게 사과하며, 동시에 다음과 같은 서사에서 자신을 거리를 두려고 시도했습니다."
+    },
+    {
+     "id": "16565a3f5dc0",
+     "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+     "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+     "source": "Hugging Face",
+     "lang": "en",
+     "kind": "article",
+     "published": "2026-11-25T01:34+09:00",
+     "preview": "",
+     "also": [],
+     "title_ko": "Microduck 장애물 회피: Isaac Lab 및 Newton을 사용한 Sim2Real 워크플로"
+    }
+   ]
+  },
+  {
+   "id": "trend",
+   "title": "트렌드",
+   "items": [
+    {
+     "id": "2d86ca03f1f4",
+     "title": "한국 교육은 망했다? 자칭 '뽀로로' 자퇴생이 말하는 자퇴 후 현실",
+     "link": "https://www.youtube.com/watch?v=sKBOwWR9oGw",
+     "source": "YouTube · 세바시 강연 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-25T12:00+09:00",
+     "preview": "자퇴하고 1년, 오후 4시에 일어나 새벽 3시에 잠드는 날들이었습니다. 그날도 침대에 누워 유튜브를 넘기다 '알쓸범잡' 영상 하나를 보게 됐어요. \"범죄자를 감옥에 가두는 이유는, 세상 모든 사람에게 가장 평등하게 주어진 '이것'을 빼앗기 위해서다.\" 그 한마디에 망치로 머리를 맞은 것…",
+     "also": []
+    },
+    {
+     "id": "0bc335763848",
+     "title": "한국인 95%가 시킨대로 살았는데도 불행한 이유ㅣ지식인 클래스 EP.40 (이현정 교수 1부)",
+     "link": "https://www.youtube.com/watch?v=KVitnN56K2k",
+     "source": "YouTube · 지식인사이드 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-24T19:26+09:00",
+     "preview": "오늘은 서울대학교 인류학과 이현정 교수님을 모시고 헤르만 헤세의 『데미안』의 진짜 해석을 살펴보며, 세상이 정해놓은 기준에서 벗어나 나만의 삶을 살아가는 방법에 대해 알아봤습니다. 영상이 유익했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요! #이현정 #지식인사이드 #지식인클…",
+     "also": []
+    },
+    {
+     "id": "242c96df82c4",
+     "title": "\"혼자여도 즐거워요\" 은퇴 후 반드시 해야 할 노후 살리는 취미 1위ㅣEp. 책과사람 204 (하은 작가)",
+     "link": "https://www.youtube.com/watch?v=lEeMHI5xcCo",
+     "source": "YouTube · 책과삶 (지식)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-24T18:00+09:00",
+     "preview": "안녕하세요.\"책과삶\" 입니다. 오늘은 하은 작가님과 은퇴 이후의 삶에 대해 알아봤습니다. 세상의 모든 감동과 지식을 전합니다. 구독과 좋아요 꾸욱 눌러주시면 더욱 열심히 좋은 영상으로 보답하겠습니다. 📖 [봄은 고양이로다] - 예스24: - 교보문고: - 알라딘: #책과삶 #책과사람 #…",
+     "also": []
+    },
+    {
+     "id": "1ef077b2a884",
+     "title": "한 달에 1억 팔아도 남는 게 없는 자영업의 현실 | 쌤쌤쌤 김훈 오너셰프",
+     "link": "https://www.youtube.com/watch?v=KxFSP-ROJDc",
+     "source": "YouTube · 주언규 (재테크)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-24T18:00+09:00",
+     "preview": "오늘 영상을 통해 보신 것처럼, 누구나 부러워하는 성과 뒤에는 반드시 그들만의 '공식'이 있습니다. 하지만 우리는 그 공식을 '운'에 맡기지 않습니다. 8,000만 개의 썸네일 빅데이터와 3,000개 이상의 실제 채널 성공 사례를 분석해 누구나 실행 가능한 시스템으로 만들었습니다. 구독…",
+     "also": []
+    },
+    {
+     "id": "32928a992f2d",
+     "title": "AI 만드는 앤트로픽과 앤트로픽의 손·발을 만드는 회사만 결국엔 남는다 (박종천 지란지교소프트 CAIO)",
+     "link": "https://www.youtube.com/watch?v=aCaEjft7vVk",
+     "source": "YouTube · 티타임즈TV (회사 트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-24T18:00+09:00",
+     "preview": "박종천 지란지교소프트 CAIO는 앤트로픽이 향후 전 세계 대장주가 될 수 있다고 전망합니다. 앤트로픽은 AI 모델을 만드는 회사일 뿐 아니라 AI를 가장 잘 쓰는 회사로도 유명합니다. 앤트로픽이 사용하는 AI 토큰비용이 이미 직원들의 총 연봉에 육박한다고 하구요, 그들이 제품을 내놓는…",
+     "also": []
+    },
+    {
+     "id": "8df9b0c3f76f",
+     "title": "70년 된 의자가 새 가구보다 비싼 이유",
+     "link": "https://www.youtube.com/watch?v=9vDvdqurb5s",
+     "source": "YouTube · 큰손 노희영 (트렌드)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-22T14:00+09:00",
+     "preview": "",
+     "also": []
+    },
+    {
+     "id": "e8aa49cdec54",
+     "title": "📖꼭 알아야 할 금리와 채권 필수 지식 완벽 정리! (하락장 대비에도 필요)",
+     "link": "https://www.youtube.com/watch?v=U-nntaIe2eE",
+     "source": "YouTube · 미키피디아",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-22T12:00+09:00",
+     "preview": "알듯 모를듯 하지만 꼭 알아야 하는 금리와 채권에 대해 이야기해봤습니다! ⚠️이 영상에는 [하나자산운용]의 유료 프로모션이 포함되어 있습니다. 🎉1Q 미국대표지수 4종 연말 매수 이벤트(~12/31) 👉 0:00 인트로 0:31 기본 개념과 미국채 8:21 기준금리 vs 실질금리 10:…",
+     "also": []
+    },
+    {
+     "id": "871d13e62024",
+     "title": "고전 문학 [이방인]으로 보는 삶의 목표를 잃었을 때 의미를 찾는 법 | 알베르 카뮈",
+     "link": "https://www.youtube.com/watch?v=lXkgTvUnVyA",
+     "source": "YouTube · 조승연의 탐구생활 (인문학)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-21T09:00+09:00",
+     "preview": "오늘은 가장 유명한 소설 첫 문장 중 하나로 알려진 알베르 카뮈의 '이방인'을 읽어보았습니다. 고전 문학을 지금 다시 읽어보며 삶의 목표에 대해서 다시 생각해 보았습니다 채널에 가입하여 혜택을 누려보세요. 배우는 즐거움이 있는 본격 취미 탐구 라이프 채널! 조승연의 탐구생활 🕵🏻‍♂️…",
+     "also": []
+    },
+    {
+     "id": "92c2cb8bb4a8",
+     "title": "자기 깎아내리는데 은근 매력있는 사람 특징 3가지",
+     "link": "https://www.youtube.com/watch?v=RyZq-7yB-xc",
+     "source": "YouTube · 희렌최널 Hirenze (말 잘하는 법)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-20T22:00+09:00",
+     "preview": "숨쉬듯 자기 비하를 하고, 심지어 회피형인데 주변 사람들이 그를 다 좋아합니다. 대체 무슨 매력일까요? 오늘은 전설의 미드 '프렌즈'속 인기 캐릭터 챈들러의 매력 분석과 그의 화법을 배워봅니다.",
+     "also": []
+    },
+    {
+     "id": "bdba57141072",
+     "title": "폴인이 말아주는 업사이드다운 챌린지📘",
+     "link": "https://www.youtube.com/watch?v=Y2jC76F0_MQ",
+     "source": "YouTube · 폴인 fol:in (전문가 인터뷰)",
+     "lang": "ko",
+     "kind": "video",
+     "published": "2026-11-18T17:00+09:00",
+     "preview": "1년에 단 한 번! 폴인 Plus 연간 구독 43% 할인✨ ❛어떤 일이 주어져도 결국 답을 찾아 해줄 내 일의 무기❜ 2027년에도 더 잘 일하고 싶은 당신을 위해 폴인이 특별한 연간 구독 혜택을 준비했어요! 폴인 Plus 연간 구독하고 43% 할인부터 인사이트북 2027, 폴인 커뮤니…",
+     "also": []
+    }
+   ]
+  }
+ ],
+ "problems": []
+}
